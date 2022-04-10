@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<!-- These contains the form that has to be shown -->
+<!--  Form used to edit userEducation -->
+<div class="addNewUserEducation basic-form col-sm-8">
+	<form role="form" class="userEducationForm">
+
+		<div class="form-group userEducationIdGrp" style="display: none">
+			<input type="text" class="form-control userEducationId"
+				name="educationId" value=' + educationObj.educationId + '>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userEducationOrganisationGrp">
+					<label for="userEducationOrganisation">School:</label> <input 
+						type="text" class="form-control typeahead userEducationOrganisation" 
+						required placeholder="Enter School Name" 
+						name="organisationName" 
+						value="' + ((checkEmpty(educationObj.organisationName))? "" : educationObj.organisationName) + '">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userEducationDegreeGrp">
+					<label for="userEducationDegree">Degree:</label> <input type="text" 
+						class="form-control typeahead userEducationDegree" 
+						placeholder="Enter Degree" name="degreeValue" 
+						value="' + ((checkEmpty(educationObj.degreeValue))? "" : educationObj.degreeValue) + '">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userEducationMajorSubjectGrp">
+					<label for="userEducationMajorSubject">Field of Study:</label>
+					<input type="text" class="form-control userEducationMajorSubject"  
+						placeholder="Add Field of Study" name="majorSubject" value="' + ((checkEmpty(educationObj.majorSubject))? "" : educationObj.majorSubject) +'">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userEducationStartDateGrp">
+					<label for="userEducationStartDate">Start Date:</label> <input 
+						type="date" class="form-control userEducationStartDate" 
+						name="startDate" 
+						value=' + ((checkEmpty(educationObj.startDate))? "" : educationObj.startDate) + '>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userEndDate">
+					<label for="userEndDate">End Date:</label> <input type="date" 
+						class="form-control userEducationEndDate" name="endDate" 
+						value=' + ((checkEmpty(educationObj.endDate))? "" : educationObj.endDate) + '>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userEducationDescriptionGrp">
+					<label for="userEducationDescription">Description:</label>
+					<textarea class="form-control userEducationDescription" 
+						placeholder="Add Description" name="description">' + ((checkEmpty(educationObj.description))? "" : educationObj.description) +'</textarea>
+				</div>
+			</div>
+		</div>
+		<div class="form-group text-center">
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center cancelUserEducation">
+				Cancel<i style="margin-left: 4px; margin-right: 4px; color:rgb(190, 35, 35)" 
+					class="fa fa-remove"></i>
+			</button>
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center saveUserEducation">
+				Save<i style="margin-left: 4px; margin-right: 4px; color:rgb(54, 207, 120)" 
+					class="fa fa-check"></i>
+			</button>
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center deleteUserEducation">
+				Remove<i style="margin-left: 4px; margin-right: 4px; color:rgb(236, 244, 216)" 
+					class="fa fa-trash-o"></i>
+			</button>
+		</div>
+	</form>
+</div>
+
+
+<!--  Form used to add new UserEducation -->
+<div class="addNewUserEducation basic-form col-sm-8">
+	<form role="form" class="userEducationForm">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userEducationOrganisationGrp">
+					<label for="userEducationOrganisation">School:</label> <input 
+					required type="text" class="form-control typeahead userEducationOrganisation"  
+						placeholder="Enter School Name" name="organisationName">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userEducationDegreeGrp">
+					<label for="userEducationDegree">Degree:</label> <input type="text" 
+						class="form-control typeahead userEducationDegree" 
+						placeholder="Enter Degree" name="degreeValue">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userEducationMajorSubjectGrp">
+					<label for="userEducationMajorSubject">Field of Study:</label>
+					<input type="text" class="form-control userEducationMajorSubject"  
+						placeholder="Add Field of Study" name="majorSubject" >
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userEducationStartDateGrp">
+					<label for="userEducationStartDate">Start Date:</label> <input  
+						type="date" class="form-control userEducationStartDate" 
+						name="startDate">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userEducationEndDateGrp">
+					<label for="userEducationEndDate">End Date:</label> <input 
+						type="date" class="form-control userEducationEndDate" 
+						name="endDate">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userEducationDescriptionGrp">
+					<label for="userEducationDescription">Description:</label>
+					<textarea class="form-control userEducationDescription"  
+						placeholder="Add Description" name="description"></textarea>
+				</div>
+			</div>
+		</div>
+		<div class="form-group text-center">
+			<button type="button" style="margin-left: 10px; margin-right: 10px"   
+				class="btn btn-primary text-center cancelUserEducation">
+				Cancel<i style="margin-left: 4px; margin-right: 4px; color:rgb(190, 35, 35)" 
+					class="fa fa-remove"></i>
+			</button>
+			<button type="submit" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center saveUserEducation">
+				Save<i style="margin-left: 4px; margin-right: 4px; color:rgb(54, 207, 120)" 
+					class="fa fa-check"></i>
+			</button>
+		</div>
+
+	</form>
+</div>
+

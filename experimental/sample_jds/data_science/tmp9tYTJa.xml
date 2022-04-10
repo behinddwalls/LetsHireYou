@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>true</CurrentJobIsMgmt>
+  <HighestManagementScore>25</HighestManagementScore>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Lead Data Scientist</MainJobTitle>
+    <JobTitle>Lead Data Scientist</JobTitle>
+  </JobTitles>
+  <RequiredSkills>
+    <RequiredSkill>Massive Data Sets</RequiredSkill>
+  </RequiredSkills>
+  <OtherSkills>
+    <OtherSkill>ALGORITHMS</OtherSkill>
+    <OtherSkill>BAYESIAN</OtherSkill>
+    <OtherSkill>BUSINESS MANAGEMENT</OtherSkill>
+    <OtherSkill>CLUSTERING</OtherSkill>
+    <OtherSkill>DATA MINING</OtherSkill>
+    <OtherSkill>DATA QUALITY</OtherSkill>
+    <OtherSkill>DEPLOYMENT</OtherSkill>
+    <OtherSkill>MACHINE LEARNING</OtherSkill>
+    <OtherSkill>MATHEMATICS</OtherSkill>
+    <OtherSkill>NEURAL</OtherSkill>
+    <OtherSkill>NEURAL NETS</OtherSkill>
+    <OtherSkill>OPERATIONS</OtherSkill>
+    <OtherSkill>OPTIMIZATION</OtherSkill>
+    <OtherSkill>PYTHON</OtherSkill>
+    <OtherSkill>RANDOM FORESTS</OtherSkill>
+    <OtherSkill>RISK ASSESSMENT</OtherSkill>
+    <OtherSkill>SAN</OtherSkill>
+    <OtherSkill>SAS</OtherSkill>
+    <OtherSkill>Serial Attached SCSI</OtherSkill>
+    <OtherSkill>STATISTICS</OtherSkill>
+    <OtherSkill>STORAGE AREA NETWORK</OtherSkill>
+  </OtherSkills>
+  <Taxonomies>
+    <Taxonomy type="best fit">
+      <ParentTaxonomyId>10</ParentTaxonomyId>
+      <ParentTaxonomyName>Information Technology</ParentTaxonomyName>
+      <SubTaxonomyId>553</SubTaxonomyId>
+      <SubTaxonomyName>Big Data</SubTaxonomyName>
+    </Taxonomy>
+    <Taxonomy type="second best fit">
+      <ParentTaxonomyId>5</ParentTaxonomyId>
+      <ParentTaxonomyName>Engineering</ParentTaxonomyName>
+      <SubTaxonomyId>298</SubTaxonomyId>
+      <SubTaxonomyName>Surveying</SubTaxonomyName>
+    </Taxonomy>
+  </Taxonomies>
+  <Education>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>Computer Science,Mathematics,Applied Statistics,Science,
+      Technology,Engineering</DegreeName>
+    </Degree>
+  </Education>
+  <MinimumYears>3</MinimumYears>
+  <MaximumYears>5</MaximumYears>
+  <RequiredDegree>masters</RequiredDegree>
+  <TypeOfSource>stJobOrder</TypeOfSource>
+  <SourceText>The Lead Data Scientist will work with teams addressing statistical, machine learning and data mining problems in an applied research environment. In this role, you will lead the deployment of modern machine learning and statistical methods for finding structure in large data sets, such as CART and Random Forests, clustering and classification algorithms, Bayesian models, neural nets, and so on.
+
+The Lead Data Scientist will contribute to cross-disciplinary teams on applied research projects, typically involving large data sets. These teams will involve statisticians, computer scientists, engineers, and other researchers, and work in conjunction with partners in GE business units. Potential application areas include remote monitoring and diagnostics, financial portfolio risk assessment, and computational biology.
+
+In this role you will:
+
+Work in technical teams in application and deployment of data mining methods
+Perform exploratory, and targeted data analyses
+Assist in determining technical approaches to be used on major challenges; identify methodologies needed
+Oversee application of such methodologies (e.g. neural nets, CART, Bayesian methods, etc.) on monitoring, classification, operations optimization, and financial risk projects
+Ensure proper definition of data needs, evaluation of data quality, and critique appropriate statistical analyses; for critical projects, perform needed analyses
+Effectively communicate technical analyses and results to business management
+Qualifications/Requirements
+Master&apos;s Degree in Computer Science, Mathematics, Applied Statistics OR in &quot;STEM&quot; Majors (Science, Technology, Engineering and Math)
+Minimum of 3 years of experience in Massive Data Sets (Big Data)
+A minimum of 5 years of experience with analytics software tools and packages like SAS, R and Python
+
+Eligibility Requirements:
+Ability and willingness to work out of an office located in San Ramon, CA
+Ability and willingness to travel to various GE businesses and customers around 30% of your time
+Additional Eligibility Qualifications	GE will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a background investigation and drug screen.
+Desired Characteristics
+PhD. in Computer Science, Mathematics, Applied Statistics OR in &quot;STEM&quot; Majors (Science, Technology, Engineering and Math)
+Experience in leadership within professional associations
+Experience in performing on-demand, exploratory, and targeted data analyses to obtain insights from data
+Experience to apply theoretical knowledge to solve industrial problems
+Experience with integrated Big Data programming environments and Competency in major analytics software packages and programming environments (e.g. Hadoop / Map-Reduce, Mahout; Python, R, Java etc. in Big data paradigms)</SourceText>
+  <RevisionDate>2015-01-09</RevisionDate>
+</SovrenData>

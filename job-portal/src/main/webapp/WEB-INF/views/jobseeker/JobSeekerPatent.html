@@ -1,0 +1,16 @@
+<!-- This represents all the data for one patent that needs to be shown -->
+
+<div class="col-lg-10 col-lg-offset-0 work-experience">
+	<div class="col-sm-11 col-xs-10 pull-left">
+		<input class ="userPatentId" type="hidden" name="patentId" value=' + patentObj.patentId + ' >		
+		<h5 class="text-capitalize">'+ ((checkEmpty(patentObj.patentTitle))?"":patentObj.patentTitle) +'</h5>
+		<h4 class="text-capitalize">'+ ((checkEmpty(patentObj.patentStatus))?"":patentObj.patentStatus) + "&nbsp;&nbsp;&nbsp;Patent No.: "+ ((checkEmpty(patentObj.patentApplicationNumber))?"":patentObj.patentApplicationNumber) +'</h4>
+		<h4 class="text-capitalize">' +  ((checkEmpty(patentObj.patentOffice))?"":patentObj.patentOffice)+ "    "+((checkEmpty(patentObj.patentFillingDate))?"":("&nbsp;&nbsp;&nbsp;"+patentObj.patentFillingDate)) + '</h4>
+		<a href=' + ((checkEmpty(patentObj.patentUrl))?"":patentObj.patentUrl) + '>'+((checkEmpty(patentObj.patentUrl))?"":patentObj.patentUrl)+'</a>		
+		<p>'+ ((checkEmpty(patentObj.patentDescription))?"":patentObj.patentDescription) +'</p>			
+	</div>
+	<div class="pull-left col-sm-1 col-xs-2"
+		style="color: grey; font-size: 1.2em;">
+		<i class="fa fa-pencil editUserPatent"></i>
+	</div>
+</div>

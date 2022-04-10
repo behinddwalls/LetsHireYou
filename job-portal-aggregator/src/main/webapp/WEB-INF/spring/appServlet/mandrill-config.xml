@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util" xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans     
+        http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context-4.0.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd
+        http://www.springframework.org/schema/util 
+        http://www.springframework.org/schema/util/spring-util-4.0.xsd 
+        http://www.springframework.org/schema/aop  
+        http://www.springframework.org/schema/aop/spring-aop-4.0.xsd">
+
+	<bean id="defaultMandrillConfiguration"
+		class="com.cribbstechnologies.clients.mandrill.util.MandrillConfiguration">
+		<property name="apiVersion" value="1.0" />
+		<property name="baseURL" value="https://mandrillapp.com/api" />
+		<property name="apiKey" value="BXweN6EodMEYBWLsniouWw" />
+	</bean>
+
+	<bean id="defaultObjectMapper" class="com.fasterxml.jackson.databind.ObjectMapper" />
+	<bean id="apacheHttpClient" factory-bean="jobPortalHttpClient"
+		factory-method="getClient" />
+
+	<bean id="mandrillRESTRequest"
+		class="com.cribbstechnologies.clients.mandrill.request.MandrillRESTRequest"
+		scope="request">
+		<property name="config" ref="defaultMandrillConfiguration" />
+		<property name="httpClient" ref="apacheHttpClient" />
+		<property name="objectMapper" ref="defaultObjectMapper" />
+		<aop:scoped-proxy proxy-target-class="true" />
+	</bean>
+
+
+	<!-- Request Classes -->
+
+	<bean id="messagesRequest"
+		class="com.cribbstechnologies.clients.mandrill.request.MandrillMessagesRequest">
+		<property name="request" ref="mandrillRESTRequest" />
+	</bean>
+	<bean id="tagsRequest"
+		class="com.cribbstechnologies.clients.mandrill.request.MandrillTagsRequest">
+		<property name="request" ref="mandrillRESTRequest" />
+	</bean>
+	<bean id="templatesRequest"
+		class="com.cribbstechnologies.clients.mandrill.request.MandrillTemplatesRequest">
+		<property name="request" ref="mandrillRESTRequest" />
+	</bean>
+	<bean id="urlsRequest"
+		class="com.cribbstechnologies.clients.mandrill.request.MandrillUrlsRequest">
+		<property name="request" ref="mandrillRESTRequest" />
+	</bean>
+	<bean id="usersRequest"
+		class="com.cribbstechnologies.clients.mandrill.request.MandrillUsersRequest">
+		<property name="request" ref="mandrillRESTRequest" />
+	</bean>
+
+</beans>

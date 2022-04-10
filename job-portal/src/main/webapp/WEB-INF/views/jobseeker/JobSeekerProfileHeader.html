@@ -1,0 +1,10 @@
+<!-- This represents all the data for one patent that needs to be shown -->
+
+<div class="col-lg-10 col-lg-offset-0 work-experience">
+	<div class="col-sm-11 col-xs-10 pull-left">				
+		<h2>'+ ((checkEmpty(userBasicObj.firstName))?"":userBasicObj.firstName) + ((checkEmpty(userBasicObj.lastName))?"":("&nbsp;"+userBasicObj.lastName))+'</h2>
+		<h3 class="text-capitalize">'+ ((checkEmpty(userBasicObj.profileHeadline))?"<a class='editUserProfileHeader'>Please Add Profile Headline</a>":userBasicObj.profileHeadline) + " | " + ((checkEmpty(userBasicObj.address))?"<a class='editUserProfileHeader'>Please Add Location</a>":userBasicObj.address) +'</h3>
+		<h6 class="text-capitalize">'+"<a class='editUserProfileHeader'>please add ctc</a>"+'</h6>				
+		<p>'+ ((checkEmpty(userBasicObj.summary))?"<a class='editUserProfileHeader'>Please Add Summary</a>":userBasicObj.summary) +'</p>			
+	</div>	
+</div>

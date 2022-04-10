@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<div class="basic-form col-sm-8">
+	<form role="form" class="userProfileHeaderForm">
+		<div class="row">			
+			<div class="col-sm-6">
+				<div class="form-group userNameGrp">
+					 <input 
+						type="text" class="form-control userName" 
+						placeholder="First Name" name="firstName" value="' + ((checkEmpty(userBasicObj.firstName))?"":userBasicObj.firstName) + '">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userNameGrp">
+					 <input 
+						type="text" class="form-control userName" 
+						placeholder="Last Name" name="lastName" value="' + ((checkEmpty(userBasicObj.lastName))?"":userBasicObj.lastName) + '">
+				</div>
+			</div>				
+		</div>
+		<div class="row">
+			<div class="col-sm-4">
+				<div class="form-group userCTCGrp">
+					 <input 
+						type="text" class="form-control userCTC" 
+						placeholder="CTC in Lakh/annum" name="ctc" value="' + ((checkEmpty(userBasicObj.ctc))?"":userBasicObj.ctc) + '">
+				</div>
+			</div>
+			<div class="col-sm-8">
+				<div class="form-group hideCtcGrp">
+					<p>Your salary will be kept private and is only to serve you better.</p><br>
+				</div>
+			</div>			
+		</div>
+		<div class="row">
+			<div class="col-sm-8">
+				<div class="form-group userProfileHeadLineGrp">
+					 <input 
+						type="text" class="form-control userProfileHeadLine" 
+						placeholder="Headline" name="profileHeadline" value="' + ((checkEmpty(userBasicObj.profileHeadline))?"":userBasicObj.profileHeadline) + '">
+				</div>
+			</div>		
+		</div>		
+		<div class="row">
+			<div class="col-sm-8">
+				<div class="form-group userAddressGrp">
+					<input type="text" 
+						class="form-control userAddress" name="address" 
+						placeholder="Location" value=' + ((checkEmpty(userBasicObj.address))?"":userBasicObj.address) + '>
+				</div>
+			</div>
+
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userProfileSummaryGrp">					
+					<textarea class="form-control userProfileSummary" 
+						placeholder="Summary" name="summary">' + ((checkEmpty(userBasicObj.summary))?"":userBasicObj.summary) + '</textarea>
+				</div>
+			</div>
+		</div>
+		<div class="form-group text-center">
+			<button type="button" style="margin-left: 10px; margin-right: 10px"  
+				class="btn btn-primary text-center cancelUserProfileHeader">
+				Cancel<i style="margin-left: 4px; margin-right: 4px; color:rgb(190, 35, 35)" 
+					class="fa fa-remove"></i>
+			</button>
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center saveUserProfileHeader">
+				Save<i style="margin-left: 4px; margin-right: 4px; color:rgb(54, 207, 120)" 
+					class="fa fa-check"></i>
+			</button>			
+		</div>		
+	</form>
+</div>

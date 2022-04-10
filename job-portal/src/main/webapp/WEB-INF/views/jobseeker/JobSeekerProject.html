@@ -1,0 +1,16 @@
+<!-- This represents all the data for one project that needs to be shown -->
+
+<div class="col-lg-10 col-lg-offset-0 work-experience">
+	<div class="col-sm-11 col-xs-10 pull-left">
+		<input class ="userProjectId" type="hidden" name="projectId" value=' + projectObj.projectId + ' >
+		<h5>'+ ((checkEmpty(projectObj.projectName))? "": projectObj.projectName) +'</h5>
+		<div class="clearfix"></div>
+		<h4>' + ((checkEmpty(projectObj.projectDate))? "" : projectObj.projectDate)  + '</h4>		
+		<a href="' + ((checkEmpty(projectObj.projectURL))? "": projectObj.projectURL) + '">'+((checkEmpty(projectObj.projectURL))? "": projectObj.projectURL)+'</a>
+		<p>'+ ((checkEmpty(projectObj.projectDescription))?"" : projectObj.projectDescription) +'</p>		
+	</div>
+	<div class="pull-left col-sm-1 col-xs-2"
+		style="color: grey; font-size: 1.2em;">
+		<i class="fa fa-pencil editUserProject"></i>
+	</div>
+</div>

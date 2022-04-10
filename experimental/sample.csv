@@ -1,0 +1,337 @@
+,description,education,min_exp,skills,taxonomy,title
+0,"data scientist
+
+description
+
+bmc software is looking for a data analytics scientist for our performance andamp; availability truesight organization. the data scientist will provide in-depth market, customer and product insights while working in a cross-functional team environment to add value to the business.  by actively participating in strategic discussions the data scientist will develop insights and analytics models to grow the truesight business.
+primary job responsibilities
+design applications targeted at analzing large volumes of performance and operations data enabling customers to make key business decisions.
+create algorithms that analyze high-volume, unstructured data sources to build models for understanding application peformance and availability.
+create visualizations of structured and unstructured performance and operations data for internal and external consumption
+collaborate with other architects, developers, and other functional team members
+
+qualifications
+
+familiarity with natural language processing, machine learning, predictive modelling, graph analysis with practical experience with at least one of the disciplines mentioned.
+ability to program preferably in multiple programming languages such as java, r, sas, python, matlab, pig or sql
+ability to create examples, prototypes, demonstrations coupled with an ability to communicate findings to both business stakeholders and the executive leadership team
+ability to track down complex data and engineering issues, evaluate different algorithmic approaches, and analyze data to solve problem
+ability to extract and query very large data sets using java, python, sql, pig and successively refines applicable parameters to accurately express data trends or anomalies.
+3+ years experience as a data scientist working on big data and predictive analytics (bonus points for experience in performance data, events, capacity planning etc.)
+10+ years experience in designing and developing software products with a general-purpose language such as python, c++, java etc.
+	masters or equivalent experience in a quantitative field (computer science, statistics, mathematics, bioinformatics etc.)
+experience in working on saas products or large enterprise products is highly desirable
+effective leadership skills
+excellent verbal and written communication skills
+ability to work effectively with customers.",['masters'],3.0,"[u'operations', u'leadership skills', u'sql', u'pig', u'sas', u'machine learning', u'switch capacity', u'statistics', u'java', u'saas', u'serial attached scsi', u'matlab', u'natural language processing', u'mathematics', u'prototype', u'unstructured data', u'bmc', u'python', u'software as a service', u'bioinformatics', u'natural', u'c++', u'prototypes', u'data sources', u'algorithms', u'capacity planning', u'quantitative', u'excellent verbal and written communication skills', u'data analytics', u'predictive analytics']",big data,data scientist
+1,"the lead data scientist will work with teams addressing statistical, machine learning and data mining problems in an applied research environment. in this role, you will lead the deployment of modern machine learning and statistical methods for finding structure in large data sets, such as cart and random forests, clustering and classification algorithms, bayesian models, neural nets, and so on.
+
+the lead data scientist will contribute to cross-disciplinary teams on applied research projects, typically involving large data sets. these teams will involve statisticians, computer scientists, engineers, and other researchers, and work in conjunction with partners in ge business units. potential application areas include remote monitoring and diagnostics, financial portfolio risk assessment, and computational biology.
+
+in this role you will:
+
+work in technical teams in application and deployment of data mining methods
+perform exploratory, and targeted data analyses
+assist in determining technical approaches to be used on major challenges; identify methodologies needed
+oversee application of such methodologies (e.g. neural nets, cart, bayesian methods, etc.) on monitoring, classification, operations optimization, and financial risk projects
+ensure proper definition of data needs, evaluation of data quality, and critique appropriate statistical analyses; for critical projects, perform needed analyses
+effectively communicate technical analyses and results to business management
+qualifications/requirements
+masterandapos;s degree in computer science, mathematics, applied statistics or in andquot;stemandquot; majors (science, technology, engineering and math)
+minimum of 3 years of experience in massive data sets (big data)
+a minimum of 5 years of experience with analytics software tools and packages like sas, r and python
+
+eligibility requirements:
+ability and willingness to work out of an office located in san ramon, ca
+ability and willingness to travel to various ge businesses and customers around 30% of your time
+additional eligibility qualifications	ge will only employ those who are legally authorized to work in the united states for this opening. any offer of employment is conditioned upon the successful completion of a background investigation and drug screen.
+desired characteristics
+phd. in computer science, mathematics, applied statistics or in andquot;stemandquot; majors (science, technology, engineering and math)
+experience in leadership within professional associations
+experience in performing on-demand, exploratory, and targeted data analyses to obtain insights from data
+experience to apply theoretical knowledge to solve industrial problems
+experience with integrated big data programming environments and competency in major analytics software packages and programming environments (e.g. hadoop / map-reduce, mahout; python, r, java etc. in big data paradigms)",['masters'],3.0,"[u'operations', u'san', u'data mining', u'sas', u'clustering', u'statistics', u'serial attached scsi', u'neural nets', u'mathematics', u'massive data sets', u'python', u'random forests', u'data quality', u'deployment', u'bayesian', u'storage area network', u'risk assessment', u'neural', u'machine learning', u'optimization', u'algorithms', u'business management']",big data,lead data scientist
+2,"data scientist
+
+requirements:
+
+atleast 1 year of experience in web crawling, scraping
+experience working with social network apis
+analyzing dataset, extracting information from web pages (information retrieval)
+experience in scrapy or other frameworks for scraping data
+experience with python, ruby, java or other programming languages
+
+bonus:
+
+knowlege / experience with natural language processing
+data mining
+desire to dive into machine learning
+etl",[],1.0,"[u'java', u'scraping', u'data mining', u'machine learning', u'extract, transform, and load', u'natural language processing', u'etl']",big data,data scientist
+3,"data scientist / intern
+
+predikt is a seed funded startup based in sunnyvale, ca. try out www.predikt.co and learn more on www.talent.predikt.co
+
+we are building algorithms and technology to measure the professional data all across the web. our technology goes beyond keyword matching, semantic analysis and would power leading recruiting systems, job boards, professional networks.
+
+we are looking for highly motivated individuals to work on our core machine learning algorithm. if you have passion and experience in building mind blowing machine learning andamp; predictive algorithms, this is something you will enjoy. doesnandapos;t matter if you are a kaggler, an experienced data scientist, or someone in school or a mooc. working with our team will give you the liberty to materialize your research interests instead of working on routine industry stuff. we have a very promising technology and are looking for high calibre individuals.
+
+qualifications:
+bachelors degree in computer science, it, physics, statistics, math or related
+interest or experience in machine learning
+exposure or background in natural language processing, semantic analysis
+experience building algorithms in python.
+
+
+nice to have (bonus points!)
+coursework or experience in artificial intelligence, machine learning, deep learning, neural networks
+experience in building scalable algorithms is a plus
+understanding of github, bitbucket, aws",['bachelors'],1.0,"[u'statistics', u'natural', u'neural networks', u'algorithm', u'neural', u'python', u'deep learning', u'semantic analysis', u'aws', u'machine learning', u'algorithms', u'natural language processing', u'semantic', u'artificial intelligence']",machine learning,data scientist / intern
+4,"data scientist
+
+job description
+data is core to our business and we are looking for you to lead analytical projects and extract actionable insights from our large datasets to drive product and business strategy.  you will perform quantitative analyses and build analytical frameworks to advise many parts of the oration team and product, engineering, and business operations and to help frame and answer important business and product questions where data insights have the biggest impact.
+
+role:
+
+implement algorithms to power data-driven product features
+perform machine learning, natural language, and statistical analysis methods, such as classification, collaborative filtering, association rules, sentiment analysis, topic modeling, time-series analysis, regression, statistical inference, and validation methods
+drive client engagements focused on big data and advanced business analytics; communicate results and educate others through reports and presentations
+perform explanatory data analyses, generate and test working hypotheses, prepare and analyze historical data and identify patterns
+bring quantitative judgment to business discussions
+forecasting future behavior through modeling
+serve as a primary person to consult on complex issues.
+manage critical processes that are central to the delivery of accurate metrics (e.g., data models, reporting dashboard, etc.)
+
+qualifications
+masters degree in computer science
+1 year of experience as a data scientist
+should know about logistic regression, naive bayes, svm, decision trees, neural networks, and random forests
+machine learning, natural language processing, sentiment analysis, topic modeling, classifiers, predictive analytics
+large-scale datasets, map reduce architectures, and big data techniques, such as hadoop, mapreduce, pig, hive, hbase
+familiar with one or more machine learning or statistics tools such as r, matlab, and etc. or various libraries for other programming languages
+experience with at least one general purpose programming language such as java, python, c and etc
+knowledge and experience of relational databases and sql",['masters'],1.0,"[u'operations', u'forecasting', u'neural networks', u'large-scale', u'analytical frameworks', u'data models', u'pig', u'sentiment analysis', u'statistical analysis', u'association rules', u'hbase', u'statistics', u'java', u'hadoop', u'matlab', u'natural language processing', u'support vector machine', u'python', u'apache hbase', u'random forests', u'metrics', u'decision trees', u'sql', u'apache hadoop mapreduce', u'svm', u'datasets', u'database', u'neural', u'mapreduce', u'hive', u'machine learning', u'map reduce', u'business operations', u'algorithms', u'logistic regression', u'databases', u'time-series', u'quantitative', u'predictive analytics']",big data,data scientist
+5,"senior product manager - retail products
+
+coupons.com - mountain view, ca
+
+other details
+about this job
+job description
+
+position summary:
+
+
+the product manager is responsible for collaborating with key stakeholders to define the product plans and product strategy to accomplish coupons.com%u2019s business objectives. as a key member of the product management team, this position is responsible for managing the strategy for new and existing coupons.com retail products, conducting product research, market analysis, business requirements definitions, user experience design, developing and coordinating launch plans with cross functional teams, including marketing, sales and customer support; and evangelizing coupons.com%u2019s products both internally and externally.
+
+
+position responsibilities:
+
+drive platform innovation that fundamentally changes the promotions and checkout experience for shoppers, retailers and cpg companies, delivering higher consumer engagement, activation, and shopping behavior.
+manage and refine long-term product strategy, product plans and use cases
+specifying market requirements for current and future products by conducting market research supported by on-going visits to customers and non-customers
+collaborate with all cross functional teams, in particular engineering, marketing and sales to build, launch and maintain products
+establish business goals with measureable success criteria early in the product life cycle, stay consistent with those goals, and adapt to change as required
+evaluate new organic and non-organic product opportunities, including revenue and cost estimates, target markets and fit with current product offering
+developing and implementing a company-wide go-to-market plan, working with all departments to execute
+
+position qualifications:
+
+extensive experience in developing and validating product strategy plans, defining product requirements and managing products for a fast-paced, high growth technology market.
+ability to grasp complex concepts and develop clear, concise, synthesized recommendations
+ability to gather business requirements, drive thoughtful discussions with relevant stakeholders, seek internal (and if applicable external) alignment, deliver consolidated plan, and follow through
+ability to analyze new markets and prepare market entry strategies
+domain knowledge in internet advertising marketplaces and product capabilities
+retail/commerce industry experience desired, but most importantly, candidate must have strong initiative, high energy, and impeccable integrity.
+ba/bs required.",['bachelors'],1.0,"[u'market analysis', u'thoughtful', u'sales to', u'internet advertising', u'retail marketing', u'cost estimates', u'marketing', u'and sales', u'gather business requirements', u'sales and', u'market research', u'user experience', u'life cycle', u'product manager', u'user experience design', u'customer support', u'business requirements', u'product management', u'use cases', u'retail', u'advertising']",project management,senior product manager - retail products
+6,"senior product manager
+
+ask.com is a leading site on the internet with more than 200+ million worldwide unique monthly users. we help users find the best answers from the web, in addition to answers on ask.com that come from editors, partners and our qandamp;a community. as we continue to expand askandapos;s content offerings, we seek an experienced sr. product manager to drive scalable content management solutions across multiple properties.
+
+
+the role
+the sr. product manager, content management will be responsible for developing content management tools that help us to manage millions of pages of content. theyandapos;ll work closely with ux, engineering, and content managers to create quality tools based on the content teamandapos;s goals and user feedback. this person will have worked at large media sites or other large internet publishers and be well versed in cms, publishing workflows and data management. technical product management skills are preferred.
+
+
+key responsibilities
+
+collaborate with content executives, engineering and third parties to write requirements for custom, highly flexible and scalable cms tools (this is not a standard drupal or wordpress implementation)
+partner with ux and engineering to launch products in an agile environment
+rapidly test and optimize with internal users
+partner with seo experts to ensure content is optimized for discovery via search engines and social media
+communicate plans, status, and results to teams and management
+additional opportunities for this role may also include consumer content and search experiences for both desktop and mobile
+
+
+qualifications
+
+5+ years of internet product management experience with emphasis on content management solutions
+strong eye for design and ui
+excellent leadership skills and ability to work cross-functionally to deliver results
+experience managing the production and development of a new tools
+ability to work well in a team environment, scrum/agile experience a plus
+working understanding of seo and content marketing strategies
+strong communication, written, and presentation skills",[],5.0,"[u'hp-ux', u'user interface', u'publishing', u'engines', u'leadership skills', u'marketing', u'presentation skills', u'content management system', u'seo', u'unix', u'product manager', u'ui', u'content management', u'search engine optimization', u'product management', u'ux', u'cms', u'data management', u'solutions']",big data,senior product manager
+7,"principal product manager
+atlassian - sydney - full relocation offered!
+posted 2 days ago
+other details
+139
+
+applicants
+see how you compare to the competition
+
+get more insights on whoandapos;s applied with a premium account.
+upgrade free
+about this job
+job description
+
+reports to:
+
+gpm for collaboration
+
+position summary:
+
+are you passionate about building great products?
+do you want to help re-define the ways that teams collaborate?
+do you want to work alongside amazing engineers and designers?
+
+confluence is used by more than half of fortune 100 companies to connect people with content and co-workers they need to get their jobs done, faster. the pace of innovation and change in the workplace is now greater than ever. confluence powers teams to help them go from concept to launch, no matter what the project. confluence makes creating and collaborating on content easier for teams of all sizes. cross team collaboration is a breeze with the combination of confluence and hipchat as the content and communication backbone across the company. as the concept of work, the flow of information rapidly increases, and many more remote teams in the mix, confluence is poised to shape how people collaborate and work together now and well into the future. come, be a part of this amazing journey!
+
+the principal product manager is responsible for managing the product strategy and a line of business for the collaboration product family. this includes planning and execution throughout the product lifecycle, including: gathering and prioritizing product and customer requirements, helping to define the product vision, creating the business case for new product add-ons and working closely with engineering, marketing and support to ensure revenue and customer satisfaction goals are met. the principal product manager works across multiple streams of features to provide guidance and direction to assure the success of the product, including both features they are directly responsible for, as well as other feature areas managed by other product managers within their product.  the principal product manager acts as a player/coach among product managers in their team %u2013 helping and guiding efforts across the product while also owning specific feature sets and deliverables. the principal pm will define and track key business and usage analytics data to measure success for product areas you own.
+
+
+main activities:
+
+evaluate and translate customer and partner data into product/service definitions and product plans that anticipate customers current and future needs
+deliver the business cases for each add-on investment, driven by analysing customer benefits and alignment to product and company strategy.
+define key metrics for measuring product success.
+develop use-cases documenting specific instances of real-world product application and extrapolate detailed product requirements from these scenarios.
+define new product feature qualification criteria and help prioritize the product roadmap
+assemble product requirements from multiple sources (e.g. research, usability, consumer feedback, competitive assessment) and communicate requirements to product development.
+work with the development, design, and qa teams, project management, other product managers, product marketing, and sales to drive software releases to completion and launch.
+collaborate with the development team to define features and work with the quality assurance team to fix defects and aid in testing.
+cooperate with the support team to investigate and resolve customer problems.
+ensure prompt resolutions for technical and business issues.
+run beta and pilot programs with early-stage products and samples.
+act as a leader within the company and within the confluence product management team.
+interview customers both pre/post sales for research and analysis of our current and future customer markets, defining user personas, and gathering feedback for feature planning
+work with external third parties to assess partnerships and licensing opportunities
+
+desired skills and experience
+
+required experience and knowledge:
+
+ba/bs/cs degree.
+minimum 10 years of software product management or technical product management experience required.
+demonstrated crafting a vision and corresponding customer experiences to communicate an end goal to internal teams and value to customers.
+defining, driving and launching a successful software product from scratch, or delivered multiple major software product releases.
+has directed the activities of feature teams without day-to-day involvement, while being hands-on with the daily activities other feature teams.
+mentoring other product managers.
+proven ability to influence cross-functional teams without formal authority.
+excellent written and verbal communication skills.
+excellent teamwork skills.
+technical background, with experience in software development projects.
+examples and at least one sample of an effective document delivered in the past.
+passion for analysing products, customers and market dynamics.
+software development experience is desirable.",['bachelors'],10.0,"[u'testing', u'software product management', u'excellent written and verbal communication skills', u'documenting', u'product roadmap', u'and sales', u'product marketing', u'product manager', u'sales for', u'quality assurance', u'excellent written', u'poised', u'business case', u'product development', u'marketing', u'backbone', u'metrics', u'transmissions', u'mentoring', u'structured software', u'project management', u'business cases', u'software development', u'satisfaction', u'translate', u'written and verbal', u'qa', u'sales to', u'product management', u'product lifecycle', u'usability']",general,principal product manager
+8,"senior product manager, content management
+ask.com - oakland, california
+posted 2 days ago
+apply on company website
+other details
+about this job
+job description
+
+
+us
+ask.com is a leading site on the internet with more than 200+ million worldwide unique monthly users. we help users find the best answers from the web, in addition to answers on ask.com that come from editors, partners and our qandamp;a community. as we continue to expand askandapos;s content offerings, we seek an experienced sr. product manager to drive scalable content management solutions across multiple properties.
+
+
+the role
+the sr. product manager, content management will be responsible for developing content management tools that help us to manage millions of pages of content. theyandapos;ll work closely with ux, engineering, and content managers to create quality tools based on the content teamandapos;s goals and user feedback. this person will have worked at large media sites or other large internet publishers and be well versed in cms, publishing workflows and data management. technical product management skills are preferred.
+
+
+key responsibilities
+
+collaborate with content executives, engineering and third parties to write requirements for custom, highly flexible and scalable cms tools (this is not a standard drupal or wordpress implementation)
+partner with ux and engineering to launch products in an agile environment
+rapidly test and optimize with internal users
+partner with seo experts to ensure content is optimized for discovery via search engines and social media
+communicate plans, status, and results to teams and management
+additional opportunities for this role may also include consumer content and search experiences for both desktop and mobile
+
+
+qualifications
+
+5+ years of internet product management experience with emphasis on content management solutions
+strong eye for design and ui
+excellent leadership skills and ability to work cross-functionally to deliver results
+experience managing the production and development of a new tools
+ability to work well in a team environment, scrum/agile experience a plus
+working understanding of seo and content marketing strategies
+strong communication, written, and presentation skills",[],5.0,"[u'hp-ux', u'user interface', u'publishing', u'engines', u'leadership skills', u'marketing', u'presentation skills', u'content management system', u'seo', u'unix', u'product manager', u'ui', u'content management', u'search engine optimization', u'product management', u'ux', u'cms', u'data management', u'solutions']",big data,"senior product manager, content management"
+9,"senior product manager / mobile, video
+blinkx - san francisco, california
+posted 3 days ago
+apply on company website
+
+job actions menu
+
+other details
+about this job
+job description
+company description
+
+about blinkx
+
+founded in 2004, blinkx (lse aim: blnx) is an internet media platform that connects digital consumers with advertisers through professionally generated content. blinkx pioneered internet video search using its patented concept recognition engine (core) technology that leverages speech, text and image analysis to deeply understand the content and context of videos online. this results in improved search relevancy for consumers and a brand safe environment for advertisers.
+
+with a rapidly growing index of millions of hours of searchable video derived from over 900 media partnerships, blinkx powers video search on leading online properties including ask and aol. blinkx continues to develop innovative approaches to distribute and monetize digital video content across personal computers, smartphones, tablets and connected tv through partnerships with leading brands such as samsung, sony and roku.
+
+blinkx is headquartered in san francisco, california with offices worldwide. for more information please visit www.blinkx.com.
+
+compensation
+
+competitive base plus bonus
+
+to apply
+
+job description
+
+company: blinkx
+position: sr. product manager/ director product manager- mobile/ video
+reports to: sr. director of product management- mobile/ video
+location: san francisco
+
+blinkx group%u2019s mission is to connect consumers and advertisers online through professionally generated content across all screens. as part of this vision, we aspire to create services/platforms that users, advertisers, distributors, and content owners embrace and consider essential to their business. to support us in this mission, we are searching for a product leader who can lead the product strategy and management for our blinkx, grab-media and rhythmnewmedia divisions.
+
+sr. product manager/director of product manager is responsible for defining and managing product lines, increasing profitability of existing products, and developing new products based on market requirements to deliver market leading product that delight the customer and deliver value to company stakeholders in sales, marketing, and technology. the ideal candidate will have exceptional project management, communications, and leadership skills. additionally, this role will require in depth technical knowledge, and the ability to effectively work with customers to capture business requirements for product lines.
+
+responsibilities
+
+manage entire product lifecycle from strategic planning to tactical activities
+develop product requirements documents for each product line
+conduct market research, surveys, and customer/prospect visits to understand and specify business requirements to target market segments
+analyze competitive offering to identify diffentiators, and set pricing
+complete win/loss analysis to glean insight from previous sales experience
+document andamp; report on product profitability and operational product metrics
+define user personas/use cases to gain understand from each perspective
+create business cases for new product developments to achieve sponsorships
+work with development, sales, and customer services to convert market requirements into products that meet standards of current prospective clients
+help product marketing manager/marketing communications to create collateral that accurately reflects the features andamp; benefits of the product line
+develop and implement go-to-market strategy with all corporate departments.
+
+requirements/ skills
+
+domain expertise in multi-screen video delivery, programmatic monetization platform, ad and publisher operations.
+mobile sdk product life cycle management is a big plus.
+proven experience building a product management discipline.
+proven experience launching commercially successful and critically acclaimed products.
+experience working in agile environments.
+-7 or 7-10 years preferred of product management experience overseeing the design, development and launch of successful consumer internet products and/or applications on devices. university degree required. mba preferred.
+solid understanding of customer needs, business goals and competitive pressures and the ability to convert those into product requirements and priorities.
+ability to interact with a diverse set of technical and non-technical stakeholders.
+experience and passion in working with client facing applications.
+excellent product judgment: ability to make sound judgments based on tradeoffs of different solutions, complex problems, various stakeholders, and many constraints.
+project management skills: ability to plan, set expectations, make and meet commitment",['masters'],7.0,"[u'operations', u'san', u'leadership skills', u'mba', u'strategic planning', u'solutions', u'monetization', u'product marketing', u'market research', u'product manager', u'business requirements', u'marketing communications', u'marketing', u'use cases', u'metrics', u'new products', u'storage area network', u'in sales', u'project management', u'business cases', u'product lifecycle', u'life cycle', u'product management', u'sales experience', u'pricing']",project management,"senior product manager / mobile, video"

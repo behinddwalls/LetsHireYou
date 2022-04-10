@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans     
+        http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context-4.0.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd
+        http://www.springframework.org/schema/util 
+        http://www.springframework.org/schema/util/spring-util-4.0.xsd">
+
+	<!-- Job Portal Engine Configs -->
+	<util:map id="engineServiceEndpoint">
+		<entry key="host" value="localhost" />
+		<entry key="port" value="5000" />
+		<entry key="protocol" value="http" />
+	</util:map>
+
+	<util:map id="engineApiEndpoints">
+		<entry key="computeUsersByJob" value="/engine/api/v1.0/compute/computeUsersByJob" />
+		<entry key="computeJobsByUser" value="/engine/api/v1.0/compute/computeJobsByUser" />
+	</util:map>
+
+	<util:map id="engineServiceEndpointCredentials">
+		<entry key="username" value="job-portal-system" />
+		<entry key="password" value="job-portal-system123!@#" />
+	</util:map>
+
+</beans>

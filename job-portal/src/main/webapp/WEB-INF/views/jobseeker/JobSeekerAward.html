@@ -1,0 +1,16 @@
+<!-- This represents all the data for one award that needs to be shown -->
+
+<div class="col-lg-10 col-lg-offset-0 work-experience">
+	<div class="col-sm-11 col-xs-10 pull-left">
+		<input class ="userAwardId" type="hidden" name="awardId" value=' + awardObj.awardId + ' >
+		<h5>'+ ((checkEmpty(awardObj.title))? "": awardObj.title) + ((checkEmpty(awardObj.organisationName))?"":("  -  "+awardObj.organisationName))+'</h5>
+		<div class="clearfix"></div>
+		<h4>' + ((checkEmpty(awardObj.date))? "" : awardObj.date)  + '</h4>		
+		<br/>		
+	</div>
+	<div class="pull-left col-sm-1 col-xs-2"
+		style="color: grey; font-size: 1.2em;">
+		<i class="fa fa-pencil editUserAward"></i>
+	</div>
+</div>
+

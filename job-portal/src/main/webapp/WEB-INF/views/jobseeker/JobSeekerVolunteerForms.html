@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<!-- These contains the form that has to be shown -->
+<!--  Form used to edit userVolunteer -->
+<div class="addNewUserVolunteer basic-form col-sm-8">
+	<form role="form" class="userVolunteerForm">
+
+		<div class="form-group userVolunteerIdGrp" style="display: none">
+			<input type="text" class="form-control userVolunteerId" 
+				name="volunteerId" value=' + volunteerObj.volunteerId + '>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userRoleName">
+					<label for="userVolunteerRoleName">Role:</label> <input type="text" 
+						class="form-control userVolunteerRoleName" name="roleName" 
+						value="' + ((checkEmpty(volunteerObj.roleName))?"":volunteerObj.roleName) + '">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userVolunteerCauseGrp">
+					<label for="userVolunteerCause">Cause:</label> <input 
+						name="volunteerCause" 
+						class="form-control typeahead userVolunteerCause" value="'+ ((checkEmpty(volunteerObj.volunteerCause))?"":volunteerObj.volunteerCause) +'">					
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userVolunteerStartDateGrp">
+					<label for="userVolunteerStartDate">Start Date:</label> <input 
+						type="date" class="form-control userVolunteerStartDate" 
+						name="volunteerStartDate" 
+						value=' + ((checkEmpty(volunteerObj.volunteerStartDate))?"":volunteerObj.volunteerStartDate) + '>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userEndDate">
+					<label for="userEndDate">End Date:</label> <input type="date" 
+						class="form-control userVolunteerEndDate" name="volunteerEndDate" 
+						value=' + ((checkEmpty(volunteerObj.volunteerEndDate))?"":volunteerObj.volunteerEndDate) + '>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userVolunteerOrganisationGrp">
+					<label for="userVolunteerOrganisation">Organisation:</label> <input 
+						type="text" 
+						class="form-control typeahead userVolunteerOrganisation" 
+						name="organisationName" 
+						value="' + ((checkEmpty(volunteerObj.organisationName))?"":volunteerObj.organisationName) + '">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userVolunteerDescriptionGrp">
+					<label for="userVolunteerDescription">Description:</label>
+					<textarea class="form-control userVolunteerDescription" 
+						name="volunteerDescription">' + ((checkEmpty(volunteerObj.volunteerDescription))?"":volunteerObj.volunteerDescription) + '</textarea>
+				</div>
+			</div>
+
+		</div>
+		<div class="form-group text-center">
+			<button type="button" style="margin-left: 10px; margin-right: 10px"
+				class="btn btn-primary text-center cancelUserVolunteer">
+				Cancel<i 
+					style="margin-left: 4px; margin-right: 4px; color: rgb(190, 35, 35)" 
+					class="fa fa-remove"></i>
+			</button>
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center saveUserVolunteer">
+				Save<i 
+					style="margin-left: 4px; margin-right: 4px; color: rgb(54, 207, 120)" 
+					class="fa fa-check"></i>
+			</button>
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center deleteUserVolunteer">
+				Remove<i 
+					style="margin-left: 4px; margin-right: 4px; color: rgb(236, 244, 216)"  
+					class="fa fa-trash-o"></i>
+			</button>
+		</div>
+	</form>
+</div>
+
+
+<!--  Form used to add new UserVolunteer -->
+<div class="addNewUserVolunteer basic-form col-sm-8">
+	<form role="form" class="userVolunteerForm">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userRoleName">
+					<label for="userVolunteerRoleName">Role:</label> <input 
+						placeholder="Add Your Role" type="text" 
+						class="form-control userVolunteerRoleName" name="roleName">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group dropdown userVolunteerCauseGrp">
+					<label for="userVolunteerCause">Cause:</label> <input  
+						placeholder="Add Volunteering Cause" name="volunteerCause"  
+						class="form-control typeahead userVolunteerCause">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userVolunteerStartDateGrp">
+					<label for="userVolunteerStartDate">Start Date:</label> <input 
+						type="date" class="form-control userVolunteerStartDate" 
+						name="volunteerStartDate">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userVolunteerEndDateGrp">
+					<label for="userVolunteerEndDate">End Date:</label> <input 
+						type="date" class="form-control userVolunteerEndDate" 
+						name="volunteerEndDate">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userVolunteerOrganisationGrp">
+					<label for="userVolunteerOrganisation">Organisation:</label> <input 
+						placeholder="Add Organisation" type="text" 
+						class="form-control typeahead userVolunteerOrganisation" 
+						name="organisationName">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group userVolunteerDescriptionGrp">
+					<label for="userVolunteerDescription">Description:</label>
+					<textarea placeholder="Add Description" 
+						class="form-control userVolunteerDescription" 
+						name="volunteerDescription"></textarea>
+				</div>
+			</div>
+		</div>
+		<div class="form-group text-center">
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center cancelUserVolunteer">
+				Cancel<i 
+					style="margin-left: 4px; margin-right: 4px; color: rgb(190, 35, 35)" 
+					class="fa fa-remove"></i>
+			</button>
+			<button type="submit" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center saveUserVolunteer">
+				Save<i 
+					style="margin-left: 4px; margin-right: 4px; color: rgb(54, 207, 120)" 
+					class="fa fa-check"></i>
+			</button>
+		</div>
+	</form>
+</div>
+

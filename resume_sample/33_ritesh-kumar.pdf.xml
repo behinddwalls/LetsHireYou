@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>RITESH KUMAR</FormattedName>
+				<GivenName>RITESH</GivenName>
+				<FamilyName>KUMAR</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>TN</Region>
+					<Municipality>Chennai</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91-9884450933</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>rkjha5312@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>A decade of successful stint in new-business launches, analytics, strategy &amp; solution design across multiple sectors
+Sector Experience: Healthcare (US), Financial Services, Education &amp; Shipping</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>SCIO Health Analytics</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Director, Analytics Solution Development</Title>
+					<OrgName>
+						<OrganizationName>SCIO Health Analytics</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>TAMIL NADU</Region>
+							<Municipality>Chennai</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>SCIO Health Analytics		Chennai, India
+Director, Analytics Solution Development		June 2013-Current
+
+About SCIO: Sequoia funded Analytics Company focused on US Healthcare market.
+Responsibility: Leading the new business initiatives and strategy for the company, I report to VP and assist the President/
+Co-founder in kick-starting 'New Business Unit from India with annual revenue goals of USD 5 mn'.
+
+•    Leading a team of 7 professionals in developing new analytical solutions for Hospitals &amp; its roll-out in the US</Description>
+					<StartDate>
+						<AnyDate>2013-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-02</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>21</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>29</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>96</sov:OffsetOfFarthestDataFound>
+							<sov:NumberOfEmployeesSupervised>7</sov:NumberOfEmployeesSupervised>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Co-lead for Sales &amp; Marketing analytics solution for Health Insurance Plans</Title>
+					<OrgName>
+						<OrganizationName>Hospital Readmission</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>TAMIL NADU</Region>
+							<Municipality>Chennai</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>market; Key achievements (since June 2014) include:
+• Developed Analytics Apps &amp; Tableau Dashboards (including marketing collaterals): Hospital Readmission
+Reduction, Regulatory Measures, Patient Flow &amp; Several others for financial, clinical and administrative KPIs
+• Successfully developed and marketed various patient risk models (LACE, Logistic Regression, Support Vector
+Machine, Neural Network etc.) under a closed loop framework for recurring revenue deals
+• Set-up the Inside Sales Team at Chennai under Global Delivery Model
+• Successfully strategized innovative co-opetition strategy with Health IT companies (EHR Vendors) for reaching out to low dollar income but large Physician's market
+• Successfully signed 1 large Informatics company &amp; 2 large hospital system, generated 6 high level prospects and 37 qualified leads
+
+•    Co-lead for Sales &amp; Marketing analytics solution for Health Insurance Plans:
+• Devised new Consumer Engagement solution based on Game Theory principles
+• Successfully signed 1 large Health Insurance Company with and ACV of USD 1.1 mn
+•    Developed full suite of solutions for Medical device companies including advanced analytics solution,
+dashboard, and sample constructs for device failure Analysis, value based design, sales analytics
+•    Leading the off shore analytics team on Payment Integrity, modeling solution to identify potential Fraud, Waste, and Abuse to help Payers recover high potential over paid claims.</Description>
+					<StartDate>
+						<AnyDate>2014-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-02</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbability>16</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>24</sov:PositionTitleProbability>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Recognition: SCIO Global Awards</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>Learningware.in</WebSite>
+					</OrgInfo>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Recognition: SCIO Global Awards (2014) for 'Fresh Thinking'.
+Learningware.in		Hyderabad, India</Description>
+					<StartDate>
+						<AnyDate>2014-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2014-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbability>14</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>36</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Vice President, Business Development</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>Vice President, Business Development		June 2012-June 2013
+
+About Learningware: An e-learning company providing cloud-based solutions and now acquired by Pearson Education.
+Responsibility: Assisted the CEO with market entry strategies and Corporate &amp; Business Development activities.
+
+•    Increased sales hit rate to 70%, compared to previous closed sales average of 40% &amp; a top competitor's
+rate of 50%, while improving profitability
+•    Achieved 90% 'very satisfied' customer satisfaction rating against a goal of 67%
+•    Successfully executed market entry strategy in the states of Gujarat, Odisha and MP through pre-entry
+partnerships/ alliances with strategic partners
+• Resulted into income generation for states from day 1 and brought OPEX down by 80%
+• Reduced HR expenses per deal by 66% besides reducing lead generation time by 75%
+•    Launch of New Businesses: Conceived Retail Sales model for the Online GATE Prep Product besides successfully
+integrating 'Placement' &amp; 'Certification' Tool with the core product and leading multi-channel marketing</Description>
+					<StartDate>
+						<AnyDate>2012-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-06-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:PositionTitleProbability>30</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>56</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>SHARE Microfin Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Vice President, Business Development</Title>
+					<OrgName>
+						<OrganizationName>SHARE Microfin Limited</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>SHARE Microfin Limited		Hyderabad, India
+Vice President, Business Development		Apr 2009-Jun 2012
+
+About SHARE: A large NBFC, SHARE is into Microfinance and other diversified businesses.
+Responsibility: Reporting to Managing Director, I led the new business initiatives, operations and strategy for SHARE.
+
+•    Consumer Loan Product: Responsible for market entry strategy, set-up of branches, recruitments and marketing the loan product at retail level
+• Achievement: Successfully rolled out 10 branches with revenue exceeding Rs. 43 cr. in 8 months period
+•    Roll out of Fee based services: Launched 7 new services including New Pension Scheme with LIC, UIDAI
+enrolment with Karvy, rural retail kiosks with Axis bank.
+• Achievement: Enhanced revenue contribution from 0.2% to 6.3% of total revenue over 27 months period
+
+Recognition: Accredited for mentoring a team of 30 MBA candidates from Harvard Business School.</Description>
+					<StartDate>
+						<AnyDate>2009-04-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-06-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbability>27</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>29</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>95</sov:OffsetOfFarthestDataFound>
+							<sov:NumberOfEmployeesSupervised>30</sov:NumberOfEmployeesSupervised>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>OMI</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Maintenance Engineer</Title>
+					<OrgName>
+						<OrganizationName>OMI</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>CT</Region>
+							<Municipality>Stamford</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>OMI		Stamford CT, USA
+Maintenance Engineer		Aug 2003-Mar 2008
+
+About OMI: Now acquired by a large shipping company, OMI owned its fleet of oil and chemical tankers.
+Responsibility: I used to be onboard the ship and led preventive and break-down maintenance of machinery, besides
+assisting in several operations related roles like oil management, inventory maintenance, coast-guard inspections, dry- docking of ship, and emergency support during distress.</Description>
+					<StartDate>
+						<AnyDate>2003-08-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2008-03-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbability>20</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>23</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>60</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Indian School of Business</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+				</PostalAddress>
+				<Degree degreeType="masters">
+					<DegreeName>MBA</DegreeName>
+					<DegreeDate>
+						<AnyDate>2009-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Finance &amp; Marketing</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2008-01-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2009-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>• Indian School of Business (ISB; FT Ranking: 12)		Hyderabad, India
+MBA, Finance &amp; Marketing		2008-2009</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Marine Engineering &amp; Research Institute</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>WEST BENGAL</Region>
+					<Municipality>Kolkata</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.E.</DegreeName>
+					<DegreeDate>
+						<AnyDate>2003-01-01</AnyDate>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>1999-01-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2003-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>• Marine Engineering &amp; Research Institute		Kolkata, India
+B.E. (hons), Marine Engineering		1999-2003</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>Indian Institute of Technology</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>West Bengal</Region>
+					<Municipality>Kharagpur</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2014-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Business</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2014-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>• Indian Institute of Technology, Kharagpur		West Bengal, India
+Advanced Business Analytics &amp; Optimization (online)		2014-2014</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary></QualificationSummary>
+			<Competency name="OPERATIONS">
+				<CompetencyId id="003875" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="OPERATIONS" typeDescription="Found in WORK HISTORY; POS-5; POS-6" typeId="003875" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">93</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING">
+				<CompetencyId id="021241" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING" typeDescription="Found in CERTIFICATIONS; EDUCATION; WORK HISTORY; DEG-1; POS-2; POS-4; POS-5" typeId="021241" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">75</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ENGINEER">
+				<CompetencyId id="080540" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ENGINEER" typeDescription="Found in WORK HISTORY; POS-6" typeId="080540" lastUsed="2008-03-01">
+					<NumericValue description="Total Months">55</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ENGINEER">
+				<CompetencyId id="080650" />
+				<TaxonomyId id="263" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ENGINEER" typeDescription="Found in WORK HISTORY; POS-6" typeId="080650" lastUsed="2008-03-01">
+					<NumericValue description="Total Months">55</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INSPECTIONS">
+				<CompetencyId id="019863" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="INSPECTIONS" typeDescription="Found in WORK HISTORY; POS-6" typeId="019863" lastUsed="2008-03-01">
+					<NumericValue description="Total Months">55</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INVENTORY">
+				<CompetencyId id="020086" />
+				<TaxonomyId id="459" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="INVENTORY" typeDescription="Found in WORK HISTORY; POS-6" typeId="020086" lastUsed="2008-03-01">
+					<NumericValue description="Total Months">55</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MAINTENANCE">
+				<CompetencyId id="022116" />
+				<TaxonomyId id="364" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="MAINTENANCE" typeDescription="Found in WORK HISTORY; POS-6" typeId="022116" lastUsed="2008-03-01">
+					<NumericValue description="Total Months">55</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MAINTENANCE">
+				<CompetencyId id="022117" />
+				<TaxonomyId id="452" idOwner="72" description="Sovren" />
+				<CompetencyEvidence name="MAINTENANCE" typeDescription="Found in WORK HISTORY; POS-6" typeId="022117" lastUsed="2008-03-01">
+					<NumericValue description="Total Months">55</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SHIPPING">
+				<CompetencyId id="022444" />
+				<TaxonomyId id="305" idOwner="11" description="Sovren" />
+				<CompetencyEvidence name="SHIPPING" typeDescription="Found in SUMMARY; WORK HISTORY; POS-6" typeId="022444" lastUsed="2008-03-01">
+					<NumericValue description="Total Months">55</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SHIPPING">
+				<CompetencyId id="022445" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="SHIPPING" typeDescription="Found in SUMMARY; WORK HISTORY; POS-6" typeId="022445" lastUsed="2008-03-01">
+					<NumericValue description="Total Months">55</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SHIPPING">
+				<CompetencyId id="022446" />
+				<TaxonomyId id="497" idOwner="87" description="Sovren" />
+				<CompetencyEvidence name="SHIPPING" typeDescription="Found in SUMMARY; WORK HISTORY; POS-6" typeId="022446" lastUsed="2008-03-01">
+					<NumericValue description="Total Months">55</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SOLUTIONS">
+				<CompetencyId id="030002" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SOLUTIONS" typeDescription="Found in WORK HISTORY; POS-1; POS-2; POS-4" typeId="030002" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">50</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS DEVELOPMENT">
+				<CompetencyId id="023757" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS DEVELOPMENT" typeDescription="Found in WORK HISTORY; POS-4; POS-5" typeId="023757" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">50</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="030018" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="RETAIL" typeDescription="Found in WORK HISTORY; POS-4; POS-5" typeId="030018" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">50</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="1400216" idOwner="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="RETAIL" typeDescription="Found in WORK HISTORY; POS-4; POS-5" typeId="1400216" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">50</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL MARKETING">
+				<CompetencyId id="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="RETAIL MARKETING" typeDescription="Found in WORK HISTORY; POS-4; POS-5" typeId="1400215" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">50</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MBA">
+				<CompetencyId id="7000321" />
+				<TaxonomyId id="703" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="MBA" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-1; POS-5" typeId="7000321" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">50</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARINE ENGINEERING">
+				<CompetencyId id="023718" />
+				<TaxonomyId id="263" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="MARINE ENGINEERING" typeDescription="Found in EDUCATION; PERSONAL INTERESTS AND ACCOMPLISHMENTS; DEG-2" typeId="023718" lastUsed="2003-01-01">
+					<NumericValue description="Total Months">48</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AND MARKETING">
+				<CompetencyId id="030010" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AND MARKETING" typeDescription="Found in WORK HISTORY; POS-5" typeId="030010" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">38</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AXIS">
+				<CompetencyId id="024192" />
+				<TaxonomyId id="293" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="AXIS" typeDescription="Found in WORK HISTORY; POS-5" typeId="024192" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">38</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MENTORING">
+				<CompetencyId id="200051" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="MENTORING" typeDescription="Found in WORK HISTORY; POS-5" typeId="200051" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">38</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="HEALTHCARE">
+				<CompetencyId id="018806" />
+				<TaxonomyId id="158" idOwner="95" description="Sovren" />
+				<CompetencyEvidence name="HEALTHCARE" typeDescription="Found in SUMMARY; WORK HISTORY; POS-1" typeId="018806" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">25</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES">
+				<CompetencyId id="007359" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES" typeDescription="Found in WORK HISTORY; POS-2; POS-4" typeId="007359" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">25</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ADVANCED ANALYTICS">
+				<CompetencyId id="9000106" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="ADVANCED ANALYTICS" typeDescription="Found in WORK HISTORY; POS-2" typeId="9000106" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="013345" />
+				<TaxonomyId id="933" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-2" typeId="013345" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="022237" />
+				<TaxonomyId id="408" idOwner="19" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-2" typeId="022237" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="022238" />
+				<TaxonomyId id="269" idOwner="28" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-2" typeId="022238" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="022239" />
+				<TaxonomyId id="961" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-2" typeId="022239" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="022240" />
+				<TaxonomyId id="258" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-2" typeId="022240" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLOSED LOOP">
+				<CompetencyId id="025248" />
+				<TaxonomyId id="143" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="CLOSED LOOP" typeDescription="Found in WORK HISTORY; POS-2" typeId="025248" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EHR">
+				<CompetencyId id="5530981" idOwner="5530980" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="EHR" typeDescription="Found in WORK HISTORY; POS-2" typeId="5530981" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ELECTRONIC HEALTH RECORDS">
+				<CompetencyId id="5530980" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ELECTRONIC HEALTH RECORDS" typeDescription="Found in WORK HISTORY; POS-2" typeId="5530980" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FAILURE ANALYSIS">
+				<CompetencyId id="017150" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="FAILURE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-2" typeId="017150" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FAILURE ANALYSIS">
+				<CompetencyId id="022572" />
+				<TaxonomyId id="309" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="FAILURE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-2" typeId="022572" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FAILURE ANALYSIS">
+				<CompetencyId id="5000018" />
+				<TaxonomyId id="714" idOwner="29" description="Sovren" />
+				<CompetencyEvidence name="FAILURE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-2" typeId="5000018" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FAILURE ANALYSIS">
+				<CompetencyId id="5000050" />
+				<TaxonomyId id="715" idOwner="29" description="Sovren" />
+				<CompetencyEvidence name="FAILURE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-2" typeId="5000050" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FAILURE ANALYSIS">
+				<CompetencyId id="5000077" />
+				<TaxonomyId id="716" idOwner="29" description="Sovren" />
+				<CompetencyEvidence name="FAILURE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-2" typeId="5000077" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FOR SALES">
+				<CompetencyId id="030426" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="FOR SALES" typeDescription="Found in WORK HISTORY; POS-2" typeId="030426" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INSIDE SALES">
+				<CompetencyId id="022906" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="INSIDE SALES" typeDescription="Found in WORK HISTORY; POS-2" typeId="022906" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INSIDE SALES">
+				<CompetencyId id="022907" />
+				<TaxonomyId id="130" idOwner="46" description="Sovren" />
+				<CompetencyEvidence name="INSIDE SALES" typeDescription="Found in WORK HISTORY; POS-2" typeId="022907" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LEADS">
+				<CompetencyId id="030009" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="LEADS" typeDescription="Found in WORK HISTORY; POS-2" typeId="030009" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LOGISTIC REGRESSION">
+				<CompetencyId id="7200039" />
+				<TaxonomyId id="720" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="LOGISTIC REGRESSION" typeDescription="Found in WORK HISTORY; POS-2" typeId="7200039" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MEDICAL DEVICE">
+				<CompetencyId id="022881" />
+				<TaxonomyId id="372" idOwner="15" description="Sovren" />
+				<CompetencyEvidence name="MEDICAL DEVICE" typeDescription="Found in WORK HISTORY; POS-2" typeId="022881" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MEDICAL DEVICE">
+				<CompetencyId id="022882" />
+				<TaxonomyId id="276" idOwner="28" description="Sovren" />
+				<CompetencyEvidence name="MEDICAL DEVICE" typeDescription="Found in WORK HISTORY; POS-2" typeId="022882" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MEDICAL DEVICE">
+				<CompetencyId id="022883" />
+				<TaxonomyId id="453" idOwner="75" description="Sovren" />
+				<CompetencyEvidence name="MEDICAL DEVICE" typeDescription="Found in WORK HISTORY; POS-2" typeId="022883" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NEURAL">
+				<CompetencyId id="200040" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="NEURAL" typeDescription="Found in WORK HISTORY; POS-2" typeId="200040" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NEURAL NETWORK">
+				<CompetencyId id="003431" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="NEURAL NETWORK" typeDescription="Found in WORK HISTORY; POS-2" typeId="003431" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NEURAL NETWORK">
+				<CompetencyId id="200038" idOwner="200040" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="NEURAL NETWORK" typeDescription="Found in WORK HISTORY; POS-2" typeId="200038" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PAID CLAIMS">
+				<CompetencyId id="004260" />
+				<TaxonomyId id="183" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="PAID CLAIMS" typeDescription="Found in WORK HISTORY; POS-2" typeId="004260" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES TEAM">
+				<CompetencyId id="030830" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES TEAM" typeDescription="Found in WORK HISTORY; POS-2" typeId="030830" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CHANNEL MARKETING">
+				<CompetencyId id="1400100" />
+				<TaxonomyId id="590" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="CHANNEL MARKETING" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-4" typeId="1400100" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CHANNEL MARKETING">
+				<CompetencyId id="1400386" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="CHANNEL MARKETING" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-4" typeId="1400386" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="E-LEARNING">
+				<CompetencyId id="015921" />
+				<TaxonomyId id="359" idOwner="64" description="Sovren" />
+				<CompetencyEvidence name="E-LEARNING" typeDescription="Found in WORK HISTORY; POS-4" typeId="015921" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="E-LEARNING">
+				<CompetencyId id="9000184" />
+				<TaxonomyId id="580" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="E-LEARNING" typeDescription="Found in WORK HISTORY; POS-4" typeId="9000184" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="HR">
+				<CompetencyId id="019094" />
+				<TaxonomyId id="262" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="HR" typeDescription="Found in WORK HISTORY; POS-4" typeId="019094" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INCREASED SALES">
+				<CompetencyId id="030470" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="INCREASED SALES" typeDescription="Found in WORK HISTORY; POS-4" typeId="030470" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LEAD GENERATION">
+				<CompetencyId id="081147" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="LEAD GENERATION" typeDescription="Found in WORK HISTORY; POS-4" typeId="081147" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LEAD GENERATION">
+				<CompetencyId id="081150" />
+				<TaxonomyId id="104" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="LEAD GENERATION" typeDescription="Found in WORK HISTORY; POS-4" typeId="081150" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPEX">
+				<CompetencyId id="7000126" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="OPEX" typeDescription="Found in WORK HISTORY; POS-4" typeId="7000126" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL SALES">
+				<CompetencyId id="022943" />
+				<TaxonomyId id="511" idOwner="78" description="Sovren" />
+				<CompetencyEvidence name="RETAIL SALES" typeDescription="Found in WORK HISTORY; POS-4" typeId="022943" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL SALES">
+				<CompetencyId id="030648" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="RETAIL SALES" typeDescription="Found in WORK HISTORY; POS-4" typeId="030648" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SATISFACTION">
+				<CompetencyId id="030000" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SATISFACTION" typeDescription="Found in WORK HISTORY; POS-4" typeId="030000" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCE">
+				<CompetencyId id="023147" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCE" typeDescription="Found in EDUCATION; DEG-1" typeId="023147" lastUsed="2009-01-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL SERVICES">
+				<CompetencyId id="017478" />
+				<TaxonomyId id="239" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCIAL SERVICES" typeDescription="Found in SUMMARY" typeId="017478">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MATHEMATICS">
+				<CompetencyId id="9000120" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="MATHEMATICS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="9000120">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPTIMIZATION">
+				<CompetencyId id="023294" />
+				<TaxonomyId id="198" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="OPTIMIZATION" typeDescription="Found in EDUCATION; DEG-3" typeId="023294" lastUsed="2014-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPTIMIZATION">
+				<CompetencyId id="023295" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="OPTIMIZATION" typeDescription="Found in EDUCATION; DEG-3" typeId="023295" lastUsed="2014-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>B.E. (hons), Marine Engineering		1999-2003</Description>
+			</Achievement>
+			<Achievement>
+				<Description>GMAT-2007: 750/800; Globally 99 Percentile and full marks in Mathematics</Description>
+			</Achievement>
+			<Achievement>
+				<Description>IIT JEE-1999: Placed amongst top 2% of appearing candidates</Description>
+			</Achievement>
+			<Achievement>
+				<Description>US Visa: B1/ B2 type (valid till 2024)</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2015-07-02</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>RITESH KUMAR's experience appears to be concentrated in Marketing / General, with exposure to Sales / General. RITESH KUMAR has 11 years of work experience, with 6 years of management experience, including a mid-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>130</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>11</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>88</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>7</sov:YearsOfManagementExperience>
+				<sov:CurrentManagementLevel>low-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>55</sov:HighestManagementScore>
+				<sov:ExecutiveType>business_dev</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a mid-level management role: Director, Analytics Solution Development
+Starting on 6/1/2013, the candidate held the following mid-level management position for 2 years and 1 months:
+	Title: Director, Analytics Solution Development for SCIO Health Analytics
+Current position is a low-level management role: Co-lead for Sales &amp; Marketing analytics solution for Health Insurance Plans
+Starting on 6/1/2014, the candidate held the following low-level management position for 13 months:
+	Title: Co-lead for Sales &amp; Marketing analytics solution for Health Insurance Plans for SCIO Health Analytics, Hospital Readmission
+Starting on 6/1/2012, the candidate held the following mid-level management position for 12 months:
+	Title: Vice President, Business Development
+Starting on 4/1/2009, the candidate held the following mid-level management position for 3 years and 2 months:
+	Title: Vice President, Business Development for SHARE Microfin Limited</sov:ManagementStory>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="14" rootId="Sovren" name="Marketing" weight="3310.63" percentOfOverall="28.21" percentOfParent="28.21">
+						<sov:BestFitTaxonomy id="249" rootId="Sovren" name="General" weight="2834.35" percentOfOverall="24.15" percentOfParent="85.61" />
+						<sov:BestFitTaxonomy id="226" rootId="Sovren" name="Channel Management" weight="359.64" percentOfOverall="3.06" percentOfParent="10.86" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="20" rootId="Sovren" name="Sales" weight="2719.44" percentOfOverall="23.17" percentOfParent="23.17">
+						<sov:BestFitTaxonomy id="105" rootId="Sovren" name="General" weight="2654.64" percentOfOverall="22.62" percentOfParent="97.62" />
+						<sov:BestFitTaxonomy id="104" rootId="Sovren" name="Account Management" weight="64.80" percentOfOverall="0.55" percentOfParent="2.38" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="2" ends="4" sectionType="SUMMARY">EXPERIENCE SUMMARY</sov:Section>
+				<sov:Section starts="5" ends="69" sectionType="WORK HISTORY">PROFESSIONAL EXPERIENCE</sov:Section>
+				<sov:Section starts="70" ends="76" sectionType="EDUCATION">EDUCATION</sov:Section>
+				<sov:Section starts="77" ends="81" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">ACADEMIC ACHIEVEMENTS</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>6762</sov:ParsedTextLength>
+			<sov:ParseTime>843</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

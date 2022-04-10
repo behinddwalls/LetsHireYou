@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>PANKAJ CHHABRA</FormattedName>
+				<GivenName>PANKAJ</GivenName>
+				<FamilyName>CHHABRA</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>(+91) 9916715376</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>pankaj90chhabra@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Analytics Quotient India Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Senior Business Analyst</Title>
+					<OrgName>
+						<OrganizationName>Analytics Quotient India Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bengaluru</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Analytics Quotient India Pvt. Ltd., Bengaluru		Sept '12 - Till Date
+Client: One of the world's leading global beverage company
+Designation: Senior Business Analyst
+• Responsible for developing insights &amp; strategies across Industries for the client
+•     Received the highest rating in appraisal cycle 2012-13 and 2013-2014 along with Star Performer Award for my work
+
+
+Latest Project: FIFA World Cup'14
+•     Analyze the effectiveness of FIFA World Cup Campaign in detail and understood the impact of key business and brand heath indicators for the focus markets
+•     Calculated the volume impact of FIFA WC using seasonality approach
+•     Did a regression exercise in R to measure the impact of media investment across various channels
+
+Understanding the impact of an Ad Campaign
+•     Analysed the impact of a global marketing campaign on volume, equity and social media for a leading beverage
+company across European Markets
+•     Developed a word cloud to analyze the buzz of the campaign and the sentiment of people towards the Ad
+Campaign using an online tool</Description>
+					<StartDate>
+						<AnyDate>2012-09-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-04</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>29</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>29</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>32</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="trade">
+				<School>
+					<SchoolName>B. Tech/Electronics &amp; Communication Engineering</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>JHARKHAND</Region>
+					<Municipality>Ranchi</Municipality>
+				</PostalAddress>
+				<Degree degreeType="certification">
+					<DegreeName>Certificate</DegreeName>
+					<DegreeDate>
+						<AnyDate>2008-12-01</AnyDate>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2008-12-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Degree / Certificate	Year	Institution	Grade
+B. Tech/Electronics &amp; Communication Engineering       2008-12	BIT (Mesra), Ranchi	6.35/10</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="highschool">
+				<School>
+					<SchoolName>DAV Sr. Secondary school</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>PUNJAB</Region>
+					<Municipality>Abohar</Municipality>
+				</PostalAddress>
+				<Degree degreeType="high school or equivalent">
+					<DegreeName>Class XII</DegreeName>
+					<DegreeDate>
+						<AnyDate>2008-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>78.6</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2008-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Class XII: C.B.S.E. (AISSCE)	2008         DAV Sr. Secondary school, Abohar	78.6%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.786</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="highschool">
+				<School>
+					<SchoolName>Nosegay Public School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>RAJASTHAN</Region>
+					<Municipality>Sri Ganganagar</Municipality>
+				</PostalAddress>
+				<Degree degreeType="some high school or equivalent">
+					<DegreeName>Class X</DegreeName>
+					<DegreeDate>
+						<AnyDate>2006-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>92.8</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2006-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Class X: C.B.S.E. (AISSE)	2006      Nosegay Public School, Sri Ganganagar          92.8%
+
+
+Academic Achievements
+th</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.928</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="trade">
+				<School>
+					<SchoolName>Topped the school in class</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>certificate</DegreeName>
+					<DegreeMajor>
+						<Name>Science and Maths</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>96.6</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+					</DatesOfAttendance>
+					<Comments>•     Received merit certificate in class 10 for scoring 100% in science and featured in the top 0.1% of the candidates
+•     Secured an All India percentile of 99.15% in AIEEE'08 amongst 8,64, 000 students
+th
+•     Topped the school in class 10        with 96.6% marks in Science and Maths</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-4</sov:Id>
+							<sov:Graduated>true</sov:Graduated>
+							<sov:NormalizedGPA>0.966</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Degree / Certificate                      Year                      Institution                    Grade</Name>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Degree / Certificate	Year	Institution	Grade</Name>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Technical Skills
+•     Proficient in MS Excel, PowerPoint, SQL, R, Working Knowledge of SAS and SPSS
+
+Position of responsibilities
+Core Team Member, PINNACLE'08
+•     Represented 250 students of my hostel in the organizing committee of PINNACLE'08 (annual sports fest, BIT)
+•     Led a team of 8 people to conduct basketball, table tennis and chess competitions at college level
+•     Initiated night football matches for the first time in BIT
+•     Ensured smooth and timely conduction of all the events</QualificationSummary>
+			<Competency name="APPRAISAL">
+				<CompetencyId id="021926" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="APPRAISAL" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1" typeId="021926" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">34</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AWARD">
+				<CompetencyId id="030006" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AWARD" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1" typeId="030006" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">34</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING">
+				<CompetencyId id="021241" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING" typeDescription="Found in WORK HISTORY; POS-1" typeId="021241" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">34</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING CAMPAIGN">
+				<CompetencyId id="1400308" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING CAMPAIGN" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400308" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">34</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING CAMPAIGN">
+				<CompetencyId id="1400348" />
+				<TaxonomyId id="592" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING CAMPAIGN" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400348" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">34</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL">
+				<CompetencyId id="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL" typeDescription="Found in SKILLS" typeId="022841">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS EXCEL">
+				<CompetencyId id="002864" idOwner="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS EXCEL" typeDescription="Found in SKILLS" typeId="002864">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="POWERPOINT">
+				<CompetencyId id="022344" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="POWERPOINT" typeDescription="Found in SKILLS" typeId="022344">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="007445" />
+				<TaxonomyId id="341" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="007445">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="100728601" idOwner="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="100728601">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="1400078" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="1400078">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5540979" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="5540979">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5551185" />
+				<TaxonomyId id="555" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="5551185">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="9000114" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="9000114">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="Serial Attached SCSI">
+				<CompetencyId id="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="Serial Attached SCSI" typeDescription="Found in SKILLS" typeId="1007286">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027121" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in SKILLS" typeId="027121">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027122" />
+				<TaxonomyId id="233" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in SKILLS" typeId="027122">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="9000110" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in SKILLS" typeId="9000110">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL">
+				<CompetencyId id="008481" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL" typeDescription="Found in SKILLS" typeId="008481">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLASS">
+				<CompetencyId id="5530927" idOwner="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CLASS" typeDescription="Found in EDUCATION; DEG-2; DEG-3" typeId="5530927" lastUsed="2008-01-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM">
+				<CompetencyId id="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM" typeDescription="Found in EDUCATION; DEG-2; DEG-3" typeId="5530926" lastUsed="2008-01-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Received the highest rating in appraisal cycle 2012-13 and 2013-2014 along with Star Performer Award for my work</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Analyze the effectiveness of FIFA World Cup Campaign in detail and understood the impact of key business and</Name>
+			</Association>
+			<Association>
+				<Name>Understanding the impact of an Ad Campaign</Name>
+			</Association>
+			<Association>
+				<Name>Campaign using an online tool</Name>
+			</Association>
+			<Association>
+				<Name>Core Team Member, PINNACLE</Name>
+				<EndDate>
+					<AnyDate>2008-01-01</AnyDate>
+				</EndDate>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+			<Association>
+				<Name>of BIT Table Tennis Institute Team</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2015-07-04</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>PANKAJ CHHABRA's experience appears to be concentrated in Sales / General, with exposure to Business Operations and General Business / General Skills and Activities. PANKAJ CHHABRA's experience appears to be LOWER-TO-MID LEVEL, with about 3 years of experience, with no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>34</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>3</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="20" rootId="Sovren" name="Sales" weight="311.04" percentOfOverall="27.74" percentOfParent="27.74">
+						<sov:BestFitTaxonomy id="105" rootId="Sovren" name="General" weight="311.04" percentOfOverall="27.74" percentOfParent="100.00" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="34" rootId="Sovren" name="Business Operations and General Business" weight="311.04" percentOfOverall="27.74" percentOfParent="27.74">
+						<sov:BestFitTaxonomy id="437" rootId="Sovren" name="General Skills and Activities" weight="311.04" percentOfOverall="27.74" percentOfParent="100.00" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Hobbies>
+				<sov:Text>•     Member of BIT Table Tennis Institute Team
+•     Won the BIT Open Tournament in 2010 among 64 participants
+•     Winner of Quiz competition amongst 30 students at school Level</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="5" ends="19" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="20" ends="40" sectionType="WORK HISTORY">Professional Experience</sov:Section>
+				<sov:Section starts="41" ends="50" sectionType="SKILLS">Technical Skills</sov:Section>
+				<sov:Section starts="51" ends="54" sectionType="HOBBIES">Interest / Hobbies</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>3108</sov:ParsedTextLength>
+			<sov:ParseTime>375</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

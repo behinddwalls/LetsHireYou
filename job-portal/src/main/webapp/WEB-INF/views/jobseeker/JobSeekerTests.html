@@ -1,0 +1,14 @@
+<!-- This represents all the data for one tests that needs to be shown -->
+
+<div class="col-lg-10 col-lg-offset-0 work-experience">
+	<div class="col-sm-11 col-xs-10 pull-left">		
+		<input class ="userTestId" type="hidden" name="testId" value=' + testObj.testId + ' >
+		<h5 class="text-capitalize">'+ ((checkEmpty(testObj.testName))?"":testObj.testName) +"    " +((checkEmpty(testObj.testScore))?"":testObj.testScore) + '</h5>
+		<h4>' + ((checkEmpty(testObj.testDate))?"":testObj.testDate) + '</h4>		
+		<p>'+ ((checkEmpty(testObj.testDescription))?"":testObj.testDescription) +'</p>		
+	</div>
+	<div class="pull-left col-sm-1 col-xs-2"
+		style="color: grey; font-size: 1.2em;">
+		<i class="fa fa-pencil editUserTest"></i>
+	</div>
+</div>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Sakshi Khetarpal</FormattedName>
+				<GivenName>Sakshi</GivenName>
+				<FamilyName>Khetarpal</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91 7056472780</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>sakshikhetarpal@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Deloitte &amp; Touche' Risk Services India Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Audit Senior</Title>
+					<OrgName>
+						<OrganizationName>Deloitte &amp; Touche' Risk Services India Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>August 2010- January 2015          Deloitte &amp; Touche' Risk Services India Pvt. Ltd., Hyderabad
+
+Last Position Held: Audit Senior (Audit In Charge)
+Key Result Areas:
+• Financial Statement Audits of Investment Management clients (fund audits), primarily Private Equity and Hedge
+Funds for both Interim and year end rounds.
+• Executed, Supervised and reviewed work on various audit areas and demonstrated the ability to identify
+significant accounting and auditing issues during audit.
+• Assisted and supervised areas such as investment testing, distribution testing, management/advisory fee testing,
+Incentive fee testing, Advisory Fee testing, Capital Roll forwards, Cost Roll forwards, NPV and IRR Analysis,
+Waterfall Calculations, evaluation of material misstatements, representation letters, engagement letters, GAAP
+Checklists, interim and year end analytics, Financial statement referencing and report checks.
+
+Accomplishments:
+• Effective feedback and appreciation both from the team managers and the on-site team members.
+• 2 spot awards for extraordinary commitment and hardwork during the busy seasons.</Description>
+					<StartDate>
+						<AnyDate>2010-08-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-01-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>31</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>22</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>127</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Lady Shri Ram College, Delhi University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelors of Commerce</DegreeName>
+					<DegreeDate>
+						<AnyDate>2010-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Commerce</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>66</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2010-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2010   Bachelors of Commerce (Hons.) from Lady Shri Ram College, Delhi University with 66%
+th</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.660</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>Sacred Heart Convent School</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeName>C.B.S.E.</DegreeName>
+					<DegreeDate>
+						<AnyDate>2007-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>94.2</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2007-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2007   12 Sacred Heart Convent School, C.B.S.E. with 94.2%
+th</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.942</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>Sacred Heart Convent School</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeName>C.B.S.E.</DegreeName>
+					<DegreeDate>
+						<AnyDate>2005-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>89.2</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2005-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2005   10 Sacred Heart Convent School, C.B.S.E. with 89.2%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.892</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>CPA</Name>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>CFA</Name>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified Public Accountant</Name>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Chartered Financial Analyst</Name>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>CORE COMPETENCIES                                           PROFILE SNAPSHOT
+
+Financial Reporting and Analysis    •    US GAAP and IFRS reporting knowledge. CPA and CFA level 1 cleared.
+
+•    Four Years of work experience in External Audit with a Big 4. Gained
+External Audit
+experience in financial reporting and financial statement analysis.
+
+Financial Audits            •    Performed both AICPA and PCAOB audits.
+
+Team Management              •    Team Player. Good at multi tasking and sustaining a dynamic environment
+to motivate high performance amongst team members.
+
+
+IT SKILLS
+
+MS Office, PowerPoint, As2, EMS</QualificationSummary>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="005856" />
+				<TaxonomyId id="533" idOwner="89" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in WORK HISTORY; POS-1" typeId="005856" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="022499" />
+				<TaxonomyId id="944" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in WORK HISTORY; POS-1" typeId="022499" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="7000036" />
+				<TaxonomyId id="705" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in WORK HISTORY; POS-1" typeId="7000036" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="7000058" />
+				<TaxonomyId id="706" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in WORK HISTORY; POS-1" typeId="7000058" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDIT">
+				<CompetencyId id="005582" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="AUDIT" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="005582" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDIT">
+				<CompetencyId id="005583" />
+				<TaxonomyId id="245" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="AUDIT" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="005583" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDIT">
+				<CompetencyId id="005584" />
+				<TaxonomyId id="943" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="AUDIT" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="005584" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDITING">
+				<CompetencyId id="005665" />
+				<TaxonomyId id="241" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="AUDITING" typeDescription="Found in WORK HISTORY; POS-1" typeId="005665" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDITING">
+				<CompetencyId id="005666" />
+				<TaxonomyId id="943" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="AUDITING" typeDescription="Found in WORK HISTORY; POS-1" typeId="005666" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDITING">
+				<CompetencyId id="005667" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="AUDITING" typeDescription="Found in WORK HISTORY; POS-1" typeId="005667" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDITS">
+				<CompetencyId id="005789" />
+				<TaxonomyId id="943" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="AUDITS" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="005789" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLIENTS">
+				<CompetencyId id="030017" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="CLIENTS" typeDescription="Found in WORK HISTORY; POS-1" typeId="030017" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GAAP">
+				<CompetencyId id="018063" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="GAAP" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="018063" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GAAP">
+				<CompetencyId id="080996" />
+				<TaxonomyId id="960" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="GAAP" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="080996" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GAAP">
+				<CompetencyId id="081169" />
+				<TaxonomyId id="117" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="GAAP" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="081169" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GAAP">
+				<CompetencyId id="7000094" />
+				<TaxonomyId id="708" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="GAAP" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="7000094" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TESTING">
+				<CompetencyId id="009472" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="TESTING" typeDescription="Found in WORK HISTORY; POS-1" typeId="009472" lastUsed="2015-01-01">
+					<NumericValue description="Total Months">53</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTANT">
+				<CompetencyId id="005727" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTANT" typeDescription="Found in CERTIFICATIONS" typeId="005727">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTANT">
+				<CompetencyId id="025800" />
+				<TaxonomyId id="950" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTANT" typeDescription="Found in CERTIFICATIONS" typeId="025800">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AWARD">
+				<CompetencyId id="030006" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AWARD" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="030006">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BIG 4">
+				<CompetencyId id="011516" idOwner="027034" />
+				<TaxonomyId id="950" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="BIG 4" typeDescription="Found in SKILLS" typeId="011516">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BIG 5">
+				<CompetencyId id="027034" />
+				<TaxonomyId id="950" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="BIG 5" typeDescription="Found in SKILLS" typeId="027034">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CASH">
+				<CompetencyId id="012605" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CASH" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="012605">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CERTIFIED PUBLIC ACCOUNTANT">
+				<CompetencyId id="7000011" idOwner="7000010" />
+				<TaxonomyId id="702" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CERTIFIED PUBLIC ACCOUNTANT" typeDescription="Found in CERTIFICATIONS" typeId="7000011">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CERTIFIED PUBLIC ACCOUNTANT">
+				<CompetencyId id="7000053" idOwner="7000052" />
+				<TaxonomyId id="706" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CERTIFIED PUBLIC ACCOUNTANT" typeDescription="Found in CERTIFICATIONS" typeId="7000053">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CERTIFIED PUBLIC ACCOUNTANT">
+				<CompetencyId id="7000300" idOwner="7000031" />
+				<TaxonomyId id="705" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CERTIFIED PUBLIC ACCOUNTANT" typeDescription="Found in CERTIFICATIONS" typeId="7000300">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CFA">
+				<CompetencyId id="012939" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CFA" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="012939">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLASS">
+				<CompetencyId id="5530927" idOwner="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CLASS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="5530927">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM">
+				<CompetencyId id="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="5530926">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CPA">
+				<CompetencyId id="014537" />
+				<TaxonomyId id="950" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="CPA" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="014537">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CPA">
+				<CompetencyId id="7000010" />
+				<TaxonomyId id="702" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CPA" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="7000010">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CPA">
+				<CompetencyId id="7000031" />
+				<TaxonomyId id="705" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CPA" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="7000031">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CPA">
+				<CompetencyId id="7000052" />
+				<TaxonomyId id="706" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CPA" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="7000052">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL ANALYST">
+				<CompetencyId id="017457" />
+				<TaxonomyId id="234" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCIAL ANALYST" typeDescription="Found in CERTIFICATIONS" typeId="017457">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL AUDITS">
+				<CompetencyId id="017460" />
+				<TaxonomyId id="943" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="FINANCIAL AUDITS" typeDescription="Found in SKILLS" typeId="017460">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL REPORTING">
+				<CompetencyId id="017474" />
+				<TaxonomyId id="234" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCIAL REPORTING" typeDescription="Found in SKILLS" typeId="017474">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL REPORTING">
+				<CompetencyId id="023154" />
+				<TaxonomyId id="962" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="FINANCIAL REPORTING" typeDescription="Found in SKILLS" typeId="023154">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL REPORTING">
+				<CompetencyId id="7000141" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCIAL REPORTING" typeDescription="Found in SKILLS" typeId="7000141">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL STATEMENT ANALYSIS">
+				<CompetencyId id="017479" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCIAL STATEMENT ANALYSIS" typeDescription="Found in SKILLS" typeId="017479">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS OFFICE">
+				<CompetencyId id="022136" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS OFFICE" typeDescription="Found in SKILLS" typeId="022136">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS OFFICE">
+				<CompetencyId id="022137" />
+				<TaxonomyId id="351" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MS OFFICE" typeDescription="Found in SKILLS" typeId="022137">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="POWERPOINT">
+				<CompetencyId id="022344" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="POWERPOINT" typeDescription="Found in SKILLS" typeId="022344">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TEAM MANAGEMENT">
+				<CompetencyId id="025953" />
+				<TaxonomyId id="199" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="TEAM MANAGEMENT" typeDescription="Found in SKILLS" typeId="025953">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TEAM MANAGEMENT">
+				<CompetencyId id="025954" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="TEAM MANAGEMENT" typeDescription="Found in SKILLS" typeId="025954">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TEAM MANAGEMENT">
+				<CompetencyId id="025955" />
+				<TaxonomyId id="517" idOwner="80" description="Sovren" />
+				<CompetencyEvidence name="TEAM MANAGEMENT" typeDescription="Found in SKILLS" typeId="025955">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TEAM PLAYER">
+				<CompetencyId id="026528" />
+				<TaxonomyId id="239" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="TEAM PLAYER" typeDescription="Found in SKILLS" typeId="026528">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TEAM PLAYER">
+				<CompetencyId id="026529" />
+				<TaxonomyId id="528" idOwner="90" description="Sovren" />
+				<CompetencyEvidence name="TEAM PLAYER" typeDescription="Found in SKILLS" typeId="026529">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>2010   Bachelors of Commerce (Hons.) from Lady Shri Ram College, Delhi University with 66</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Student of the Year 2006-2007 (Class XII) and 2005-2006 (Class XI) in school. Recipient of General Proficiency</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Honoured for my excellent performance in Class XII with Cash Award, Amul Vidya Bhushan Award and DAV</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Management Institute Award</Description>
+			</Achievement>
+			<Achievement>
+				<Description>third prize (2008). Presented on the topic "Corporate Social Responsibility"</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Participated in " Fun with Junk" competition in 2009 and won the first prize</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Recipient of awards in Collage making, Slogan Writing and poster competitions in school</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Bachelors of Commerce (Hons.) from Lady Shri Ram College, Delhi University with 66</Name>
+				<EndDate>
+					<AnyDate>2010-01-01</AnyDate>
+				</EndDate>
+			</Association>
+		</Associations>
+		<RevisionDate>2015-07-02</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Sakshi Khetarpal's experience appears to be concentrated in Finance / Compliance, with exposure to Degreed Accounting / Other. Sakshi Khetarpal's experience appears to be LOWER-TO-MID LEVEL, with about 4 years of experience, with no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>53</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>4</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="7" rootId="Sovren" name="Finance" weight="1639.14" percentOfOverall="33.42" percentOfParent="33.42">
+						<sov:BestFitTaxonomy id="245" rootId="Sovren" name="Compliance" weight="343.44" percentOfOverall="7.00" percentOfParent="20.95" />
+						<sov:BestFitTaxonomy id="235" rootId="Sovren" name="Financial Planning &amp; Analysis" weight="207.72" percentOfOverall="4.23" percentOfParent="12.67" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="32" rootId="Sovren" name="Degreed Accounting" weight="1623.89" percentOfOverall="33.11" percentOfParent="33.11">
+						<sov:BestFitTaxonomy id="943" rootId="Sovren" name="Other" weight="901.68" percentOfOverall="18.38" percentOfParent="55.53" />
+						<sov:BestFitTaxonomy id="960" rootId="Sovren" name="Management" weight="343.44" percentOfOverall="7.00" percentOfParent="21.15" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="7" ends="20" sectionType="SKILLS">CORE COMPETENCIES</sov:Section>
+				<sov:Section starts="21" ends="41" sectionType="WORK HISTORY">EMPLOYMENT DETAILS</sov:Section>
+				<sov:Section starts="42" ends="49" sectionType="EDUCATION">EDUCATION</sov:Section>
+				<sov:Section starts="50" ends="110" sectionType="CERTIFICATIONS">Certifications:</sov:Section>
+				<sov:Section starts="111" ends="113" sectionType="SKILLS">IT SKILLS</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>6782</sov:ParsedTextLength>
+			<sov:ParseTime>375</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

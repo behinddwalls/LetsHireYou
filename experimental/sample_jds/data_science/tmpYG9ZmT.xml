@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Data Scientist</MainJobTitle>
+    <JobTitle>Data Scientist</JobTitle>
+    <JobTitle>Data Analytics Scientist</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <EmployerName>BMC Software is looking</EmployerName>
+    <EmployerName>BMC Software</EmployerName>
+  </EmployerNames>
+  <SchoolNames>
+    <SchoolName>BMC</SchoolName>
+  </SchoolNames>
+  <RequiredSkills>
+    <RequiredSkill>prototypes</RequiredSkill>
+    <RequiredSkill>quantitative</RequiredSkill>
+    <RequiredSkill>SAAS</RequiredSkill>
+  </RequiredSkills>
+  <OtherSkills>
+    <OtherSkill>ALGORITHMS</OtherSkill>
+    <OtherSkill>BIOINFORMATICS</OtherSkill>
+    <OtherSkill>BMC</OtherSkill>
+    <OtherSkill>C++</OtherSkill>
+    <OtherSkill>CAPACITY PLANNING</OtherSkill>
+    <OtherSkill>DATA ANALYTICS</OtherSkill>
+    <OtherSkill>DATA SOURCES</OtherSkill>
+    <OtherSkill>EXCELLENT VERBAL AND WRITTEN COMMUNICATION SKILLS</OtherSkill>
+    <OtherSkill>JAVA</OtherSkill>
+    <OtherSkill>LEADERSHIP SKILLS</OtherSkill>
+    <OtherSkill>MACHINE LEARNING</OtherSkill>
+    <OtherSkill>MATHEMATICS</OtherSkill>
+    <OtherSkill>MATLAB</OtherSkill>
+    <OtherSkill>NATURAL</OtherSkill>
+    <OtherSkill>NATURAL LANGUAGE PROCESSING</OtherSkill>
+    <OtherSkill>OPERATIONS</OtherSkill>
+    <OtherSkill>Pig</OtherSkill>
+    <OtherSkill>PREDICTIVE ANALYTICS</OtherSkill>
+    <OtherSkill>PROTOTYPE</OtherSkill>
+    <OtherSkill>PYTHON</OtherSkill>
+    <OtherSkill>SAS</OtherSkill>
+    <OtherSkill>Serial Attached SCSI</OtherSkill>
+    <OtherSkill>SOFTWARE AS A SERVICE</OtherSkill>
+    <OtherSkill>SQL</OtherSkill>
+    <OtherSkill>STATISTICS</OtherSkill>
+    <OtherSkill>SWITCH CAPACITY</OtherSkill>
+    <OtherSkill>UNSTRUCTURED DATA</OtherSkill>
+  </OtherSkills>
+  <Taxonomies>
+    <Taxonomy type="best fit">
+      <ParentTaxonomyId>10</ParentTaxonomyId>
+      <ParentTaxonomyName>Information Technology</ParentTaxonomyName>
+      <SubTaxonomyId>553</SubTaxonomyId>
+      <SubTaxonomyName>Big Data</SubTaxonomyName>
+    </Taxonomy>
+    <Taxonomy type="second best fit">
+      <ParentTaxonomyId>5</ParentTaxonomyId>
+      <ParentTaxonomyName>Engineering</ParentTaxonomyName>
+      <SubTaxonomyId>298</SubTaxonomyId>
+      <SubTaxonomyName>Surveying</SubTaxonomyName>
+    </Taxonomy>
+  </Taxonomies>
+  <Education>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>computer science,statistics,mathematics,bioinformatics</DegreeName>
+    </Degree>
+  </Education>
+  <MinimumYears>3</MinimumYears>
+  <MaximumYears>10</MaximumYears>
+  <RequiredDegree>masters</RequiredDegree>
+  <TypeOfSource>stJobOrder</TypeOfSource>
+  <SourceText>Data Scientist
+
+Description
+
+BMC Software is looking for a Data Analytics Scientist for our Performance &amp; Availability TrueSight Organization. The Data Scientist will provide in-depth market, customer and product insights while working in a cross-functional team environment to add value to the business.  By actively participating in strategic discussions the Data Scientist will develop insights and analytics models to grow the TrueSight business.
+Primary job responsibilities
+Design applications targeted at analzing large volumes of performance and operations data enabling customers to make key business decisions.
+Create algorithms that analyze high-volume, unstructured data sources to build models for understanding application peformance and availability.
+Create visualizations of structured and unstructured performance and operations data for internal and external consumption
+Collaborate with other architects, developers, and other functional team members
+
+Qualifications
+
+Familiarity with Natural Language Processing, Machine Learning, Predictive Modelling, Graph Analysis with practical experience with at least one of the disciplines mentioned.
+Ability to program preferably in multiple programming languages such as Java, R, SAS, Python, MatLAB, Pig or SQL
+Ability to create examples, prototypes, demonstrations coupled with an ability to communicate findings to both business stakeholders and the executive leadership team
+Ability to track down complex data and engineering issues, evaluate different algorithmic approaches, and analyze data to solve problem
+Ability to extract and query very large data sets using Java, Python, SQL, Pig and successively refines applicable parameters to accurately express data trends or anomalies.
+3+ years experience as a Data Scientist working on Big Data and Predictive Analytics (bonus points for experience in performance data, events, capacity planning etc.)
+10+ years experience in designing and developing software products with a general-purpose language such as Python, C++, Java etc.
+	Masters or equivalent experience in a quantitative field (computer science, statistics, mathematics, bioinformatics etc.)
+Experience in working on SAAS products or large enterprise products is highly desirable
+Effective leadership skills
+Excellent verbal and written communication skills
+Ability to work effectively with customers.</SourceText>
+  <RevisionDate>2014-12-03</RevisionDate>
+</SovrenData>

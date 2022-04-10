@@ -1,0 +1,17 @@
+<!-- This represents all the data for one publication that needs to be shown -->
+
+<div class="col-lg-10 col-lg-offset-0 work-experience">
+	<div class="col-sm-11 col-xs-10 pull-left">		
+		<input class="userPublicationId" type="hidden" name="publicationId"
+			value=' + publicationObj.publicationId + '>
+		<h5>'+ ((checkEmpty(publicationObj.publicationTitle))?"":publicationObj.publicationTitle) + ((checkEmpty(publicationObj.publicationOrganisation))?"":" - "+publicationObj.publicationOrganisation) +'</h5>
+		<h4>' + ((checkEmpty(publicationObj.publicationDate))?"":publicationObj.publicationDate) + '</h4>
+			
+		<p>'+ ((checkEmpty(publicationObj.publicationDescription))?"":publicationObj.publicationDescription) +'</p>
+	</div>					
+	<div class="pull-left col-sm-1 col-xs-2"
+		style="color: grey; font-size: 1.2em;">
+		<i class="fa fa-pencil editUserPublication"></i>
+	</div>
+	
+</div>

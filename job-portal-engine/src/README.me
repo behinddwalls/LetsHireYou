@@ -1,0 +1,37 @@
+### Calling the analytics engine
+
+We need to call just the "outputScore" method in the "backupScore()" class.
+
+This outputs the final score out of 100 as well as the relevant skills and the years experience the applicant has
+in those skills, and the relevant skill domains. 'inresume' should be an XML file of the resume, and 'job' is a python
+dict of the job description with keys 'title', 'education', 'description', and 'skills'. The variable 'score_dict'
+contains all of the scores and their key values, 'total', 'education', 'skills', and 'job_history'. The variable
+'relevant_skills' is a list of tuples, each tuple containing an employee skill and the number of years experience
+they have in that skill. Example, [('c++', 5.0), ('java',2.0), ...] Finally, 'employee_skill_domains' is a list
+of tuples of all the skill domains the applicant has, as well as domain score. This should be the only method called!
+
+E.g for testing we call the method using the following Python script.
+
+```python
+
+from ultra_algorithm import backupScore
+from glob2 import glob
+import os
+
+f = backupScore()
+for resume in glob('/home/shubham/Dropbox/ultra/complete/*.xml'):
+    for job_desc in glob('/home/shubham/Dropbox/ultra/JDs/Data science/analytics/tmpvyVDgj.xml'):
+        test_new = f.outputScore(resume, job_desc, 'sovren')
+        print os.path.basename(glob(resume)[0]), os.path.basename(glob(job_desc)[0]),',', test_new
+```
+
+
+### Requirements
+Requirements for the engine are mentioned in the requirements.txt file.
+Please confirm that "python-Levenshtein" is installed. The engine would work if its not, but would be very slow.
+
+```python
+sudo pip install -r requirements.txt
+```
+
+

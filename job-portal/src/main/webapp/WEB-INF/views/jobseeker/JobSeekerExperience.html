@@ -1,0 +1,17 @@
+<!-- This represents all the data that needs to be shown -->
+
+<div class="col-lg-10 col-lg-offset-0 work-experience">	
+	<div class="col-sm-11 col-xs-10 pull-left">
+		<input class ="jobExpId" type="hidden" name="experienceId" value=' + expObj.experienceId + ' >
+		<h5>'+ ((checkEmpty(expObj.companyName))?"":expObj.companyName) +((checkEmpty(expObj.roleName))?"":(" - "+ expObj.roleName))  +'</h5>
+		<h4>' + ((checkEmpty(expObj.startDate))?"":expObj.startDate) + ((checkEmpty(expObj.endDate))?"":(" - "+expObj.endDate))  + '</h4>
+		<div class="clearfix"></div>		
+		<h4>'+((checkEmpty(expObj.location))?"":expObj.location) +'</h4>
+		<p>'+ ((checkEmpty(expObj.description))?"":expObj.description) +'</p>			
+	</div>
+	<div class="pull-left col-sm-1 col-xs-2"
+		style="color: grey; font-size: 1.2em;">
+		<i class="fa fa-pencil editJobExp"></i>
+	</div>
+</div>
+

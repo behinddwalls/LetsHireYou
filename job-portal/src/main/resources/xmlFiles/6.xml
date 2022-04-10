@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>ROHIT DASSANI</FormattedName>
+				<GivenName>ROHIT</GivenName>
+				<FamilyName>DASSANI</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91-9910755776</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>rohitdassani@yahoo.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Stryker</EmployerOrgName>
+				<PositionHistory positionType="volunteer" currentEmployer="true">
+					<Title>work as a System Administrator</Title>
+					<OrgName>
+						<OrganizationName>Stryker</OrganizationName>
+					</OrgName>
+					<Description>•     Currently work as a System Administrator with Stryker (a Fortune 500 and one of the world largest</Description>
+					<StartDate>
+						<AnyDate>notKnown</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-04</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>10</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>58</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>medical technology company</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>CRM Administrator</Title>
+					<OrgName>
+						<OrganizationName>medical technology company</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>HARYANA</Region>
+							<Municipality>Gurgaon</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>medical technology company), Gurgaon from July, 2014 to till date.
+•     Worked as a CRM Administrator with Stryker (a Fortune 500 company), Gurgaon from November, 2012 to</Description>
+					<StartDate>
+						<AnyDate>2014-07-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-04</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbability>13</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>25</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>101</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>NebuLogic Technologies LLC</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Business Analyst</Title>
+					<OrgName>
+						<OrganizationName>NebuLogic Technologies LLC</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad </Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>June, 2014.   •     Worked as a Business Analyst with NebuLogic Technologies LLC., Hyderabad from December, 2011 to</Description>
+					<StartDate>
+						<AnyDate>2014-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2014-06-30</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbability>29</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>79</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Business Analyst</Title>
+					<OrgName>
+						<OrganizationName>NebuLogic Technologies LLC</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>NebuLogic Technologies LLC., Hyderabad, India
+Dec '11 - Nov '12		Business Analyst</Description>
+					<StartDate>
+						<AnyDate>2011-12-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-11-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-9</sov:Id>
+							<sov:CompanyNameProbability>29</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>80</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Xerox</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Client: Xerox, USA
+
+Major Projects
+~ Project 3 ~ (from Jul '12 to Nov '12)
+• Project for DHS - NJ (Department of Human Services, State of New Jersey) for their social welfare service
+information provided to children. The department provides social services and program for children welfare.
+• Involved in the creation of Business Requirements Document (BRD) with Process Flows (MS Visio Diagram) and Work Status Report (WSR) creation along with Functional Specifications Document (FSD).
+• Work delegation to other team members and configuration of CRM On Demand application (Field Setup,
+Role Management and access profiles, Page Layouts).</Description>
+					<StartDate>
+						<AnyDate>2012-07-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-11-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-10</sov:Id>
+							<sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>72</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Role Management and access profiles, Page Layouts</Title>
+					<OrgName>
+						<OrganizationName>California Public Utilities Commission, State of California</OrganizationName>
+					</OrgName>
+					<Description>~ Project 2 ~ (Development from Mar '12 to Jul '12, Support on-going)
+• Project for CPUC - CA (California Public Utilities Commission, State of California). The CA-LifeLine program
+provides discounted basic telephone (landline) services to eligible California households based on either income or program they are enrolled into.
+• Involved in Business Requirements Document (BRD), Work Status Report (WSR), Functional Specifications
+Document (FSD), Use Cases creation.
+• Understanding Business Requirements and converting it into design and Process Flows (Visio Diagrams).
+• Work delegation to other team members and configuration of CRM On Demand application (Field Setup,
+Role Management and access profiles, Page Layouts).
+• Migration of the application from Staging to Production Environment.
+• Writing Workflows in CRM On Demand and creating different Reports based on business requirements.
+• End to end testing (Unit Testing and User Acceptance Testing) of the entire solution.</Description>
+					<StartDate>
+						<AnyDate>2012-03-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-07-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-11</sov:Id>
+							<sov:CompanyNameProbability>16</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>11</sov:PositionTitleProbability>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>MindTree Ltd</EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>Consultant/Engineer</Title>
+					<OrgName>
+						<OrganizationName>SAP BI</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bangalore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>November, 2012.   •     Worked as a SAP BI Consultant/Engineer with MindTree Ltd., Bangalore from October, 2008 to February, 2010.</Description>
+					<StartDate>
+						<AnyDate>2012-11-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-11-30</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbability>30</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>28</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>79</sov:OffsetOfFarthestDataFound>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="contract">
+					<Title>SAP BI Consultant/Engineer</Title>
+					<OrgName>
+						<OrganizationName>MindTree Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bangalore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>MindTree Ltd., Bangalore, India
+Oct '08 - Feb '10		SAP BI Consultant/Engineer
+
+
+2
+Client: Unilever, UK / Hindustan Unilever Ltd (Onsite - Bangalore, India)
+
+Major Projects
+~ Project 3 ~
+• Handling development as well as providing support for iFinance - module to consolidate financial data of
+Unilever around the globe (Central Europe, Middle East, Indian Sub continent, East Africa).
+• Enabling changes in various iFinance Reporting KPI's using SAP BI as required by UEx (Unilever
+Executives).
+
+~ Project 2 ~
+• Evolved Online Dashboard on BO Xcelsius/Crystal Dashboard Reports 2008 for HUL Finance Team through
+BW Queries.
+• Developed Forecast Analytics Online Dashboard on Business Objects Xcelsius 2008 through BW Queries and advance MS Excel.
+• Interfaced with the client directly regarding the requirement gathering and feedbacks.
+• Conducted training sessions for new team members on Xcelsius/Crystal Dashboard Reports 2008.
+
+~ Project 1 ~
+• Functioned as a part of HUL Image Migration Development Team thereby involved in designing as well as developing MIS reports and published the same on enterprise portal (pre-calculated Excel Reports based on
+daily sales) daily.
+• Possessed accountability for Process Chain Management of forecasting and daily sales.
+• Handled Data Validation at different levels; prepared reports regarding Forecast, Demand Planning,
+Production Planning and Sales.
+• Developed KPI's (Key Performance Indicator) to calculate safety stock of a distributor; handled capacity
+planning; to find the reason for demand error; to calculate sales when there is inter-distributor stock
+transfer.
+• Worked as a part of SAP BI upgrade to EhP1 team for the testing; handled Unit testing of all the modules.
+• Actively participated in winning the 'Team Spot Award' in September '09 for High Innovation, Passion and
+Commitment.</Description>
+					<StartDate>
+						<AnyDate>2008-10-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2010-02-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-13</sov:Id>
+							<sov:CompanyNameProbability>30</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>28</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>76</sov:OffsetOfFarthestDataFound>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>INDUSTRIAL EXPOSURE</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>System Administrator</Title>
+					<OrgName>
+						<OrganizationName>Stryker Global Technology Centre</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>HARYANA</Region>
+							<Municipality>Gurgaon</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>INDUSTRIAL EXPOSURE
+Stryker Global Technology Centre, Gurgaon, India
+Jul '14 - till date		System Administrator</Description>
+					<StartDate>
+						<AnyDate>2014-07-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-04</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbability>17</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>28</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>109</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<OrgName>
+						<OrganizationName>Stryker</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>MI</Region>
+							<Municipality>Kalamazoo</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Client: Stryker, USA
+
+Major Projects (from Jul '14 to till date)
+~ Project 1 ~
+• Support for Stryker's Navigation, Instruments and SGTC Division on PLM Windchill PDMLink.
+• Working in co-ordination with different teams situated globally (Kalamazoo, MI, USA; Freiburg, Germany;
+Mahwah, NJ, USA) in an agile environment closely with users and managers to resolve issues.
+• Monitoring tickets and Service Level Agreements (SLA) as a day today activity on ServiceNow.
+• Work on continuous service improvements to enhance the capabilities of our solutions.
+• Find root cause analysis of issues and propose solutions.
+• Configuration of PLM Windchill system and maintenance on day today basis.
+
+
+1
+•   Won Global IT Spot Award in November, 2014 for outstanding collaboration and team work.</Description>
+					<StartDate>
+						<AnyDate>2014-07-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-04</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>251</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Stryker Global Technology Centre</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>CRM Administrator</Title>
+					<OrgName>
+						<OrganizationName>Stryker Global Technology Centre</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>HARYANA</Region>
+							<Municipality>Gurgaon</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Stryker Global Technology Centre, Gurgaon, India
+Nov '12 - Jun, '14		CRM Administrator</Description>
+					<StartDate>
+						<AnyDate>2012-11-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2014-06-30</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:CompanyNameProbability>27</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>85</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Administrator catering to more than 600 active users</Title>
+					<OrgName>
+						<OrganizationName>Stryker</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>MI</Region>
+							<Municipality>Kalamazoo</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Client: Stryker, USA (Onsite - Kalamazoo, MI, USA)
+
+Major Projects (from Nov '12 to Jun '14)
+~ Project 1 ~
+• Support and development of Medical Field Service Project for Stryker, USA as an Oracle CRM On Demand
+Administrator catering to more than 600 active users.
+• Business Analyst to gather requirements for new service improvements along with functional and technical
+documentation. Propose and design solutions based on requirements from all stakeholders.
+• Work for Stryker's Medical and Surgical Divisions Products.
+• Configuration and testing (Unit Testing and User Acceptance Testing (UAT)) of end to end service
+improvements (change request) and monitoring integrations with other systems and functional extensions.
+• Monitoring tickets and Service Level Agreements (SLA) as a day today activity on ServiceNow.
+• Create Surveys using OnDemand Marketing tool and integrate it with our system and reporting the results.
+• Working in co-ordination with different teams situated globally in an agile environment closely with users and managers to resolve issues. Follow defined IT Quality procedures for change request approval.</Description>
+					<StartDate>
+						<AnyDate>2012-11-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2014-06-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-8</sov:Id>
+							<sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>15</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>14</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Department of Child and Family Services</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Role Management and access profiles, Page Layouts</Title>
+					<OrgName>
+						<OrganizationName>State of Louisiana</OrganizationName>
+					</OrgName>
+					<Description>~ Project 1 ~ (Development from Dec '11 to Mar '12, Support on-going)
+• Project for DCFS - LA - Phase 3 (Department of Child and Family Services, State of Louisiana) for their
+social welfare service information and escalation. The department provides social services programs, such as the rehabilitation of handicapped persons, child welfare, blind services and public assistance programs.
+• Work delegation to other team members and configuration of CRM On Demand application (Field Setup,
+Role Management and access profiles, Page Layouts).
+• Writing Workflows in CRM On Demand and migration of the application from Staging to Production
+Environment.
+• Testing (Unit Testing and User Acceptance Testing) of the entire solution.
+• Document creation for User Training, Testing, Technical and Functional specifications, Business
+Requirements, Work status reports.</Description>
+					<StartDate>
+						<AnyDate>2011-12-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-03-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-12</sov:Id>
+							<sov:CompanyNameProbability>18</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>11</sov:PositionTitleProbability>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Lancaster University Management School</SchoolName>
+				</School>
+				<Degree degreeType="masters">
+					<DegreeName>Masters of Science</DegreeName>
+					<DegreeDate>
+						<AnyDate>2010-11-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Information Technology</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>64.22</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2010-11-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>ACADEMIA
+2010-11      Masters of Science (M.Sc. in Information Technology, Management &amp; Organisational
+Change) from Lancaster University Management School, Lancaster University, UK
+Secured 64.22%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.642</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>ICFAI</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelors of Technology</DegreeName>
+					<DegreeDate>
+						<AnyDate>2004-08-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science &amp; Engineering</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>9.1</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>10.00</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2004-08-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2004-08      Bachelors of Technology (B.Tech. in Computer Science &amp; Engineering) from ICFAI
+University, India
+Secured 8.36/10.00 CGPA
+
+IT Forte
+Core Tools	PLC Windchill PDMLink 9.1, Oracle CRM On Demand R25, Salesforce.com, Oracle
+OnDemand Marketing, SAP Business Intelligence 7.0 (DW Workbench / Analyzer /
+Query Designer), Oracle RightNow CX, SAP HANA BusinessObjects BI OnDemand,</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.910</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>English tutor for unprivileged children in Government School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bangalore</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2009-01-01</AnyDate>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2009-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>•   English tutor for unprivileged children in Government School, Bangalore, India in 2009.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Lancaster University Student's Union</SchoolName>
+				</School>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2010-11-01</AnyDate>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2010-11-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Lancaster, a green initiative by Lancaster University Student's Union (2010-11).</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-4</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor's</DegreeName>
+					<DegreeDate>
+						<AnyDate>2011-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>level respectively</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2011-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>(2011) at Bachelor's and Master's level respectively.
+
+
+ATTAINMENTS</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-5</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="bachelors">
+					<DegreeName>B. Tech</DegreeName>
+					<DegreeDate>
+						<AnyDate>2009-09-01</AnyDate>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2009-09-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>•   Actively participated in MindTree's Hindustan Unilever team winning "Team Spot Award" in September '09 for High Innovation, Passion and Commitment.
+•   Scholarship holder in B. Tech for year 2006-07 and 2007-08.
+
+
+PERSONAL DOSSIER</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-6</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>•     Oracle CRM On Demand Certified Implementation Specialist.</Name>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary></QualificationSummary>
+			<Competency name="CRM">
+				<CompetencyId id="014101" />
+				<TaxonomyId id="195" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CRM" typeDescription="Found in CERTIFICATIONS; EDUCATION; WORK HISTORY; DEG-2; POS-10; POS-11; POS-12; POS-2; POS-7; POS-8" typeId="014101" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">63</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CRM">
+				<CompetencyId id="9000268" idOwner="9000267" />
+				<TaxonomyId id="583" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="CRM" typeDescription="Found in CERTIFICATIONS; EDUCATION; WORK HISTORY; DEG-2; POS-10; POS-11; POS-12; POS-2; POS-7; POS-8" typeId="9000268" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">63</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CRM">
+				<CompetencyId id="9000323" idOwner="9000130" />
+				<TaxonomyId id="578" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="CRM" typeDescription="Found in CERTIFICATIONS; EDUCATION; WORK HISTORY; DEG-2; POS-10; POS-11; POS-12; POS-2; POS-7; POS-8" typeId="9000323" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">63</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CUSTOMER RELATIONSHIP MANAGEMENT">
+				<CompetencyId id="9000130" />
+				<TaxonomyId id="578" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="CUSTOMER RELATIONSHIP MANAGEMENT" typeDescription="Found in CERTIFICATIONS; EDUCATION; WORK HISTORY; DEG-2; POS-10; POS-11; POS-12; POS-2; POS-7; POS-8" typeId="9000130" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">63</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CUSTOMER RELATIONSHIP MANAGEMENT">
+				<CompetencyId id="9000267" />
+				<TaxonomyId id="583" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="CUSTOMER RELATIONSHIP MANAGEMENT" typeDescription="Found in CERTIFICATIONS; EDUCATION; WORK HISTORY; DEG-2; POS-10; POS-11; POS-12; POS-2; POS-7; POS-8" typeId="9000267" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">63</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TESTING">
+				<CompetencyId id="009472" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="TESTING" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-8" typeId="009472" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">42</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="UNIT TESTING">
+				<CompetencyId id="010254" />
+				<TaxonomyId id="109" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="UNIT TESTING" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-8" typeId="010254" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">42</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SERVICE LEVEL AGREEMENTS">
+				<CompetencyId id="007809" />
+				<TaxonomyId id="349" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SERVICE LEVEL AGREEMENTS" typeDescription="Found in WORK HISTORY; POS-6; POS-8" typeId="007809" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">31</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SOLUTIONS">
+				<CompetencyId id="030002" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SOLUTIONS" typeDescription="Found in WORK HISTORY; POS-6; POS-8" typeId="030002" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">31</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CRM ON DEMAND">
+				<CompetencyId id="550036701" idOwner="5500367" />
+				<TaxonomyId id="550" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CRM ON DEMAND" typeDescription="Found in CERTIFICATIONS; EDUCATION; WORK HISTORY; DEG-2; POS-10; POS-11; POS-12; POS-8" typeId="550036701" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">31</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ORACLE CRM ON DEMAND">
+				<CompetencyId id="5500367" />
+				<TaxonomyId id="550" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ORACLE CRM ON DEMAND" typeDescription="Found in CERTIFICATIONS; EDUCATION; WORK HISTORY; DEG-2; POS-10; POS-11; POS-12; POS-8" typeId="5500367" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">31</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AWARD">
+				<CompetencyId id="030006" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AWARD" typeDescription="Found in EDUCATION; PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; DEG-6; POS-13; POS-6" typeId="030006" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">29</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCEPTANCE TESTING">
+				<CompetencyId id="003784" idOwner="023992" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="ACCEPTANCE TESTING" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-8" typeId="003784" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="USER ACCEPTANCE">
+				<CompetencyId id="023991" />
+				<TaxonomyId id="115" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="USER ACCEPTANCE" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-8" typeId="023991" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="USER ACCEPTANCE">
+				<CompetencyId id="023992" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="USER ACCEPTANCE" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-8" typeId="023992" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="USER ACCEPTANCE TESTING">
+				<CompetencyId id="010320" idOwner="023991" />
+				<TaxonomyId id="115" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="USER ACCEPTANCE TESTING" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-8" typeId="010320" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING">
+				<CompetencyId id="021241" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-2; POS-8" typeId="021241" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">20</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ORACLE">
+				<CompetencyId id="031048" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ORACLE" typeDescription="Found in CERTIFICATIONS; EDUCATION; WORK HISTORY; DEG-2; POS-8" typeId="031048" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">20</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DOCUMENTATION">
+				<CompetencyId id="022620" />
+				<TaxonomyId id="429" idOwner="31" description="Sovren" />
+				<CompetencyEvidence name="DOCUMENTATION" typeDescription="Found in WORK HISTORY; POS-8" typeId="022620" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">19</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GATHER REQUIREMENTS">
+				<CompetencyId id="018150" />
+				<TaxonomyId id="199" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="GATHER REQUIREMENTS" typeDescription="Found in WORK HISTORY; POS-8" typeId="018150" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">19</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="UAT">
+				<CompetencyId id="010065" />
+				<TaxonomyId id="200" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="UAT" typeDescription="Found in WORK HISTORY; POS-8" typeId="010065" lastUsed="2014-06-01">
+					<NumericValue description="Total Months">19</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRAINING">
+				<CompetencyId id="200064" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="TRAINING" typeDescription="Found in WORK HISTORY; POS-12; POS-13" typeId="200064" lastUsed="2012-03-01">
+					<NumericValue description="Total Months">19</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ENGINEER">
+				<CompetencyId id="080540" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ENGINEER" typeDescription="Found in WORK HISTORY; POS-13; POS-4" typeId="080540" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">17</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ENGINEER">
+				<CompetencyId id="080650" />
+				<TaxonomyId id="263" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ENGINEER" typeDescription="Found in WORK HISTORY; POS-13; POS-4" typeId="080650" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">17</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BI">
+				<CompetencyId id="1400081" idOwner="1400080" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="BI" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-2; POS-13" typeId="1400081" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">17</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INTELLIGENCE">
+				<CompetencyId id="1400080" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INTELLIGENCE" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-2; POS-13" typeId="1400080" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">17</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAP">
+				<CompetencyId id="007436" />
+				<TaxonomyId id="195" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAP" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-2; POS-13" typeId="007436" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">17</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTABILITY FOR">
+				<CompetencyId id="030196" />
+				<TaxonomyId id="104" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTABILITY FOR" typeDescription="Found in WORK HISTORY; POS-13" typeId="030196" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AND SALES">
+				<CompetencyId id="030280" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AND SALES" typeDescription="Found in WORK HISTORY; POS-13" typeId="030280" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DAILY SALES">
+				<CompetencyId id="030373" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="DAILY SALES" typeDescription="Found in WORK HISTORY; POS-13" typeId="030373" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA VALIDATION">
+				<CompetencyId id="025856" />
+				<TaxonomyId id="931" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="DATA VALIDATION" typeDescription="Found in WORK HISTORY; POS-13" typeId="025856" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA VALIDATION">
+				<CompetencyId id="025857" />
+				<TaxonomyId id="200" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA VALIDATION" typeDescription="Found in WORK HISTORY; POS-13" typeId="025857" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA VALIDATION">
+				<CompetencyId id="025858" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="DATA VALIDATION" typeDescription="Found in WORK HISTORY; POS-13" typeId="025858" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA VALIDATION">
+				<CompetencyId id="9000104" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="DATA VALIDATION" typeDescription="Found in WORK HISTORY; POS-13" typeId="9000104" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL">
+				<CompetencyId id="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL" typeDescription="Found in EDUCATION; WORK HISTORY; POS-13" typeId="022841" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCE">
+				<CompetencyId id="023147" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCE" typeDescription="Found in WORK HISTORY; POS-13" typeId="023147" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="017857" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in EDUCATION; WORK HISTORY; POS-13" typeId="017857" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="017858" />
+				<TaxonomyId id="502" idOwner="71" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in EDUCATION; WORK HISTORY; POS-13" typeId="017858" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="023163" />
+				<TaxonomyId id="256" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in EDUCATION; WORK HISTORY; POS-13" typeId="023163" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="023164" />
+				<TaxonomyId id="245" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in EDUCATION; WORK HISTORY; POS-13" typeId="023164" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="7000318" />
+				<TaxonomyId id="705" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in EDUCATION; WORK HISTORY; POS-13" typeId="7000318" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS EXCEL">
+				<CompetencyId id="002864" idOwner="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS EXCEL" typeDescription="Found in WORK HISTORY; POS-13" typeId="002864" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCTION PLANNING">
+				<CompetencyId id="005684" idOwner="022739" />
+				<TaxonomyId id="208" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="PRODUCTION PLANNING" typeDescription="Found in WORK HISTORY; POS-13" typeId="005684" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCTION PLANNING">
+				<CompetencyId id="005685" idOwner="022740" />
+				<TaxonomyId id="460" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="PRODUCTION PLANNING" typeDescription="Found in WORK HISTORY; POS-13" typeId="005685" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCTION PLANNING">
+				<CompetencyId id="005686" />
+				<TaxonomyId id="502" idOwner="71" description="Sovren" />
+				<CompetencyEvidence name="PRODUCTION PLANNING" typeDescription="Found in WORK HISTORY; POS-13" typeId="005686" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REQUIREMENT GATHERING">
+				<CompetencyId id="006830" />
+				<TaxonomyId id="201" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="REQUIREMENT GATHERING" typeDescription="Found in WORK HISTORY; POS-13" typeId="006830" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES">
+				<CompetencyId id="007359" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES" typeDescription="Found in WORK HISTORY; POS-13" typeId="007359" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SCHEDULING">
+				<CompetencyId id="022739" />
+				<TaxonomyId id="208" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="SCHEDULING" typeDescription="Found in WORK HISTORY; POS-13" typeId="022739" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SCHEDULING">
+				<CompetencyId id="022740" />
+				<TaxonomyId id="460" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="SCHEDULING" typeDescription="Found in WORK HISTORY; POS-13" typeId="022740" lastUsed="2010-02-01">
+					<NumericValue description="Total Months">16</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WINDCHILL">
+				<CompetencyId id="011139" />
+				<TaxonomyId id="345" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="WINDCHILL" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-2; POS-6" typeId="011139" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MAINTENANCE">
+				<CompetencyId id="022116" />
+				<TaxonomyId id="364" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="MAINTENANCE" typeDescription="Found in WORK HISTORY; POS-6" typeId="022116" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MAINTENANCE">
+				<CompetencyId id="022117" />
+				<TaxonomyId id="452" idOwner="72" description="Sovren" />
+				<CompetencyEvidence name="MAINTENANCE" typeDescription="Found in WORK HISTORY; POS-6" typeId="022117" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ROOT CAUSE ANALYSIS">
+				<CompetencyId id="007236" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="ROOT CAUSE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-6" typeId="007236" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ROOT CAUSE ANALYSIS">
+				<CompetencyId id="007238" />
+				<TaxonomyId id="925" idOwner="26" description="Sovren" />
+				<CompetencyEvidence name="ROOT CAUSE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-6" typeId="007238" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ROOT CAUSE ANALYSIS">
+				<CompetencyId id="080338" />
+				<TaxonomyId id="308" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ROOT CAUSE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-6" typeId="080338" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ROOT CAUSE ANALYSIS">
+				<CompetencyId id="080477" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ROOT CAUSE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-6" typeId="080477" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FUNCTIONAL SPECIFICATIONS">
+				<CompetencyId id="0114002" idOwner="022114" />
+				<TaxonomyId id="429" idOwner="31" description="Sovren" />
+				<CompetencyEvidence name="FUNCTIONAL SPECIFICATIONS" typeDescription="Found in WORK HISTORY; POS-10; POS-11; POS-12" typeId="0114002" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FUNCTIONAL SPECIFICATIONS">
+				<CompetencyId id="0114022" idOwner="022115" />
+				<TaxonomyId id="131" idOwner="46" description="Sovren" />
+				<CompetencyEvidence name="FUNCTIONAL SPECIFICATIONS" typeDescription="Found in WORK HISTORY; POS-10; POS-11; POS-12" typeId="0114022" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WRITING FUNCTIONAL">
+				<CompetencyId id="022114" />
+				<TaxonomyId id="429" idOwner="31" description="Sovren" />
+				<CompetencyEvidence name="WRITING FUNCTIONAL" typeDescription="Found in WORK HISTORY; POS-10; POS-11; POS-12" typeId="022114" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WRITING FUNCTIONAL">
+				<CompetencyId id="022115" />
+				<TaxonomyId id="131" idOwner="46" description="Sovren" />
+				<CompetencyEvidence name="WRITING FUNCTIONAL" typeDescription="Found in WORK HISTORY; POS-10; POS-11; POS-12" typeId="022115" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS REQUIREMENTS">
+				<CompetencyId id="022626" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS REQUIREMENTS" typeDescription="Found in WORK HISTORY; POS-10; POS-11" typeId="022626" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">8</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="VISIO">
+				<CompetencyId id="022692" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="VISIO" typeDescription="Found in EDUCATION; WORK HISTORY; POS-10; POS-11" typeId="022692" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">8</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="VISIO">
+				<CompetencyId id="024751" />
+				<TaxonomyId id="229" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="VISIO" typeDescription="Found in EDUCATION; WORK HISTORY; POS-10; POS-11" typeId="024751" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">8</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SOCIAL SERVICES">
+				<CompetencyId id="008191" />
+				<TaxonomyId id="524" idOwner="86" description="Sovren" />
+				<CompetencyEvidence name="SOCIAL SERVICES" typeDescription="Found in WORK HISTORY; POS-10; POS-12" typeId="008191" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ABAP">
+				<CompetencyId id="026645" />
+				<TaxonomyId id="195" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ABAP" typeDescription="Found in EDUCATION" typeId="026645">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCESS">
+				<CompetencyId id="003891" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="ACCESS" typeDescription="Found in EDUCATION" typeId="003891">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="C++">
+				<CompetencyId id="012287" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="C++" typeDescription="Found in EDUCATION" typeId="012287">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COOKING">
+				<CompetencyId id="024862" />
+				<TaxonomyId id="512" idOwner="82" description="Sovren" />
+				<CompetencyEvidence name="COOKING" typeDescription="Found in EDUCATION" typeId="024862">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASES">
+				<CompetencyId id="026776" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="DATABASES" typeDescription="Found in EDUCATION" typeId="026776">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASES">
+				<CompetencyId id="026777" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATABASES" typeDescription="Found in EDUCATION" typeId="026777">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="HEALTHCARE">
+				<CompetencyId id="018806" />
+				<TaxonomyId id="158" idOwner="95" description="Sovren" />
+				<CompetencyEvidence name="HEALTHCARE" typeDescription="Found in EDUCATION" typeId="018806">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="IEEE">
+				<CompetencyId id="019505" />
+				<TaxonomyId id="317" idOwner="16" description="Sovren" />
+				<CompetencyEvidence name="IEEE" typeDescription="Found in EDUCATION" typeId="019505">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="IEEE">
+				<CompetencyId id="026096" />
+				<TaxonomyId id="253" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="IEEE" typeDescription="Found in EDUCATION" typeId="026096">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="IOS">
+				<CompetencyId id="5520545" />
+				<TaxonomyId id="552" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="IOS" typeDescription="Found in EDUCATION" typeId="5520545">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="J2EE">
+				<CompetencyId id="020255" />
+				<TaxonomyId id="339" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="J2EE" typeDescription="Found in EDUCATION" typeId="020255">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LINUX">
+				<CompetencyId id="023925" />
+				<TaxonomyId id="203" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="LINUX" typeDescription="Found in EDUCATION" typeId="023925">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LINUX">
+				<CompetencyId id="023926" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="LINUX" typeDescription="Found in EDUCATION" typeId="023926">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LINUX/UNIX">
+				<CompetencyId id="020798" idOwner="023925" />
+				<TaxonomyId id="203" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="LINUX/UNIX" typeDescription="Found in EDUCATION" typeId="020798">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LINUX/UNIX">
+				<CompetencyId id="02392601" idOwner="023926" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="LINUX/UNIX" typeDescription="Found in EDUCATION" typeId="02392601">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS OFFICE">
+				<CompetencyId id="022136" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS OFFICE" typeDescription="Found in EDUCATION" typeId="022136">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS OFFICE">
+				<CompetencyId id="022137" />
+				<TaxonomyId id="351" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MS OFFICE" typeDescription="Found in EDUCATION" typeId="022137">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MYSQL">
+				<CompetencyId id="003243" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MYSQL" typeDescription="Found in EDUCATION" typeId="003243">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PL/SQL">
+				<CompetencyId id="004871" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="PL/SQL" typeDescription="Found in EDUCATION" typeId="004871">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="POWERPOINT">
+				<CompetencyId id="022344" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="POWERPOINT" typeDescription="Found in EDUCATION" typeId="022344">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027121" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in EDUCATION" typeId="027121">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027122" />
+				<TaxonomyId id="233" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in EDUCATION" typeId="027122">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="9000110" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in EDUCATION" typeId="9000110">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL">
+				<CompetencyId id="008481" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL" typeDescription="Found in EDUCATION" typeId="008481">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SUPPLY CHAIN">
+				<CompetencyId id="022128" />
+				<TaxonomyId id="461" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="SUPPLY CHAIN" typeDescription="Found in EDUCATION" typeId="022128">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SUPPLY CHAIN">
+				<CompetencyId id="7000144" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="SUPPLY CHAIN" typeDescription="Found in EDUCATION" typeId="7000144">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="UML">
+				<CompetencyId id="010148" />
+				<TaxonomyId id="201" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="UML" typeDescription="Found in EDUCATION" typeId="010148">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="UNIX">
+				<CompetencyId id="01026309" />
+				<TaxonomyId id="203" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="UNIX" typeDescription="Found in EDUCATION" typeId="01026309">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="UNIX">
+				<CompetencyId id="5551207" />
+				<TaxonomyId id="555" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="UNIX" typeDescription="Found in EDUCATION" typeId="5551207">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WINDOWS 8">
+				<CompetencyId id="027193" />
+				<TaxonomyId id="299" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="WINDOWS 8" typeDescription="Found in EDUCATION" typeId="027193">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WORD">
+				<CompetencyId id="022961" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="WORD" typeDescription="Found in EDUCATION" typeId="022961">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS VISIO">
+				<CompetencyId id="003046" idOwner="024751" />
+				<TaxonomyId id="229" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS VISIO" typeDescription="Found in EDUCATION; WORK HISTORY; POS-10" typeId="003046" lastUsed="2012-11-01">
+					<NumericValue description="Total Months">4</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CASES">
+				<CompetencyId id="200091" />
+				<TaxonomyId id="400" idOwner="12" description="Sovren" />
+				<CompetencyEvidence name="CASES" typeDescription="Found in WORK HISTORY; POS-11" typeId="200091" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">4</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCTION ENVIRONMENT">
+				<CompetencyId id="024326" />
+				<TaxonomyId id="304" idOwner="11" description="Sovren" />
+				<CompetencyEvidence name="PRODUCTION ENVIRONMENT" typeDescription="Found in WORK HISTORY; POS-11" typeId="024326" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">4</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCTION ENVIRONMENT">
+				<CompetencyId id="024327" />
+				<TaxonomyId id="362" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="PRODUCTION ENVIRONMENT" typeDescription="Found in WORK HISTORY; POS-11" typeId="024327" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">4</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TELEPHONE">
+				<CompetencyId id="009358" />
+				<TaxonomyId id="112" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="TELEPHONE" typeDescription="Found in WORK HISTORY; POS-11" typeId="009358" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">4</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="USE CASES">
+				<CompetencyId id="010312" />
+				<TaxonomyId id="201" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="USE CASES" typeDescription="Found in WORK HISTORY; POS-11" typeId="010312" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">4</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ANALYZER">
+				<CompetencyId id="020302" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ANALYZER" typeDescription="Found in EDUCATION; DEG-2" typeId="020302" lastUsed="2004-08-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INTELLIGENCE">
+				<CompetencyId id="012210" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INTELLIGENCE" typeDescription="Found in EDUCATION; DEG-2" typeId="012210" lastUsed="2004-08-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INTELLIGENCE">
+				<CompetencyId id="7000125" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INTELLIGENCE" typeDescription="Found in EDUCATION; DEG-2" typeId="7000125" lastUsed="2004-08-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORTE">
+				<CompetencyId id="017903" />
+				<TaxonomyId id="339" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="FORTE" typeDescription="Found in EDUCATION; DEG-2" typeId="017903" lastUsed="2004-08-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="HANA">
+				<CompetencyId id="5530997" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="HANA" typeDescription="Found in EDUCATION; DEG-2" typeId="5530997" lastUsed="2004-08-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALESFORCE.COM">
+				<CompetencyId id="5500380" />
+				<TaxonomyId id="550" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SALESFORCE.COM" typeDescription="Found in EDUCATION; DEG-2" typeId="5500380" lastUsed="2004-08-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>false</Read>
+				<Write>false</Write>
+				<Speak>true</Speak>
+				<Comments>English, Hindi &amp; Bengali</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>false</Read>
+				<Write>false</Write>
+				<Speak>true</Speak>
+				<Comments>English, Hindi &amp; Bengali</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>bn</LanguageCode>
+				<Read>false</Read>
+				<Write>false</Write>
+				<Speak>true</Speak>
+				<Comments>English, Hindi &amp; Bengali</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Won Global IT Spot Award in November, 2014 for outstanding collaboration and team work</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Actively participated in winning the 'Team Spot Award' in September '09 for High Innovation, Passion and</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Won Global IT Spot Award in November, 2014 at Stryker for outstanding collaboration and team work</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Team nominated for Global IT Awards for Q1 -2013 at Stryker, USA for excellent Customer Focus</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Actively participated in MindTree's Hindustan Unilever team winning "Team Spot Award" in September '09</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Scholarship holder in B. Tech for year 2006-07 and 2007-08</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Part of MagicSmile Foundation, Hyderabad as a volunteer, a NGO engaged in unprivileged child welfare in</Name>
+			</Association>
+		</Associations>
+		<RevisionDate>2015-07-04</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>ROHIT DASSANI's experience appears to be concentrated in Information Technology / ERP and CRM, with exposure to Human Resources / HR Operations. ROHIT DASSANI has 5 years of work experience, with no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>64</sov:MonthsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="23885.09" percentOfOverall="48.76" percentOfParent="48.76">
+						<sov:BestFitTaxonomy id="195" rootId="Sovren" name="ERP and CRM" weight="14064.67" percentOfOverall="28.71" percentOfParent="58.88" />
+						<sov:BestFitTaxonomy id="550" rootId="Sovren" name="Cloud Computing" weight="6562.03" percentOfOverall="13.40" percentOfParent="27.47" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="9" rootId="Sovren" name="Human Resources" weight="13995.55" percentOfOverall="28.57" percentOfParent="28.57">
+						<sov:BestFitTaxonomy id="578" rootId="Sovren" name="HR Operations" weight="6942.58" percentOfOverall="14.17" percentOfParent="49.61" />
+						<sov:BestFitTaxonomy id="583" rootId="Sovren" name="Talent Sourcing" weight="6942.58" percentOfOverall="14.17" percentOfParent="49.61" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="32" ends="155" sectionType="WORK HISTORY">WORK EXPERIENCE</sov:Section>
+				<sov:Section starts="156" ends="211" sectionType="EDUCATION" />
+				<sov:Section starts="212" ends="213" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="214" ends="214" sectionType="REFERENCES">References available</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>13888</sov:ParsedTextLength>
+			<sov:ParseTime>1969</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

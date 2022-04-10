@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Analyst</MainJobTitle>
+    <JobTitle>Analyst</JobTitle>
+  </JobTitles>
+  <RequiredSkills>
+    <RequiredSkill>databases</RequiredSkill>
+  </RequiredSkills>
+  <OtherSkills>
+    <OtherSkill>SAS</OtherSkill>
+    <OtherSkill>R</OtherSkill>
+    <OtherSkill>SPSS</OtherSkill>
+    <OtherSkill>APACHE HBASE</OtherSkill>
+    <OtherSkill>Microsoft Excel</OtherSkill>
+    <OtherSkill>Data Analysis</OtherSkill>
+    <OtherSkill>DATA MODELS</OtherSkill>
+    <OtherSkill>DATABASE</OtherSkill>
+    <OtherSkill>DATA MINING</OtherSkill>
+    <OtherSkill>DECISION MAKING</OtherSkill>
+    <OtherSkill>FORECASTING</OtherSkill>
+    <OtherSkill>Statistics</OtherSkill>
+    <OtherSkill>HBase</OtherSkill>
+    <OtherSkill>Hive</OtherSkill>
+    <OtherSkill>JAVA</OtherSkill>
+    <OtherSkill>LARGE-SCALE</OtherSkill>
+    <OtherSkill>LOGISTIC REGRESSION</OtherSkill>
+    <OtherSkill>MACHINE LEARNING</OtherSkill>
+    <OtherSkill>MAP REDUCE</OtherSkill>
+    <OtherSkill>Regression</OtherSkill>
+    <OtherSkill>SQL</OtherSkill>
+    <OtherSkill>PREDICTIVE ANALYTICS</OtherSkill>
+    <OtherSkill>PYTHON</OtherSkill>
+    <OtherSkill>Business intelligence</OtherSkill>
+    <OtherSkill>RANDOM FORESTS</OtherSkill>
+    <OtherSkill>SENTIMENT ANALYSIS</OtherSkill>
+    <OtherSkill>SQL</OtherSkill>
+    <OtherSkill>STATISTICAL ANALYSIS</OtherSkill>
+    <OtherSkill>STATISTICS</OtherSkill>
+    <OtherSkill>SUPPORT VECTOR MACHINE</OtherSkill>
+  </OtherSkills>
+  <Taxonomies>
+    <Taxonomy type="best fit">
+      <ParentTaxonomyId>10</ParentTaxonomyId>
+      <ParentTaxonomyName>Information Technology</ParentTaxonomyName>
+      <SubTaxonomyId>553</SubTaxonomyId>
+      <SubTaxonomyName>Big Data</SubTaxonomyName>
+    </Taxonomy>
+    <Taxonomy type="second best fit">
+      <ParentTaxonomyId>34</ParentTaxonomyId>
+      <ParentTaxonomyName>Business Operations and General Business</ParentTaxonomyName>
+      <SubTaxonomyId>437</SubTaxonomyId>
+      <SubTaxonomyName>General Skills and Activities</SubTaxonomyName>
+    </Taxonomy>
+  </Taxonomies>
+  <Education>
+    <Degree>
+      <DegreeType>Bachelors</DegreeType>
+      <DegreeName> </DegreeName>
+    </Degree>
+  </Education>
+  <MinimumYears>2</MinimumYears>
+  <RequiredDegree>Bachelors</RequiredDegree>
+  <TypeOfSource>stJobOrder</TypeOfSource>
+  <SourceText>Data Scientist
+
+JOB DESCRIPTION
+
+Mu Sigma is a category defining Decision Sciences and Big Data Analytics Company helping enterprises institutionalize data-driven decision making. Mu Sigma's unique interdisciplinary approach and cross-industry learning drive innovation in solving high-impact business problems across marketing, risk and supply chain. With over 3500 decision scientists and experience across 10 industry verticals, Mu Sigma has been consistently validated as the preferred Decision Sciences and analytics partner. Mu Sigma provides an integrated decision support ecosystem of products, services and cross-industry best practice processes transforming the way decisions are enabled in enterprises for more than 140 Fortune 500 clients. For more details, visit: www.mu-sigma.com
+
+Role & responsibilities: 
+
+Responsible for having client/on-site team interaction and understand business requirements 
+Design & execute analysis, interpret results and generate key insights 
+Deliver well organized reports, dashboards, data analysis and statistical models 
+Deliver error-free and high-quality outputs to the client 
+Communicate expectations and establish deadlines in agreement with client / team members 
+Independently manage short term assignments (2 3 weeks) 
+Manage long term assignments with minimal overview 
+Lead a 2-3 member team to execute projects 
+Mentor new team members 
+Contribute to company initiatives in presales and other business development activities
+Help senior management in developing new areas of expertise with case studies and other collateral
+Contributing to organization level initiatives
+Work across time zones
+Flexibility to work across multiple domains
+ 
+Skills & Competencies:
+
+Possess strong analytical/logical thinking skills and clarity of thought
+Ability to pay attention to detail
+Possess strong listening, verbal and written communication skills
+Ability to extract and analyze data from multiple sources using analytical tools.
+Experience in SAS, VBA and SQL
+Proficiency in Microsoft Office tools
+Proficiency in data analysis using statistical and mathematical tools and techniques is good to have
+Strong domain and business knowledge is a plus
+ 
+Click on the above link to apply. Applications submitted through  the above link will only be considered.
+Please refer to the Job description above 
+
+Role:
+
+Qualifications
+Bachelors degree in computer science
+2 year of experience as a data analyst
+Should know about Logistic regression, naive bayes, SVM, decision making, SQL, SPASS, SAS.
+machine learning, natural language processing, sentiment analysis, topic modeling, classifiers, predictive analytics
+Large-scale datasets, map reduce architectures, and big data techniques, such as Hadoop, MapReduce, Pig, Hive, Hbase
+Familiar with one or more machine learning or statistics tools such as R, Matlab, and etc. or various libraries for other programming languages
+Experience with at least one general purpose programming language such as Java, Python, C and etc
+Knowledge and experience of relational databases and SQL</SourceText>
+  <RevisionDate>2014-09-15</RevisionDate>
+</SovrenData>

@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>BIJENDRA BHARTI</FormattedName>
+				<GivenName>BIJENDRA</GivenName>
+				<FamilyName>BHARTI</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Mysore</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Pursuing Business Analytics Certified Professional course</AddressLine>
+						<AddressLine>Expertise in analytics, querying the database and coding in Access VBA</AddressLine>
+						<AddressLine>➢ Acquainted with Banking and Insurance Domains</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91 7411872772</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91 9043390244</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>bijendra_bharti@yahoo.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>➢ Overall 2.8 years of experience in Analytics, Querying, Coding and Interface Design.
+➢ Last Employer - Infosys Limited.
+➢ Pursuing Business Analytics Certified Professional course.
+➢ Work experience in SAS, R (Analytics), Predictive Modeling, Statistical Modeling, SQL Server 2008/10, Excel VBA and Access VBA.
+➢ Expertise in analytics, querying the database and coding in Access VBA.
+➢ Acquainted with Banking and Insurance Domains.
+➢ Exposure to C, C++, Java Basics and Oracle 9i.
+➢ Trained in Business Intelligence at Infosys, Mysore.
+➢ Attended Advanced Analytics Training at Infosys, Bengaluru.
+➢ Well versed with querying concepts.
+➢ Good experience in helping colleagues, working as a team, assigning tasks, providing the status updates to the offshore, onshore leads and client.
+➢ Excellent Communication and Inter-personal skills, flexible and versatile to new environments, self-motivated, a good team player and have worked in multicultural environment.</ExecutiveSummary>
+		<Objective>To enhance my working capacities, professional skills, business efficiencies and to serve my organization in best way with sheer determination and commitment.</Objective>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>MS-BI</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>MS-BI</OrganizationName>
+					</OrgName>
+					<Description>7. Training: Trained in Business Intelligence (MS-BI).
+Duration: Feb 2012 - Jul 2012
+
+Responsibilities:
+➢ Learning the new concepts with utmost dedication.
+➢ Providing moral support and helping the weaker colleagues understand the concepts.
+➢ Discharging our duties as examinee with honesty and sincerity.
+➢ Performing ETL and creating reports using Visual Studio with BI settings (SSAS, SSIS and SSRS) and SQL Server Management Studio as a part of training program at Infosys.</Description>
+					<StartDate>
+						<AnyDate>2012-02-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-07-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>83</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Sri Muthukumaran Institute of Technology (Anna University)</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Tamil Nadu</Region>
+					<Municipality>Chennai</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.E.</DegreeName>
+					<DegreeMajor>
+						<Name>Computer Science and Engineering</Name>
+					</DegreeMajor>
+					<DegreeMinor>
+						<Name>Technology</Name>
+					</DegreeMinor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+					</DatesOfAttendance>
+					<Comments>➢ B.E. in Computer Science and Engineering from Sri Muthukumaran Institute of Technology (Anna University), Chennai, Tamil Nadu with 73.4 percentage.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>The Pentecostal Assembly School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Jharkhand</Region>
+					<Municipality>Bokaro Steel City</Municipality>
+				</PostalAddress>
+				<Degree degreeType="secondary">
+					<DegreeName>CBSE</DegreeName>
+					<DegreeMajor>
+						<Name>Higher Secondary Education</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+					</DatesOfAttendance>
+					<Comments>➢ Higher Secondary Education (12th) from The Pentecostal Assembly School (CBSE), Bokaro Steel City, Jharkhand with 69.8 percentage.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>St. Xavier's School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Jharkhand</Region>
+					<Municipality>Sahibganj</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeMajor>
+						<Name>Secondary Education</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+					</DatesOfAttendance>
+					<Comments>➢ Secondary Education (10th) from St. Xavier's School (ICSE), Sahibganj, Jharkhand with 85.5 percentage.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Project: Consulting role in Accounting Engine (AE) - Product Certification Team to certify AE output.</Name>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>TECHNICAL SKILLS:
+➢ Primary Skills: Analytics, SAS, R, Predictive Modeling, Statistical Modeling, BI, SQL,
+MS Excel VBA and MS Access VBA
+➢ Analytics Tools: SAS, R
+➢ Databases: Microsoft SQL Server Database 2008/10, Oracle 9i
+➢ Development Tools: MS Excel 2010, MS Access 2010
+➢ Additional Skills: C, C++, Java Basics</QualificationSummary>
+			<Competency name=".NET">
+				<CompetencyId id="023039" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name=".NET" typeDescription="Found in WORK HISTORY; POS-1" typeId="023039" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BI">
+				<CompetencyId id="1400081" idOwner="1400080" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="BI" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="1400081" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INTELLIGENCE">
+				<CompetencyId id="012210" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INTELLIGENCE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SUMMARY; WORK HISTORY; POS-1" typeId="012210" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INTELLIGENCE">
+				<CompetencyId id="1400080" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INTELLIGENCE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="1400080" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INTELLIGENCE">
+				<CompetencyId id="7000125" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INTELLIGENCE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SUMMARY; WORK HISTORY; POS-1" typeId="7000125" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ETL">
+				<CompetencyId id="016965" />
+				<TaxonomyId id="345" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ETL" typeDescription="Found in WORK HISTORY; POS-1" typeId="016965" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ETL">
+				<CompetencyId id="5530745" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ETL" typeDescription="Found in WORK HISTORY; POS-1" typeId="5530745" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ETL">
+				<CompetencyId id="5530987" idOwner="5530986" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ETL" typeDescription="Found in WORK HISTORY; POS-1" typeId="5530987" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXTRACT, TRANSFORM, AND LOAD">
+				<CompetencyId id="5530986" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="EXTRACT, TRANSFORM, AND LOAD" typeDescription="Found in WORK HISTORY; POS-1" typeId="5530986" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MICROSOFT SSRS">
+				<CompetencyId id="5540954" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MICROSOFT SSRS" typeDescription="Found in WORK HISTORY; POS-1" typeId="5540954" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS SQL SERVER">
+				<CompetencyId id="023733" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MS SQL SERVER" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="023733" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL">
+				<CompetencyId id="008481" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="008481" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL SERVER">
+				<CompetencyId id="008483" idOwner="023733" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL SERVER" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="008483" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SSRS">
+				<CompetencyId id="554095401" idOwner="5540954" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SSRS" typeDescription="Found in WORK HISTORY; POS-1" typeId="554095401" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRAINING">
+				<CompetencyId id="200064" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="TRAINING" typeDescription="Found in CERTIFICATIONS; PERSONAL INTERESTS AND ACCOMPLISHMENTS; SUMMARY; WORK HISTORY; POS-1" typeId="200064" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="VISUAL STUDIO">
+				<CompetencyId id="010645" idOwner="023039" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="VISUAL STUDIO" typeDescription="Found in WORK HISTORY; POS-1" typeId="010645" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCESS">
+				<CompetencyId id="003891" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="ACCESS" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY" typeId="003891">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCESS 2010">
+				<CompetencyId id="027140" idOwner="024531" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="ACCESS 2010" typeDescription="Found in SKILLS" typeId="027140">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="005856" />
+				<TaxonomyId id="533" idOwner="89" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in CERTIFICATIONS; WORK HISTORY" typeId="005856">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="022499" />
+				<TaxonomyId id="944" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in CERTIFICATIONS; WORK HISTORY" typeId="022499">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="7000036" />
+				<TaxonomyId id="705" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in CERTIFICATIONS; WORK HISTORY" typeId="7000036">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="7000058" />
+				<TaxonomyId id="706" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in CERTIFICATIONS; WORK HISTORY" typeId="7000058">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ADVANCED ANALYTICS">
+				<CompetencyId id="9000106" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="ADVANCED ANALYTICS" typeDescription="Found in SUMMARY" typeId="9000106">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AWARD">
+				<CompetencyId id="030006" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AWARD" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="030006">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="C++">
+				<CompetencyId id="012287" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="C++" typeDescription="Found in SKILLS; SUMMARY" typeId="012287">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CODING">
+				<CompetencyId id="013739" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CODING" typeDescription="Found in SUMMARY; WORK HISTORY" typeId="013739">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CODING">
+				<CompetencyId id="013740" />
+				<TaxonomyId id="412" idOwner="19" description="Sovren" />
+				<CompetencyEvidence name="CODING" typeDescription="Found in SUMMARY; WORK HISTORY" typeId="013740">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CODING">
+				<CompetencyId id="013742" />
+				<TaxonomyId id="270" idOwner="28" description="Sovren" />
+				<CompetencyEvidence name="CODING" typeDescription="Found in SUMMARY; WORK HISTORY" typeId="013742">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CODING">
+				<CompetencyId id="023716" />
+				<TaxonomyId id="111" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="CODING" typeDescription="Found in SUMMARY; WORK HISTORY" typeId="023716">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CODING">
+				<CompetencyId id="023717" />
+				<TaxonomyId id="421" idOwner="99" description="Sovren" />
+				<CompetencyEvidence name="CODING" typeDescription="Found in SUMMARY; WORK HISTORY" typeId="023717">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA CLEANSING">
+				<CompetencyId id="5530943" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA CLEANSING" typeDescription="Found in WORK HISTORY" typeId="5530943">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA CLEANSING">
+				<CompetencyId id="9000118" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="DATA CLEANSING" typeDescription="Found in WORK HISTORY" typeId="9000118">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA VALIDATION">
+				<CompetencyId id="025856" />
+				<TaxonomyId id="931" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="DATA VALIDATION" typeDescription="Found in WORK HISTORY" typeId="025856">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA VALIDATION">
+				<CompetencyId id="025857" />
+				<TaxonomyId id="200" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA VALIDATION" typeDescription="Found in WORK HISTORY" typeId="025857">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA VALIDATION">
+				<CompetencyId id="025858" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="DATA VALIDATION" typeDescription="Found in WORK HISTORY" typeId="025858">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA VALIDATION">
+				<CompetencyId id="9000104" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="DATA VALIDATION" typeDescription="Found in WORK HISTORY" typeId="9000104">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASE">
+				<CompetencyId id="015022" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="DATABASE" typeDescription="Found in SKILLS" typeId="015022">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASE">
+				<CompetencyId id="022486" />
+				<TaxonomyId id="201" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATABASE" typeDescription="Found in SKILLS" typeId="022486">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASES">
+				<CompetencyId id="026776" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="DATABASES" typeDescription="Found in SKILLS" typeId="026776">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASES">
+				<CompetencyId id="026777" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATABASES" typeDescription="Found in SKILLS" typeId="026777">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL">
+				<CompetencyId id="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY" typeId="022841">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL 2010">
+				<CompetencyId id="027153" idOwner="024810" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL 2010" typeDescription="Found in SKILLS" typeId="027153">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INTERFACE DESIGN">
+				<CompetencyId id="0103222" idOwner="024481" />
+				<TaxonomyId id="134" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="INTERFACE DESIGN" typeDescription="Found in SUMMARY; WORK HISTORY" typeId="0103222">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INTERFACE DESIGN">
+				<CompetencyId id="0103232" idOwner="024480" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="INTERFACE DESIGN" typeDescription="Found in SUMMARY; WORK HISTORY" typeId="0103232">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="JAVA">
+				<CompetencyId id="023328" />
+				<TaxonomyId id="339" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="JAVA" typeDescription="Found in SKILLS; SUMMARY" typeId="023328">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LEADS">
+				<CompetencyId id="030009" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="LEADS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SUMMARY" typeId="030009">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MICROSOFT EXCEL">
+				<CompetencyId id="024810" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MICROSOFT EXCEL" typeDescription="Found in SKILLS" typeId="024810">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MICROSOFT SQL SERVER">
+				<CompetencyId id="022023" idOwner="023733" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MICROSOFT SQL SERVER" typeDescription="Found in SKILLS" typeId="022023">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS ACCESS">
+				<CompetencyId id="024531" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS ACCESS" typeDescription="Found in SKILLS" typeId="024531">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS ACCESS 2010">
+				<CompetencyId id="027290" idOwner="024531" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS ACCESS 2010" typeDescription="Found in SKILLS" typeId="027290">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS EXCEL">
+				<CompetencyId id="002864" idOwner="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS EXCEL" typeDescription="Found in SKILLS" typeId="002864">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS EXCEL 2010">
+				<CompetencyId id="027303" idOwner="024810" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS EXCEL 2010" typeDescription="Found in SKILLS" typeId="027303">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OFFSHORE">
+				<CompetencyId id="003753" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="OFFSHORE" typeDescription="Found in SUMMARY" typeId="003753">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OFFSHORE">
+				<CompetencyId id="003754" />
+				<TaxonomyId id="441" idOwner="44" description="Sovren" />
+				<CompetencyEvidence name="OFFSHORE" typeDescription="Found in SUMMARY" typeId="003754">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ORACLE">
+				<CompetencyId id="031048" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ORACLE" typeDescription="Found in SKILLS; SUMMARY" typeId="031048">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PREDICTIVE MODELING">
+				<CompetencyId id="005332" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="PREDICTIVE MODELING" typeDescription="Found in SKILLS; SUMMARY" typeId="005332">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PREDICTIVE MODELING">
+				<CompetencyId id="5531047" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="PREDICTIVE MODELING" typeDescription="Found in SKILLS; SUMMARY" typeId="5531047">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="007445" />
+				<TaxonomyId id="341" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY" typeId="007445">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="100728601" idOwner="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY" typeId="100728601">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="1400078" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY" typeId="1400078">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5540979" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY" typeId="5540979">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5551185" />
+				<TaxonomyId id="555" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY" typeId="5551185">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="9000114" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY" typeId="9000114">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="Serial Attached SCSI">
+				<CompetencyId id="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="Serial Attached SCSI" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY" typeId="1007286">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL SERVER 2008">
+				<CompetencyId id="027176" idOwner="023733" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL SERVER 2008" typeDescription="Found in SUMMARY" typeId="027176">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STATISTICAL ANALYSIS">
+				<CompetencyId id="008573" />
+				<TaxonomyId id="376" idOwner="15" description="Sovren" />
+				<CompetencyEvidence name="STATISTICAL ANALYSIS" typeDescription="Found in WORK HISTORY" typeId="008573">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STATISTICAL ANALYSIS">
+				<CompetencyId id="008574" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="STATISTICAL ANALYSIS" typeDescription="Found in WORK HISTORY" typeId="008574">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STATISTICAL ANALYSIS">
+				<CompetencyId id="008575" />
+				<TaxonomyId id="501" idOwner="71" description="Sovren" />
+				<CompetencyEvidence name="STATISTICAL ANALYSIS" typeDescription="Found in WORK HISTORY" typeId="008575">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STATISTICAL ANALYSIS">
+				<CompetencyId id="008576" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="STATISTICAL ANALYSIS" typeDescription="Found in WORK HISTORY" typeId="008576">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STATISTICAL ANALYSIS">
+				<CompetencyId id="022186" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="STATISTICAL ANALYSIS" typeDescription="Found in WORK HISTORY" typeId="022186">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STATISTICAL ANALYSIS">
+				<CompetencyId id="1400072" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="STATISTICAL ANALYSIS" typeDescription="Found in WORK HISTORY" typeId="1400072">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STATISTICAL ANALYSIS">
+				<CompetencyId id="9000111" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="STATISTICAL ANALYSIS" typeDescription="Found in WORK HISTORY" typeId="9000111">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STATISTICAL MODELING">
+				<CompetencyId id="1400069" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="STATISTICAL MODELING" typeDescription="Found in SKILLS; SUMMARY" typeId="1400069">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STATISTICAL MODELING">
+				<CompetencyId id="1400099" />
+				<TaxonomyId id="589" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="STATISTICAL MODELING" typeDescription="Found in SKILLS; SUMMARY" typeId="1400099">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TEAM PLAYER">
+				<CompetencyId id="026528" />
+				<TaxonomyId id="239" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="TEAM PLAYER" typeDescription="Found in SUMMARY" typeId="026528">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TEAM PLAYER">
+				<CompetencyId id="026529" />
+				<TaxonomyId id="528" idOwner="90" description="Sovren" />
+				<CompetencyEvidence name="TEAM PLAYER" typeDescription="Found in SUMMARY" typeId="026529">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TECHNICAL DESIGN">
+				<CompetencyId id="025754" />
+				<TaxonomyId id="201" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="TECHNICAL DESIGN" typeDescription="Found in WORK HISTORY" typeId="025754">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TECHNICAL DESIGN">
+				<CompetencyId id="025755" />
+				<TaxonomyId id="134" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="TECHNICAL DESIGN" typeDescription="Found in WORK HISTORY" typeId="025755">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TESTING">
+				<CompetencyId id="009472" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="TESTING" typeDescription="Found in WORK HISTORY" typeId="009472">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="USER INTERFACE">
+				<CompetencyId id="1400245" />
+				<TaxonomyId id="599" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="USER INTERFACE" typeDescription="Found in WORK HISTORY" typeId="1400245">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="USER INTERFACE">
+				<CompetencyId id="7310067" />
+				<TaxonomyId id="731" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="USER INTERFACE" typeDescription="Found in WORK HISTORY" typeId="7310067">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="USER INTERFACE DESIGN">
+				<CompetencyId id="024480" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="USER INTERFACE DESIGN" typeDescription="Found in SUMMARY; WORK HISTORY" typeId="024480">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="USER INTERFACE DESIGN">
+				<CompetencyId id="024481" />
+				<TaxonomyId id="134" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="USER INTERFACE DESIGN" typeDescription="Found in SUMMARY; WORK HISTORY" typeId="024481">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>false</Read>
+				<Write>false</Write>
+				<Speak>true</Speak>
+				<Comments>Hindi, English.</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>false</Read>
+				<Write>false</Write>
+				<Speak>true</Speak>
+				<Comments>Hindi, English.</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Awarded "FSI Insta Award" for self-learning and executing the task with excellence</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Recognized for high performance during training in Business Intelligence</Description>
+			</Achievement>
+			<Achievement>
+				<Description>One of the toppers during training at Infosys, Mysore</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Received Appreciations from client, off shore and onshore Leads many occasions for my error free and timely delivery of tasks solely</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Received "Appreciation mails" from the manager and colleagues for my key contribution, effort for project</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2015-07-07</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>BIJENDRA BHARTI's experience appears to be concentrated in Knowledge and Learning Management / Knowledge and Learning Management, with exposure to Information Technology / Database. BIJENDRA BHARTI's experience appears to be ENTRY LEVEL, with only 5 months of experience, with no management experience.
+The job objective did not contain enough specific information to make a determination as to whether the candidate's job objective matches the candidate's experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>5</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>1</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="92" rootId="Sovren" name="Knowledge and Learning Management" weight="2448.88" percentOfOverall="24.32" percentOfParent="24.32">
+						<sov:BestFitTaxonomy id="903" rootId="Sovren" name="Knowledge and Learning Management" weight="2448.88" percentOfOverall="24.32" percentOfParent="100.00" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="1965.70" percentOfOverall="19.52" percentOfParent="19.52">
+						<sov:BestFitTaxonomy id="193" rootId="Sovren" name="Database" weight="955.01" percentOfOverall="9.48" percentOfParent="48.58" />
+						<sov:BestFitTaxonomy id="204" rootId="Sovren" name="Programming" weight="328.32" percentOfOverall="3.26" percentOfParent="16.70" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="5" ends="9" sectionType="OBJECTIVE">OBJECTIVE</sov:Section>
+				<sov:Section starts="10" ends="23" sectionType="SUMMARY">SUMMARY</sov:Section>
+				<sov:Section starts="24" ends="31" sectionType="SKILLS">TECHNICAL SKILLS</sov:Section>
+				<sov:Section starts="32" ends="36" sectionType="EDUCATION">EDUCATIONAL QUALIFICATION</sov:Section>
+				<sov:Section starts="37" ends="129" sectionType="WORK HISTORY">PROFESSIONAL EXPERIENCE</sov:Section>
+				<sov:Section starts="130" ends="136" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">ACHIEVEMENTS</sov:Section>
+				<sov:Section starts="137" ends="142" sectionType="CONTACT INFO">PERSONAL PROFILE</sov:Section>
+				<sov:Section starts="143" ends="155" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>7676</sov:ParsedTextLength>
+			<sov:ParseTime>906</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Manpreet Talwandi</FormattedName>
+				<GivenName>Manpreet</GivenName>
+				<FamilyName>Talwandi</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Flat No. 702, SBI officers flats, Block-G, East of Kailash (110065)</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>(+91) 9811131633</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>manpreet.talwandi@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>RSG Media Systems Pvt Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Business Analyst</Title>
+					<OrgName>
+						<OrganizationName>RSG Media Systems Pvt Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>DELHI</Region>
+							<Municipality>New Delhi</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Business Analyst at RSG Media Systems Pvt Ltd.                                    August 2014 - present
+Jasola, New Delhi
+Roles and Responsibilities:
+Content interpretation and analysis of the project.
+Focusing on both business and systems requirements of the project and ensuring timely delivery of solutions using specialized client based enterprise software RightsLogic.
+Utilizing strong interpersonal and communications skills to serve international client
+requirements/assignments.
+Improving project efficiency by reducing rework and meeting deadlines.
+
+
+Internship Experience</Description>
+					<StartDate>
+						<AnyDate>2014-08-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-02</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>23</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>24</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>102</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>State Bank of India</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>State Bank of India</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>DELHI</Region>
+							<Municipality>New Delhi</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>State Bank of India		June 2013 - July 2013
+Local Head Office, Parliament Street, New Delhi, India
+Project: Scanning of numerous pending signatures at various branches of state bank of India using PHP software for website development.
+
+
+1</Description>
+					<StartDate>
+						<AnyDate>2013-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-07-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbability>22</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>41</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Caparo Engineering India Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Caparo Engineering India Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>U.P</Region>
+							<Municipality>Noida</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Caparo Engineering India Ltd.		January 2013 - June 2013
+Greater Noida, U.P, India
+Project I: Planning a common line layout for tractor fender production.
+Construction of a hybrid layout, including arrangement using work distance method.
+Project II: Rejection analysis of various steering column parts
+Pareto diagrams, frequency distribution and fish-bone analysis.</Description>
+					<StartDate>
+						<AnyDate>2013-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-06-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbability>25</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>74</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Thapar University</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Thapar University</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>PUNJAB</Region>
+							<Municipality>Patiala</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Thapar University, Patiala, India                                            June 2012 - July 2012
+Summer Workshop Training in Mechanical Engineering
+Performed different tasks in Turning Shop, Machining Shop, Sheet Metal Shop, Carpentry Shop, Welding Shop and
+Foundry Shop.
+Designed and fabricated an aluminum Screw jack as a Summer Training Project.</Description>
+					<StartDate>
+						<AnyDate>2012-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-07-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbability>23</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>97</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="trade">
+				<School>
+					<SchoolName>Delhi Public School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>U.P</Region>
+					<Municipality>Noida</Municipality>
+				</PostalAddress>
+				<Degree degreeType="certification">
+					<DegreeName>Certification</DegreeName>
+					<DegreeDate>
+						<AnyDate>2010-01-01</AnyDate>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>1996-01-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2010-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Higher Senior Certification:
+Delhi Public School, Noida, U.P, India	1996-2010</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Thapar University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Punjab</Region>
+					<Municipality>Patiala</Municipality>
+				</PostalAddress>
+				<Degree degreeType="secondary">
+					<DegreeName>C.B.S.E</DegreeName>
+					<DegreeDate>
+						<AnyDate>2014-07-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Board</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>84.20</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2010-07-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2014-07-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Class Xth, C.B.S.E Board, Aggregate- 84.20%
+Class XIIth, C.B.S.E Board, Aggregate- 84.00%
+
+Graduation:
+Thapar University, Patiala, Punjab, India	July 2010 - July 2014</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.842</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor's</DegreeName>
+					<DegreeMajor>
+						<Name>Mechanical Engineering</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>5.21</StringValue>
+							</MeasureValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+					</DatesOfAttendance>
+					<Comments>Bachelor's in Mechanical Engineering
+Cumulative Grade Point Average (CGPA on 10 point scale) - 5.21</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Higher Senior Certification:</Name>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary></QualificationSummary>
+			<Competency name="CLASS">
+				<CompetencyId id="5530927" idOwner="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CLASS" typeDescription="Found in EDUCATION; DEG-2" typeId="5530927" lastUsed="2014-07-01">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM">
+				<CompetencyId id="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM" typeDescription="Found in EDUCATION; DEG-2" typeId="5530926" lastUsed="2014-07-01">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SOLUTIONS">
+				<CompetencyId id="030002" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SOLUTIONS" typeDescription="Found in WORK HISTORY; POS-1" typeId="030002" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUTOCAD">
+				<CompetencyId id="0025251" />
+				<TaxonomyId id="356" idOwner="4" description="Sovren" />
+				<CompetencyEvidence name="AUTOCAD" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="0025251">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUTOCAD">
+				<CompetencyId id="0025252" />
+				<TaxonomyId id="357" idOwner="4" description="Sovren" />
+				<CompetencyEvidence name="AUTOCAD" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="0025252">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="C++">
+				<CompetencyId id="012287" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="C++" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="012287">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS OFFICE">
+				<CompetencyId id="022136" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS OFFICE" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="022136">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS OFFICE">
+				<CompetencyId id="022137" />
+				<TaxonomyId id="351" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MS OFFICE" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="022137">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRO-E">
+				<CompetencyId id="080528" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="PRO-E" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="080528">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRO-E">
+				<CompetencyId id="080791" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="PRO-E" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="080791">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRO-E">
+				<CompetencyId id="5000003" />
+				<TaxonomyId id="733" idOwner="29" description="Sovren" />
+				<CompetencyEvidence name="PRO-E" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="5000003">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRO-E">
+				<CompetencyId id="5000058" />
+				<TaxonomyId id="715" idOwner="29" description="Sovren" />
+				<CompetencyEvidence name="PRO-E" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="5000058">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRO-E">
+				<CompetencyId id="5000085" />
+				<TaxonomyId id="716" idOwner="29" description="Sovren" />
+				<CompetencyEvidence name="PRO-E" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="5000085">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LAYOUT FOR">
+				<CompetencyId id="022097" />
+				<TaxonomyId id="433" idOwner="33" description="Sovren" />
+				<CompetencyEvidence name="LAYOUT FOR" typeDescription="Found in WORK HISTORY; POS-3" typeId="022097" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STEERING">
+				<CompetencyId id="022232" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="STEERING" typeDescription="Found in WORK HISTORY; POS-3" typeId="022232" lastUsed="2013-06-01">
+					<NumericValue description="Total Months">5</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MECHANICAL ENGINEERING">
+				<CompetencyId id="5000203" />
+				<TaxonomyId id="733" idOwner="29" description="Sovren" />
+				<CompetencyEvidence name="MECHANICAL ENGINEERING" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-3; POS-4" typeId="5000203" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PHP">
+				<CompetencyId id="004736" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="PHP" typeDescription="Found in PROFESSIONAL AFFILIATIONS; WORK HISTORY; POS-2" typeId="004736" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SCANNING">
+				<CompetencyId id="007477" />
+				<TaxonomyId id="303" idOwner="11" description="Sovren" />
+				<CompetencyEvidence name="SCANNING" typeDescription="Found in WORK HISTORY; POS-2" typeId="007477" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SCANNING">
+				<CompetencyId id="007478" />
+				<TaxonomyId id="113" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="SCANNING" typeDescription="Found in WORK HISTORY; POS-2" typeId="007478" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CARPENTRY">
+				<CompetencyId id="024609" />
+				<TaxonomyId id="286" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="CARPENTRY" typeDescription="Found in WORK HISTORY; POS-4" typeId="024609" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MACHINING">
+				<CompetencyId id="023704" />
+				<TaxonomyId id="206" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="MACHINING" typeDescription="Found in WORK HISTORY; POS-4" typeId="023704" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MACHINING">
+				<CompetencyId id="023705" />
+				<TaxonomyId id="287" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="MACHINING" typeDescription="Found in WORK HISTORY; POS-4" typeId="023705" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SHEET METAL">
+				<CompetencyId id="007884" />
+				<TaxonomyId id="206" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="SHEET METAL" typeDescription="Found in WORK HISTORY; POS-4" typeId="007884" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SHEET METAL">
+				<CompetencyId id="007886" />
+				<TaxonomyId id="287" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="SHEET METAL" typeDescription="Found in WORK HISTORY; POS-4" typeId="007886" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SHEET METAL">
+				<CompetencyId id="080499" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SHEET METAL" typeDescription="Found in WORK HISTORY; POS-4" typeId="080499" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SHEET METAL">
+				<CompetencyId id="080870" />
+				<TaxonomyId id="137" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SHEET METAL" typeDescription="Found in WORK HISTORY; POS-4" typeId="080870" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRAINING">
+				<CompetencyId id="200064" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="TRAINING" typeDescription="Found in WORK HISTORY; POS-4" typeId="200064" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WELDING">
+				<CompetencyId id="011052" />
+				<TaxonomyId id="924" idOwner="26" description="Sovren" />
+				<CompetencyEvidence name="WELDING" typeDescription="Found in WORK HISTORY; POS-4" typeId="011052" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WELDING">
+				<CompetencyId id="022179" />
+				<TaxonomyId id="365" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="WELDING" typeDescription="Found in WORK HISTORY; POS-4" typeId="022179" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WELDING">
+				<CompetencyId id="022181" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="WELDING" typeDescription="Found in WORK HISTORY; POS-4" typeId="022181" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WELDING">
+				<CompetencyId id="081055" />
+				<TaxonomyId id="293" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="WELDING" typeDescription="Found in WORK HISTORY; POS-4" typeId="081055" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WELDING">
+				<CompetencyId id="081083" />
+				<TaxonomyId id="287" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="WELDING" typeDescription="Found in WORK HISTORY; POS-4" typeId="081083" lastUsed="2012-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Bagged first prize in inter school Music competition- Mangal Dhwani</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Awarded Silver medal in inter year football tournament</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2015-07-02</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Manpreet Talwandi's experience appears to be concentrated in Light Technical/Trades/Skilled Labor / Machine Shop, with exposure to Engineering / General Engineering. Manpreet Talwandi's experience appears to be ENTRY LEVEL, with only 18 months of experience, with no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>18</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>2</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="27" rootId="Sovren" name="Light Technical/Trades/Skilled Labor" weight="518.40" percentOfOverall="18.36" percentOfParent="18.36">
+						<sov:BestFitTaxonomy id="287" rootId="Sovren" name="Machine Shop" weight="324.00" percentOfOverall="11.48" percentOfParent="62.50" />
+						<sov:BestFitTaxonomy id="286" rootId="Sovren" name="Carpentry and Painting" weight="129.60" percentOfOverall="4.59" percentOfParent="25.00" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="5" rootId="Sovren" name="Engineering" weight="412.80" percentOfOverall="14.62" percentOfParent="14.62">
+						<sov:BestFitTaxonomy id="307" rootId="Sovren" name="General Engineering" weight="336.00" percentOfOverall="11.90" percentOfParent="81.40" />
+						<sov:BestFitTaxonomy id="137" rootId="Sovren" name="Industrial" weight="64.80" percentOfOverall="2.30" percentOfParent="15.70" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="15" ends="27" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="28" ends="62" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="63" ends="65" sectionType="PROFESSIONAL AFFILIATIONS">Volunteer Experience</sov:Section>
+				<sov:Section starts="66" ends="79" sectionType="PROFESSIONAL AFFILIATIONS">Extra-Curricular Activities</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>3605</sov:ParsedTextLength>
+			<sov:ParseTime>360</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000101000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

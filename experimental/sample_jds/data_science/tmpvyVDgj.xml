@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Data Scientist</MainJobTitle>
+    <JobTitle>Data Scientist</JobTitle>
+  </JobTitles>
+  <RequiredSkills>
+    <RequiredSkill>databases</RequiredSkill>
+  </RequiredSkills>
+  <OtherSkills>
+    <OtherSkill>ALGORITHMS</OtherSkill>
+    <OtherSkill>ANALYTICAL FRAMEWORKS</OtherSkill>
+    <OtherSkill>APACHE HADOOP MAPREDUCE</OtherSkill>
+    <OtherSkill>APACHE HBASE</OtherSkill>
+    <OtherSkill>ASSOCIATION RULES</OtherSkill>
+    <OtherSkill>BUSINESS OPERATIONS</OtherSkill>
+    <OtherSkill>DATA MODELS</OtherSkill>
+    <OtherSkill>DATABASE</OtherSkill>
+    <OtherSkill>DATASETS</OtherSkill>
+    <OtherSkill>DECISION TREES</OtherSkill>
+    <OtherSkill>FORECASTING</OtherSkill>
+    <OtherSkill>Hadoop</OtherSkill>
+    <OtherSkill>HBase</OtherSkill>
+    <OtherSkill>Hive</OtherSkill>
+    <OtherSkill>JAVA</OtherSkill>
+    <OtherSkill>LARGE-SCALE</OtherSkill>
+    <OtherSkill>LOGISTIC REGRESSION</OtherSkill>
+    <OtherSkill>MACHINE LEARNING</OtherSkill>
+    <OtherSkill>MAP REDUCE</OtherSkill>
+    <OtherSkill>MapReduce</OtherSkill>
+    <OtherSkill>MATLAB</OtherSkill>
+    <OtherSkill>METRICS</OtherSkill>
+    <OtherSkill>NATURAL LANGUAGE PROCESSING</OtherSkill>
+    <OtherSkill>NEURAL</OtherSkill>
+    <OtherSkill>NEURAL NETWORKS</OtherSkill>
+    <OtherSkill>OPERATIONS</OtherSkill>
+    <OtherSkill>Pig</OtherSkill>
+    <OtherSkill>PREDICTIVE ANALYTICS</OtherSkill>
+    <OtherSkill>PYTHON</OtherSkill>
+    <OtherSkill>QUANTITATIVE</OtherSkill>
+    <OtherSkill>RANDOM FORESTS</OtherSkill>
+    <OtherSkill>SENTIMENT ANALYSIS</OtherSkill>
+    <OtherSkill>SQL</OtherSkill>
+    <OtherSkill>STATISTICAL ANALYSIS</OtherSkill>
+    <OtherSkill>STATISTICS</OtherSkill>
+    <OtherSkill>SUPPORT VECTOR MACHINE</OtherSkill>
+    <OtherSkill>SVM</OtherSkill>
+    <OtherSkill>TIME-SERIES</OtherSkill>
+  </OtherSkills>
+  <Taxonomies>
+    <Taxonomy type="best fit">
+      <ParentTaxonomyId>10</ParentTaxonomyId>
+      <ParentTaxonomyName>Information Technology</ParentTaxonomyName>
+      <SubTaxonomyId>553</SubTaxonomyId>
+      <SubTaxonomyName>Big Data</SubTaxonomyName>
+    </Taxonomy>
+    <Taxonomy type="second best fit">
+      <ParentTaxonomyId>34</ParentTaxonomyId>
+      <ParentTaxonomyName>Business Operations and General Business</ParentTaxonomyName>
+      <SubTaxonomyId>437</SubTaxonomyId>
+      <SubTaxonomyName>General Skills and Activities</SubTaxonomyName>
+    </Taxonomy>
+  </Taxonomies>
+  <Education>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>computer science</DegreeName>
+    </Degree>
+  </Education>
+  <MinimumYears>1</MinimumYears>
+  <RequiredDegree>masters</RequiredDegree>
+  <TypeOfSource>stJobOrder</TypeOfSource>
+  <SourceText>Data Scientist
+
+JOB DESCRIPTION
+Data is core to our business and we are looking for you to lead analytical projects and extract actionable insights from our large datasets to drive product and business strategy.  You will perform quantitative analyses and build analytical frameworks to advise many parts of the Oration team and Product, Engineering, and Business Operations and to help frame and answer important business and product questions where data insights have the biggest impact.
+
+Role:
+
+Implement algorithms to power data-driven product features
+Perform machine learning, natural language, and statistical analysis methods, such as classification, collaborative filtering, association rules, sentiment analysis, topic modeling, time-series analysis, regression, statistical inference, and validation methods
+Drive client engagements focused on Big Data and Advanced Business Analytics; communicate results and educate others through reports and presentations
+Perform explanatory data analyses, generate and test working hypotheses, prepare and analyze historical data and identify patterns
+Bring quantitative judgment to business discussions
+Forecasting future behavior through modeling
+Serve as a primary person to consult on complex issues.
+Manage critical processes that are central to the delivery of accurate metrics (e.g., data models, reporting dashboard, etc.)
+
+Qualifications
+Masters degree in computer science
+1 year of experience as a data scientist
+Should know about Logistic regression, naive bayes, SVM, decision trees, neural networks, and random forests
+machine learning, natural language processing, sentiment analysis, topic modeling, classifiers, predictive analytics
+Large-scale datasets, map reduce architectures, and big data techniques, such as Hadoop, MapReduce, Pig, Hive, Hbase
+Familiar with one or more machine learning or statistics tools such as R, Matlab, and etc. or various libraries for other programming languages
+Experience with at least one general purpose programming language such as Java, Python, C and etc
+Knowledge and experience of relational databases and SQL</SourceText>
+  <RevisionDate>2014-09-15</RevisionDate>
+</SovrenData>

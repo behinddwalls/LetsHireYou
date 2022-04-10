@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Integrated Post Graduate Program</FormattedName>
+				<GivenName>Integrated</GivenName>
+				<MiddleName>Post Graduate</MiddleName>
+				<FamilyName>Program</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91 - 9886540606</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>sriram.t.krishnan@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<Objective>To grow and evolve as a professional and leader through experience in a position where I can expand and apply my
+skills and knowledge, and make myself useful towards achieving the organizational goals.</Objective>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Indian Institute of Management Bangalore</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Research Assistant</Title>
+					<OrgName>
+						<OrganizationName>Indian Institute of Management Bangalore</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bangalore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Organization: Indian Institute of Management Bangalore                                          (Jan'14 -Present)
+Role: Research Assistant
+
+•   Aircraft Fleet Management (Prescriptive Analytics)
+• Developed an integer programming model for optimizing the Maintenance Planning process of an international airline considering operational and maintenance constraints.
+•   Analysis of Two - Stage Perishable Inventory (Prescriptive Analytics)
+• Proposed an optimization model for effective management of a two stage perishable product wherein
+each stage has a different shelf life.
+•   Player Selection in IPL Auction (Predictive Analytics)
+• The project aims at developing an efficient mathematical model to determine the probability of a
+player getting selected in IPL auction based on his past performance.
+•   Package Pricing for Treatments (Predictive Analytics)
+• The objective of the project is to frame an appropriate package pricing strategy for cardiac surgeries by identifying key factors that drive the cost incurred by the hospital. (To be published in Harvard
+Business Publishing).</Description>
+					<StartDate>
+						<AnyDate>2014-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-02</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>23</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>137</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Mu Sigma Business Solutions Private Limited</EmployerOrgName>
+				<PositionHistory positionType="internship">
+					<Title>Trainee Decision Scientist</Title>
+					<OrgName>
+						<OrganizationName>Mu Sigma Business Solutions Private Limited</OrganizationName>
+					</OrgName>
+					<Description>Organization: Mu Sigma Business Solutions Private Limited                                        (Jun'13 - Dec'13)
+Role: Trainee Decision Scientist
+•   Customer Purchase Behavior Analysis
+• Identified and analyzed typical purchase patterns followed by customers of a major retail store and suggested measures for improving store's targeted advertising campaign.
+•   Search Engine Performance Analysis
+• Analyzed the health of a major search engine in terms of advertisement demand and performed
+investigations to understand the rise/drop in performance trends of the system.</Description>
+					<StartDate>
+						<AnyDate>2013-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbability>21</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>29</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>146</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>ABV-Indian Institute of Information Technology and Management Gwalior</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MADHYA PRADESH</Region>
+					<Municipality>Gwalior</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Technology</DegreeName>
+					<DegreeDate>
+						<AnyDate>2013-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Technology</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2008-01-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2013-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Institution: ABV-Indian Institute of Information Technology and Management Gwalior	(2008 - 2013)
+Integrated Post Graduate Program: Bachelor of Technology (Information Technology) +</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="masters">
+					<DegreeName>Master of Business Administration</DegreeName>
+					<DegreeDate>
+						<AnyDate>2010-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Business Analytics</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>8.1</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>10</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2010-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Master of Business Administration
+CGPA: 8.1/10
+AREA OF INTEREST
+Business Analytics</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.810</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>Indian Institute of Management</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bangalore</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2012-06-01</AnyDate>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2012-05-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2012-06-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>•   Pricing Tactics and Strategic Implementation	(May'12- Jun'12)
+Internship (Indian Institute of Management Bangalore)
+• The project involved understanding and exploring the role of pricing for a firm over the common
+concept of profit maximization.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>Indian Institute of Information Technology</SchoolName>
+				</School>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2009-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Engineering</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>1.5</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2009-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2. Adjudged 2nd in case study contest on Social Networking Sites organized under AASF in 2009.
+  3. Organized Carom in TWARAN’ 10 (Inter Indian Institute of Information Technology Sports Fest) and Debate
+     Competition under AASF in 2010.
+  4. Volunteer of Robotics (Event of Technical Fest of ABV-IIITM – INFOTSAV’09) and SF-FOSS (Students’
+     Forum for Free Open Source Software).
+  5. Selected among top 1.5% of students in All India Engineering Entrance Examination 2008.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-4</sov:Id>
+							<sov:NormalizedGPA>0.015</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>ABV</Name>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>KEY SKILLS
+•   Modeling Packages: Microsoft Excel, SPSS, LINDO, CPLEX, R (beginner)
+•   Database Programming: SQL
+
+
+Address: Flat No.54, Lok Vihar Apartments, Vikaspuri, New De lhi - 110018
+E-mail: sriram.t.krishnan@gmail.com; Ph: +91 - 9886540606</QualificationSummary>
+			<Competency name="PRICING">
+				<CompetencyId id="005394" />
+				<TaxonomyId id="516" idOwner="80" description="Sovren" />
+				<CompetencyEvidence name="PRICING" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-3; POS-1" typeId="005394" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">19</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRICING">
+				<CompetencyId id="022325" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="PRICING" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-3; POS-1" typeId="022325" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">19</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CARDIAC">
+				<CompetencyId id="024813" />
+				<TaxonomyId id="424" idOwner="99" description="Sovren" />
+				<CompetencyEvidence name="CARDIAC" typeDescription="Found in WORK HISTORY; POS-1" typeId="024813" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FLEET MANAGEMENT">
+				<CompetencyId id="017659" />
+				<TaxonomyId id="519" idOwner="80" description="Sovren" />
+				<CompetencyEvidence name="FLEET MANAGEMENT" typeDescription="Found in WORK HISTORY; POS-1" typeId="017659" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INVENTORY">
+				<CompetencyId id="020086" />
+				<TaxonomyId id="459" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="INVENTORY" typeDescription="Found in OTHER_PUBLICATIONS; WORK HISTORY; POS-1" typeId="020086" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MAINTENANCE">
+				<CompetencyId id="022116" />
+				<TaxonomyId id="364" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="MAINTENANCE" typeDescription="Found in WORK HISTORY; POS-1" typeId="022116" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MAINTENANCE">
+				<CompetencyId id="022117" />
+				<TaxonomyId id="452" idOwner="72" description="Sovren" />
+				<CompetencyEvidence name="MAINTENANCE" typeDescription="Found in WORK HISTORY; POS-1" typeId="022117" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPTIMIZATION">
+				<CompetencyId id="023295" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="OPTIMIZATION" typeDescription="Found in OTHER_PUBLICATIONS; WORK HISTORY; POS-1" typeId="023295" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PREDICTIVE ANALYTICS">
+				<CompetencyId id="1400071" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="PREDICTIVE ANALYTICS" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400071" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PREDICTIVE ANALYTICS">
+				<CompetencyId id="5531046" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="PREDICTIVE ANALYTICS" typeDescription="Found in WORK HISTORY; POS-1" typeId="5531046" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PUBLISHING">
+				<CompetencyId id="006027" />
+				<TaxonomyId id="115" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="PUBLISHING" typeDescription="Found in WORK HISTORY; POS-1" typeId="006027" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PUBLISHING">
+				<CompetencyId id="006029" />
+				<TaxonomyId id="430" idOwner="31" description="Sovren" />
+				<CompetencyEvidence name="PUBLISHING" typeDescription="Found in WORK HISTORY; POS-1" typeId="006029" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">18</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ADVERTISING">
+				<CompetencyId id="1400153" />
+				<TaxonomyId id="592" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="ADVERTISING" typeDescription="Found in WORK HISTORY; POS-2" typeId="1400153" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PERFORMANCE ANALYSIS">
+				<CompetencyId id="004542" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="PERFORMANCE ANALYSIS" typeDescription="Found in WORK HISTORY; POS-2" typeId="004542" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="030018" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="RETAIL" typeDescription="Found in WORK HISTORY; POS-2" typeId="030018" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="1400216" idOwner="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="RETAIL" typeDescription="Found in WORK HISTORY; POS-2" typeId="1400216" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL MARKETING">
+				<CompetencyId id="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="RETAIL MARKETING" typeDescription="Found in WORK HISTORY; POS-2" typeId="1400215" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SEARCH ENGINE">
+				<CompetencyId id="024268" />
+				<TaxonomyId id="196" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SEARCH ENGINE" typeDescription="Found in WORK HISTORY; POS-2" typeId="024268" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUYING/PROCUREMENT">
+				<CompetencyId id="012264" />
+				<TaxonomyId id="458" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="BUYING/PROCUREMENT" typeDescription="Found in OTHER_PUBLICATIONS" typeId="012264">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASE">
+				<CompetencyId id="015022" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="DATABASE" typeDescription="Found in SKILLS" typeId="015022">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASE">
+				<CompetencyId id="022486" />
+				<TaxonomyId id="201" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATABASE" typeDescription="Found in SKILLS" typeId="022486">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL">
+				<CompetencyId id="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL" typeDescription="Found in SKILLS" typeId="022841">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="017857" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in TRAINING" typeId="017857">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="017858" />
+				<TaxonomyId id="502" idOwner="71" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in TRAINING" typeId="017858">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="023163" />
+				<TaxonomyId id="256" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in TRAINING" typeId="023163">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="023164" />
+				<TaxonomyId id="245" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in TRAINING" typeId="023164">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="7000318" />
+				<TaxonomyId id="705" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in TRAINING" typeId="7000318">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GSM">
+				<CompetencyId id="018613" />
+				<TaxonomyId id="317" idOwner="16" description="Sovren" />
+				<CompetencyEvidence name="GSM" typeDescription="Found in OTHER_PUBLICATIONS; TRAINING" typeId="018613">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GSM">
+				<CompetencyId id="018614" />
+				<TaxonomyId id="293" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="GSM" typeDescription="Found in OTHER_PUBLICATIONS; TRAINING" typeId="018614">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GSM">
+				<CompetencyId id="018615" />
+				<TaxonomyId id="139" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="GSM" typeDescription="Found in OTHER_PUBLICATIONS; TRAINING" typeId="018615">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GSM">
+				<CompetencyId id="018616" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="GSM" typeDescription="Found in OTHER_PUBLICATIONS; TRAINING" typeId="018616">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="IEEE">
+				<CompetencyId id="019505" />
+				<TaxonomyId id="317" idOwner="16" description="Sovren" />
+				<CompetencyEvidence name="IEEE" typeDescription="Found in OTHER_PUBLICATIONS" typeId="019505">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="IEEE">
+				<CompetencyId id="026096" />
+				<TaxonomyId id="253" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="IEEE" typeDescription="Found in OTHER_PUBLICATIONS" typeId="026096">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ION">
+				<CompetencyId id="020128" />
+				<TaxonomyId id="377" idOwner="15" description="Sovren" />
+				<CompetencyEvidence name="ION" typeDescription="Found in EDUCATION" typeId="020128">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="JOURNAL">
+				<CompetencyId id="026929" />
+				<TaxonomyId id="944" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="JOURNAL" typeDescription="Found in OTHER_PUBLICATIONS" typeId="026929">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="JOURNAL">
+				<CompetencyId id="026930" />
+				<TaxonomyId id="960" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="JOURNAL" typeDescription="Found in OTHER_PUBLICATIONS" typeId="026930">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MICROSOFT EXCEL">
+				<CompetencyId id="021852" idOwner="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MICROSOFT EXCEL" typeDescription="Found in SKILLS" typeId="021852">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MICROSOFT EXCEL">
+				<CompetencyId id="024810" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MICROSOFT EXCEL" typeDescription="Found in SKILLS" typeId="024810">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPTIMIZATION">
+				<CompetencyId id="023294" />
+				<TaxonomyId id="198" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="OPTIMIZATION" typeDescription="Found in OTHER_PUBLICATIONS" typeId="023294">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PURCHASING">
+				<CompetencyId id="006085" idOwner="012264" />
+				<TaxonomyId id="458" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="PURCHASING" typeDescription="Found in OTHER_PUBLICATIONS" typeId="006085">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027121" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in SKILLS" typeId="027121">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027122" />
+				<TaxonomyId id="233" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in SKILLS" typeId="027122">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="9000110" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in SKILLS" typeId="9000110">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL">
+				<CompetencyId id="008481" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL" typeDescription="Found in SKILLS" typeId="008481">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FANUC">
+				<CompetencyId id="022363" />
+				<TaxonomyId id="206" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="FANUC" typeDescription="Found in EDUCATION; PROFESSIONAL AFFILIATIONS; DEG-4" typeId="022363" lastUsed="2009-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FANUC">
+				<CompetencyId id="080522" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="FANUC" typeDescription="Found in EDUCATION; PROFESSIONAL AFFILIATIONS; DEG-4" typeId="080522" lastUsed="2009-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NETWORKING">
+				<CompetencyId id="3490044" />
+				<TaxonomyId id="349" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="NETWORKING" typeDescription="Found in EDUCATION; DEG-4" typeId="3490044" lastUsed="2009-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPEN SOURCE">
+				<CompetencyId id="003842" />
+				<TaxonomyId id="253" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="OPEN SOURCE" typeDescription="Found in EDUCATION; DEG-4" typeId="003842" lastUsed="2009-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPEN SOURCE">
+				<CompetencyId id="3950001" />
+				<TaxonomyId id="395" idOwner="12" description="Sovren" />
+				<CompetencyEvidence name="OPEN SOURCE" typeDescription="Found in EDUCATION; DEG-4" typeId="3950001" lastUsed="2009-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ROBOTICS">
+				<CompetencyId id="007186" idOwner="022363" />
+				<TaxonomyId id="206" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="ROBOTICS" typeDescription="Found in EDUCATION; PROFESSIONAL AFFILIATIONS; DEG-4" typeId="007186" lastUsed="2009-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ROBOTICS">
+				<CompetencyId id="007187" idOwner="080522" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ROBOTICS" typeDescription="Found in EDUCATION; PROFESSIONAL AFFILIATIONS; DEG-4" typeId="007187" lastUsed="2009-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Associations>
+			<Association>
+				<Name>4. Volunteer of Robotics (Event of Technical Fest of ABV-IIITM - INFOTSAV') and SF-FOSS (Students</Name>
+				<EndDate>
+					<AnyDate>2009-01-01</AnyDate>
+				</EndDate>
+			</Association>
+		</Associations>
+		<References>
+			<Reference>
+				<PositionTitle>Professor, Indian Institute of Management Bangalore</PositionTitle>
+				<ContactMethod>
+					<Use>business</Use>
+					<Location>office</Location>
+					<WhenAvailable>anytime</WhenAvailable>
+					<PostalAddress>
+						<CountryCode>IN</CountryCode>
+						<Region>KARNATAKA</Region>
+						<Municipality>Bangalore</Municipality>
+					</PostalAddress>
+				</ContactMethod>
+				<ContactMethod>
+					<Use>business</Use>
+					<Location>office</Location>
+					<WhenAvailable>anytime</WhenAvailable>
+					<InternetEmailAddress>dineshk@iimb.ernet.in</InternetEmailAddress>
+				</ContactMethod>
+				<Comments>[OrgName=Dr. U Dinesh Kumar]</Comments>
+			</Reference>
+			<Reference>
+				<PositionTitle>Associate Professor, ABV-Indian Institute of Information Technology &amp; Management</PositionTitle>
+				<ContactMethod>
+					<Use>business</Use>
+					<Location>office</Location>
+					<WhenAvailable>anytime</WhenAvailable>
+					<PostalAddress>
+						<CountryCode>IN</CountryCode>
+						<Region>MADHYA PRADESH</Region>
+						<Municipality>Dhar</Municipality>
+						<DeliveryAddress>
+							<AddressLine>Dr. Joydip</AddressLine>
+						</DeliveryAddress>
+					</PostalAddress>
+				</ContactMethod>
+				<ContactMethod>
+					<Use>business</Use>
+					<Location>office</Location>
+					<WhenAvailable>anytime</WhenAvailable>
+					<InternetEmailAddress>jdhar@iiitm.ac.in</InternetEmailAddress>
+				</ContactMethod>
+				<ContactMethod>
+					<Telephone>
+						<FormattedNumber>+91 - 9886540606</FormattedNumber>
+					</Telephone>
+				</ContactMethod>
+				<Comments>[OrgName=Dr. Joydip Dhar]</Comments>
+			</Reference>
+		</References>
+		<RevisionDate>2015-07-02</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Integrated Post Graduate Program's experience appears to be concentrated in Marketing / Channel Management, with exposure to Information Technology / Internet. Integrated Post Graduate Program's experience appears to be LOWER-TO-MID LEVEL, with about 2 years of experience, with no management experience.
+The job objective did not contain enough specific information to make a determination as to whether the candidate's job objective matches the candidate's experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>25</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>2</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="14" rootId="Sovren" name="Marketing" weight="542.40" percentOfOverall="12.48" percentOfParent="12.48">
+						<sov:BestFitTaxonomy id="226" rootId="Sovren" name="Channel Management" weight="172.80" percentOfOverall="3.98" percentOfParent="31.86" />
+						<sov:BestFitTaxonomy id="592" rootId="Sovren" name="Marketing Communications" weight="172.80" percentOfOverall="3.98" percentOfParent="31.86" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="537.60" percentOfOverall="12.37" percentOfParent="12.37">
+						<sov:BestFitTaxonomy id="196" rootId="Sovren" name="Internet" weight="172.80" percentOfOverall="3.98" percentOfParent="32.14" />
+						<sov:BestFitTaxonomy id="553" rootId="Sovren" name="Big Data" weight="172.80" percentOfOverall="3.98" percentOfParent="32.14" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="2" ends="4" sectionType="OBJECTIVE">CAREER OBJECTIVE</sov:Section>
+				<sov:Section starts="5" ends="11" sectionType="EDUCATION">EDUCATION</sov:Section>
+				<sov:Section starts="12" ends="38" sectionType="WORK HISTORY">PROFESSIONAL EXPERIENCE</sov:Section>
+				<sov:Section starts="39" ends="45" sectionType="SKILLS">KEY SKILLS</sov:Section>
+				<sov:Section starts="46" ends="69" sectionType="EDUCATION">ACAD EMIC PROJECTS</sov:Section>
+				<sov:Section starts="70" ends="81" sectionType="OTHER_PUBLICATIONS">RESEARCH PAPERS</sov:Section>
+				<sov:Section starts="82" ends="89" sectionType="REFERENCES">REFERENCES</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>6466</sov:ParsedTextLength>
+			<sov:ParseTime>953</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<!-- These contains the form that has to be shown -->
+<!--  Form used to edit userPatent -->
+<div class="addNewUserPatent basic-form col-sm-8">
+	<form role="form" class="userPatentForm">
+
+		<div class="form-group userPatentIdGrp" style="display: none">
+			<input type="text" class="form-control userPatentId" name="patentId" 
+				value=' + patentObj.patentId + '>jjjjdsdsjsd
+		</div>
+
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userPatentTitleGrp">
+					<label for="userPatentTitle">Patent Title:</label> <input 
+						type="text" class="form-control userPatentTitle" 
+						name="patentTitle" value="' + ((checkEmpty(patentObj.patentTitle))?"":patentObj.patentTitle) + '">
+				</div>
+			</div>				
+		</div>
+		<div class="row">
+		<div class="col-sm-8">
+				<div class="form-group userPatentOfficeGrp">
+					<label for="userPatentOffice">Patent Office:</label> <input 
+						type="text" class="form-control typeahead userPatentOffice" 
+						name="patentOffice" value="' + ((checkEmpty(patentObj.patentOffice))?"":patentObj.patentOffice) + '">
+				</div>
+			</div>		
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userPatentStatusGrp">
+					<label for="userPatentStatus">Patent Status:</label>
+					<div class="radio">
+						<fieldset id="PatentStatus" class="form-group">
+							<label><input type="radio" class="form-control userPatentStatus" name="patentStatus" value="Pending" >Patent Pending</label>
+							<label><input type="radio" class="form-control userPatentStatus" name="patentStatus" value="Issued">Patent Issued</label>
+						</fieldset>
+					</div>					
+				</div>
+			</div>
+		</div>
+		<div class="row">			
+			<div class="col-sm-8">
+				<div class="form-group userPatentApplicationNumberGrp">
+					<label for="userPatentApplicationNumber">Patent Application 
+						Name:</label> <input type="text" 
+						class="form-control userPatentApplicationNumber" 
+						name="patentApplicationNumber" 
+						value="' + ((checkEmpty(patentObj.patentApplicationNumber)?"":patentObj.patentApplicationNumber)) + '">
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="form-group userPatentFillingDateGrp">
+					<label for="userPatentFillingDate">Patent Date:</label> <input 
+						type="date" class="form-control userPatentFillingDate" 
+						name="patentFillingDate" 
+						value=' + ((checkEmpty(patentObj.patentFillingDate))?"":patentObj.patentFillingDate) + '>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userPatentUrlGrp">
+					<label for="userPatentUrl">Patent URL:</label> <input type="text" 
+						class="form-control userPatentUrl" name="patentUrl" 
+						value=' + ((checkEmpty(patentObj.patentUrl))?"":patentObj.patentUrl) + '>
+				</div>
+			</div>
+
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userPatentDescriptionGrp">
+					<label for="userPatentDescription">Patent Description:</label>
+					<textarea class="form-control userPatentDescription" 
+						name="patentDescription">' + ((checkEmpty(patentObj.patentDescription))?"":patentObj.patentDescription) + '</textarea>
+				</div>
+			</div>
+		</div>
+		<div class="form-group text-center">
+			<button type="button" style="margin-left: 10px; margin-right: 10px"  
+				class="btn btn-primary text-center cancelUserPatent">
+				Cancel<i style="margin-left: 4px; margin-right: 4px; color:rgb(190, 35, 35)" 
+					class="fa fa-remove"></i>
+			</button>
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center saveUserPatent">
+				Save<i style="margin-left: 4px; margin-right: 4px; color:rgb(54, 207, 120)" 
+					class="fa fa-check"></i>
+			</button>
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center deleteUserPatent">
+				Remove<i style="margin-left: 4px; margin-right: 4px; color:rgb(236, 244, 216)" 
+					class="fa fa-trash-o"></i>
+			</button>
+		</div>		
+	</form>
+</div>
+
+
+<!--  Form used to add new UserPatent -->
+<div class="addNewUserPatent basic-form col-sm-8">
+	<form role="form" class="userPatentForm">
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userPatentTitleGrp">
+					<label for="userPatentTitle">Patent Title:</label> <input 
+						placeholder="Add Patent Title" type="text" class="form-control userPatentTitle" 
+						name="patentTitle"> 
+				</div>
+			</div>								
+		</div>
+		<div class="row">
+			<div class="col-sm-8">
+				<div class="form-group userPatentOfficeGrp">
+					<label for="userPatentOffice">Patent Office:</label> <input type="text"  
+						placeholder="Add Patent Issueing Country" class="form-control typeahead  userPatentOffice" 
+						name="patentOffice">
+						
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group userPatentStatusGrp">
+					<label for="userPatentStatus">Patent Status:</label>					
+						<fieldset id="PatentStatus" class="form-group userPatentStatus">
+						<div class="col-sm-6">
+							<label><input type="radio" class="form-control userPatentStatus" name="patentStatus" value="Pending" checked="checked" >Patent Pending</label> 
+						</div>
+						<div class="cols-sm-=6">
+							<label><input type="radio" class="form-control userPatentStatus" name="patentStatus" value="Issued">Patent Issued</label>
+						</div>						
+						</fieldset>					
+				</div>
+			</div>
+		</div>
+		<div class="row">			
+			<div class="col-sm-8">
+				<div class="form-group userPatentApplicationNumberGrp">
+					<label for="userPatentApplicationNumber">Patent/Application 
+						Number:</label> <input type="text" 
+						placeholder="Add Patent/Application Number" class="form-control userPatentApplicationNumber" 
+						name="patentApplicationNumber">
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="form-group userPatentFillingDateGrp">
+					<label for="userPatentFillingDate">Issue/Filling Date:</label> <input 
+						type="date" class="form-control userPatentFillingDate" 
+						name="patentFillingDate">
+				</div>
+			</div>	
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userPatentUrlGrp">
+					<label for="userPatentUrl">Patent URL:</label> <input type="text" 
+						placeholder="Add URL" class="form-control userPatentUrl" name="patentUrl">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group userPatentDescriptionGrp">
+					<label for="userPatentDescription">Description:</label>
+					<textarea class="form-control userPatentDescription" 
+						placeholder="Add Description" name="patentDescription"></textarea>
+				</div>
+			</div>
+		</div>		
+		<div class="form-group text-center">
+			<button type="button" style="margin-left: 10px; margin-right: 10px"   
+				class="btn btn-primary text-center cancelUserPatent">
+				Cancel<i style="margin-left: 4px; margin-right: 4px; color:rgb(190, 35, 35)" 
+					class="fa fa-remove"></i>
+			</button>
+			<button type="submit" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center saveUserPatent">
+				Save<i style="margin-left: 4px; margin-right: 4px; color:rgb(54, 207, 120)" 
+					class="fa fa-check"></i>
+			</button>
+		</div>		
+	</form>
+</div>
+

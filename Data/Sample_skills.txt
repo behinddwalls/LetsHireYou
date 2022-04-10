@@ -1,0 +1,3694 @@
+Skill_id,Skill_name
+1,DFMEA
+2,Architectural Acoustics
+3,Acoustical
+4,Psychoacoustics
+5,Acoustic Measurement
+6,Sound Isolation
+7,Noise Control
+8,Sound Quality
+9,Environmental Noise
+10,Acoustic Modeling
+11,Vibration Control
+12,Odeon
+13,Speaker Acquisition
+14,Noise Cancellation
+15,Underwater Acoustics
+16,Microphone Arrays
+17,Aeroacoustics
+18,Acoustic Emission
+19,Audio System Design
+20,Noise Reduction
+21,SMAART
+22,Aerospace Structures
+23,AIAA
+24,Astronautics
+25,Orbital Mechanics
+26,Astrodynamics
+27,Spacecraft Design
+28,Flight Dynamics
+29,Trajectory Optimization
+30,Flight Mechanics
+31,Guidance Navigation & Control
+32,XFOIL
+33,Aircraft Design
+34,Hypersonic
+35,Aeroelasticity
+36,Orbital Dynamics
+37,Aircraft Propulsion
+38,Aerothermodynamics
+39,Space Exploration
+40,Trajectory Analysis
+41,Wind Tunnel
+42,Autopilot
+43,Avionics Integration
+44,TACAN
+45,Inertial Navigation
+46,DO-254
+47,Flight Management Systems
+48,Flight Test Engineering
+49,Flight Control
+50,DO-160
+51,NALCOMIS
+52,Airworthiness Certification
+53,Avionics Design
+54,Adaptive Control
+55,ARINC 429
+56,ARINC 653
+57,SCADE
+58,Orbit Determination
+59,MatrixX
+60,State Estimation
+61,Robust Control
+62,Satellite Tool Kit
+63,Orbit
+64,Space Environment
+65,Linear Systems
+66,Anomaly Resolution
+67,Powertrain
+68,Automotive Aftermarket
+69,VW
+70,Automotive Electronics
+71,Nissan
+72,Dealer Management
+73,PPAP
+74,Mazda
+75,Automotive Products
+76,Instrument Panel
+77,Fiat
+78,Jaguar
+79,Land Rover
+80,TS16949
+81,Audi
+82,ETAS INCA
+83,ATI Vision
+84,Fuel Economy
+85,Driveline
+86,INCA
+87,Engine Management Systems
+88,Ricardo Wave
+89,Vector CANalyzer
+90,PHEV
+91,NVH
+92,ETAS
+93,Vehicle Dynamics
+94,Dynamometers
+95,HIL
+96,Vehicle Engineering
+97,DVP&R
+98,GT-Power
+99,Controls Development
+100,Internal Combustion Engines
+101,AVL Boost
+102,Combustion Analysis
+103,Chemkin
+104,DPF
+105,STAR-CD
+106,Fuel Injection
+107,Engine Performance
+108,Emissions Control
+109,AVL
+110,Soot
+111,Combustion Systems
+112,Emissions Testing
+113,Thermal S
+114,Timing Belts
+115,Makes & Models
+116,Fuel System Design
+117,Engine Rebuilding
+118,Automotive Electrical Systems
+119,Robust Engineering
+120,Electrical Diagnosis
+121,AMESim
+122,Tune-ups
+123,Motec
+124,MADYMO
+125,Pamcrash
+126,Radioss
+127,FMVSS
+128,Vehicle Safety
+129,Hyperworks
+130,LS-DYNA
+131,Optistruct
+132,Automotive Safety
+133,ModeFrontier
+134,Airbags
+135,Pedestrian Safety
+136,ANSA
+137,FE analysis
+138,DIAdem
+139,Crash
+140,Morphing
+141,Structural Optimization
+142,Restraints
+143,Isight
+144,Crashworthiness
+145,Child Passenger Safety
+146,CarSim
+147,Vehicle Architecture
+148,Vehicle Engineering
+149,PHEV
+150,Buick
+151,Prescan
+152,Sports Biomechanics
+153,Tissue Mechanics
+154,Gait Analysis
+155,Mechanobiology
+156,Locomotion
+157,Motion Analysis
+158,Rehabilitation Engineering
+159,Gait
+160,Motor Learning
+161,Vicon
+162,Diabetic Foot Care
+163,Movement Analysis
+164,Heel Pain
+165,Biomedical Device Design
+166,microCT
+167,Mimics
+168,Cartilage
+169,Dartfish
+170,Bunions
+171,Histomorphometry
+172,Sports Performance Enhancement
+173,Muscle Physiology
+174,Functional Movement Screen
+175,Periodization
+176,OpenSim
+177,Muscular Endurance
+178,Postural Assessment
+179,Speed Training
+180,Injury Treatment
+181,Spinal Manipulation
+182,Functional Movement
+183,Constitutive Modeling
+184,Contact Mechanics
+185,Continuum Mechanics
+186,Multiscale Modeling
+187,Materials Modeling
+188,Elasticity
+189,Viscoelasticity
+190,Mechanical Behavior of Materials
+191,Fluid-Structure Interaction
+192,Structural Optimization
+193,Experimental Mechanics
+194,PETSc
+195,Structural Mechanics
+196,Plasticity
+197,Multiphysics Modeling
+198,Applied Mechanics
+199,Computational Materials Science
+200,Continuum
+201,Solid Mechanics
+202,LAMMPS
+203,Computational Mechanics
+204,MASTAN
+205,Non-linear Analysis
+206,Structural Dynamics
+207,Random Vibration
+208,Modal
+209,Buckling
+210,Earthquake Resistant Design
+211,APDL
+212,FE-Safe
+213,nCode
+214,Shape Memory Alloys
+215,Creep
+216,Density Functional Theory
+217,Digital Image Correlation
+218,RAM Structural Systems
+219,Code Design
+220,ASCE 7
+221,ADINA
+222,Structural Systems
+223,RISA
+224,AASHTO
+225,ASCE
+226,AISC
+227,Visual Analytics
+228,Prestressed Concrete
+229,ETABS
+230,ACI Codes
+231,Earthquake Engineering
+232,HEC-HMS
+233,IBC
+234,Beams
+235,Ansys
+236,Q3D
+237,CFX
+238,ICEM CFD
+239,Icepak
+240,Meshing
+241,Gambit
+242,FE analysis
+243,Hypermesh
+244,Tecplot
+245,LS-DYNA
+246,CST Microwave Studio
+247,XFDTD
+248,Abaqus
+249,Tgrid
+250,ModeFrontier
+251,Hyperelasticity
+252,Autodesk
+253,Superalloys
+254,Fractography
+255,Tensile
+256,Thermocalc
+257,EBSD
+258,NASGRO
+259,Stress Engineers
+260,Microstructure
+261,APQP
+262,Non-parametric
+263,Taguchi
+264,GLM
+265,Principal Component Analysis
+266,Statistical Consulting
+267,Control Charts
+268,Statistical Computing
+269,QFD
+270,Multivariate Analysis
+271,ANOVA
+272,Logistic Regression
+273,Cluster Analysis
+274,Linear Regression
+275,Statistical Software
+276,JMP
+277,Multivariate Statistics
+278,DFSS
+279,Dairy Products
+280,Process Capability
+281,Experimental Design
+282,Response Surface Methodology
+283,Univariate
+284,Categorical Data Analysis
+285,Chemometrics
+286,Correspondence Analysis
+287,Linear Models
+288,MANOVA
+289,Mixed Model
+290,General Linear Models
+291,ANCOVA
+292,Chi-square
+293,Process Analytical Technology
+294,Statistical Package
+295,Factor Analysis
+296,Model Selection
+297,Descriptive
+298,CHAID
+299,ModeFrontier
+300,Global Optimization
+301,Metaheuristics
+302,Simulated Annealing
+303,Optimization Strategies
+304,Discrete Optimization
+305,Swarm Intelligence
+306,Evolutionary Algorithms
+307,Evolutionary Computation
+308,Stochastic Optimization
+309,Vehicle Routing
+310,Nonlinear Optimization
+311,Soft Computing
+312,Optimization Techniques
+313,Convex Optimization
+314,Genetic Programming
+315,Combinatorial Optimization
+316,Computational Intelligence
+317,Optimization Models
+318,Adaptive Control
+319,Multi-objective Optimization
+320,Simpack
+321,Isight
+322,Pi Toolbox
+323,MADYMO
+324,Ensight
+325,Motec
+326,Tgrid
+327,Ricardo Wave
+328,Morphing
+329,STAR-CD
+330,XFOIL
+331,Dymola
+332,Radioss
+333,Paraview
+334,Optistruct
+335,ANSA
+336,Star-CCM+
+337,ICEM CFD
+338,Structural Optimization
+339,Robust Control
+340,Adaptive Control
+341,Model Predictive Control
+342,System Identification
+343,Control System Development
+344,Loop Tuning
+345,Safety Instrumented Systems
+346,PanelView
+347,GE Cimplicity
+348,Robot Control
+349,Cimplicity
+350,PanelView Plus
+351,Optimal Control
+352,Electrical Controls Design
+353,Control Panel Design
+354,PLC-5
+355,Bailey
+356,Promis-e
+357,Real-time Control Systems
+358,Modicon
+359,Robotic Design
+360,Path Planning
+361,Human-robot Interaction
+362,Motion Controllers
+363,Industrial Robots
+364,Mobile Robotics
+365,Autonomous Vehicles
+366,SLAM
+367,Kuka
+368,Sensor Fusion
+369,Real-time Control
+370,Robot Programming
+371,Unmanned Vehicles
+372,Haptics
+373,Reinforcement Learning
+374,ROS
+375,Robotic Surgery
+376,Loops
+377,Triconex
+378,Foundation Fieldbus
+379,Control Logic
+380,HMIs
+381,Loop Diagrams
+382,Foxboro I/A
+383,Honeywell DCS
+384,F&G
+385,ControlNet
+386,DH+
+387,Modbus
+388,Experion
+389,xPC Target
+390,Feedback Control Systems
+391,Multi-body Dynamics
+392,AMESim
+393,Dynamical Systems
+394,Modelica
+395,dSPACE
+396,Automation Studio
+397,Linear Systems
+398,Kinematics
+399,Manufacturing Operations Management
+400,Manufacturing Processes
+401,Manufacturing Operations
+402,Manufacturing Engineering
+403,Process Manufacturing
+404,Assembly Processes
+405,Design for Manufacturing
+406,Assembly Lines
+407,Engineering Changes
+408,Manufacturing Systems
+409,Assemblies
+410,Contract Manufacturing
+411,Value Stream Mapping
+412,Cellular Manufacturing
+413,Jigs
+414,SPC
+415,Product Manufacturing
+416,Shop Floor
+417,Machine Tools
+418,Manufacturing??????
+419,Capital Equipment Justification
+420,Virtual Manufacturing
+421,PFMEA
+422,Final Assembly
+423,Single Piece Flow
+424,Design for Assembly
+425,Shainin
+426,Time Standards
+427,Set-up Reduction
+428,Continuous Flow
+429,Line Balance
+430,Fixture Design
+431,Takt
+432,Demand Flow Technology
+433,DFMEA
+434,DFMA
+435,Process Layout
+436,Tolerance Design
+437,Design for Environment
+438,DFA
+439,Large Assembly Management
+440,Enclosure Design
+441,Large Assemblies
+442,Spring Design
+443,ANSI Y14.5
+444,Pro Intralink
+445,Robust Design
+446,Electro-Mechanical Products
+447,Geometric Dimensioning & Tolerancing
+448,Electro-Mechanical Packaging
+449,DFLSS
+450,Top-down
+451,ASME Y14.5
+452,Mechanical Product Design
+453,Intralink
+454,CNC operation
+455,GibbsCAM
+456,SmartCAM
+457,Fadal
+458,Mazak
+459,CNC Mill
+460,Okuma
+461,HaaS
+462,AlphaCAM
+463,Cutting Tool Design
+464,Surfcam
+465,Mastercam
+466,Wire EDM
+467,CAMWorks
+468,PowerMill
+469,FeatureCAM
+470,Broaching
+471,CNC programing
+472,Microvellum
+473,CAD/CAM Software
+474,Cimatron
+475,Vertical Mill
+476,Surface Grinding
+477,ArtCAM
+478,SolidCAM
+479,End Mill
+480,Lapping
+481,Precision Tooling
+482,Optical Comparator
+483,Shop Tools
+484,Grinders
+485,Job Shop
+486,Shears
+487,Band Saw
+488,Turning Around
+489,CNC Programming
+490,Dilatometry
+491,Superalloys
+492,Fractography
+493,Mechanical Behavior of Materials
+494,Metal Matrix Composites
+495,Ceramic Processing
+496,Creep
+497,EBSD
+498,Mechanical Testing Of Materials
+499,Powder Processing
+500,Slip Casting
+501,Thermoelectrics
+502,High Temperature
+503,Inconel
+504,Material Characterisation
+505,Shape Memory Alloys
+506,Ceramic Materials
+507,DTA
+508,Silicon Carbide
+509,Solid Oxide Fuel Cells
+510,Oxides
+511,Nanomaterials
+512,Microstructure
+513,Nanocomposites
+514,Powder X-ray Diffraction
+515,Metallography
+516,Surface Chemistry
+517,Polymer Characterization
+518,Sol-gel
+519,Computational Materials Science
+520,Structure-property Relationships
+521,Nanostructures
+522,HRTEM
+523,Inorganic Materials
+524,Scanning Electron Microscopy
+525,Polymer Science
+526,Surface Analysis
+527,Nanowires
+528,Carbon Nanotubes
+529,Nanofabrication
+530,Nanoscience
+531,Graphene
+532,Nanofibers
+533,Polymer Nanocomposites
+534,Supercapacitors
+535,Nanotoxicology
+536,Magnetic Nanoparticles
+537,Nanomechanics
+538,Photocatalysis
+539,Scanning Probe Microscopy
+540,Quantum Dots
+541,Nanochemistry
+542,Ceramics
+543,Fracture
+544,Fatigue
+545,Plastics
+546,Metallurgy
+547,Physical Metallurgy
+548,Heat Treatment
+549,Materials structure
+550,Material Thermodynamics
+551,Polymer
+552,Polymer Chemistry
+553,Polymer Blends
+554,Block Copolymers
+555,Polymerization
+556,ATRP
+557,Polymer Physics
+558,Emulsion Polymerization
+559,Polymer Engineering
+560,Polyolefins
+561,Biodegradable Polymers
+562,Polymer Composites
+563,Polymer Additives
+564,Polymer Compounding
+565,Thermoplastic Elastomers
+566,Thermoplastics
+567,Thermoset
+568,TPU
+569,PEEK
+570,TPE
+571,Plastics Compounding
+572,Pultrusion
+573,Scientific Molding
+574,Compression Molding
+575,Engineering Plastics
+576,Filament Winding
+577,Elastomers
+578,Polycarbonate
+579,Rubbers
+580,Plastics Industry
+581,VARTM
+582,Kevlar
+583,Honeycomb
+584,Lightweight
+585,FiberSIM
+586,GRP
+587,RTM
+588,Adhesive Bonding
+589,FRP
+590,Composite Applications
+591,Rotational Molding
+592,Foam Core
+593,Rivet
+594,Carbon Fiber
+595,Boat Building
+596,Composite Structures
+597,Aerospace Structures
+598,Ballistics
+599,Composite
+600,Composites
+601,Composite Materials
+602,xPC Target
+603,Robot Control
+604,Mobile Robotics
+605,Robust Control
+606,Path Planning
+607,Industrial Robots
+608,System Identification
+609,Adaptive Control
+610,Haptics
+611,Robotic Design
+612,Feedback Control Systems
+613,Multi-body Dynamics
+614,AMESim
+615,Automation Studio
+616,Modelica
+617,dSPACE
+618,Autonomous Vehicles
+619,Linear Motion
+620,Linear Systems
+621,Dynamical Systems
+622,Electrical Controls Design
+623,Robot Programming
+624,Unmanned Vehicles
+625,Servo Control
+626,Real-time Control
+627,Robotic Welding
+628,Mechanical Product Design
+629,ROS
+630,Eagle PCB
+631,Atmel AVR
+632,8051 Microcontroller
+633,CNC Mill
+634,Kinematics
+635,PCB layout design
+636,Motoman
+637,Human-robot Interaction
+638,Kuka
+639,Nachi
+640,Fanuc Robots
+641,Robot
+642,Laboratory Robotics
+643,Robotic Surgery
+644,Robcad
+645,Machine Vision
+646,Liquid Handling
+647,Mechatronics
+648,V+
+649,Flexible Manufacturing
+650,Yaskawa
+651,Assembly Automation
+652,Cognex
+653,Palletizing
+654,Spot Welding
+655,EtherCAT
+656,Remote I/O
+657,Wearable Computing
+658,X3D
+659,Collision Detection
+660,Medical Simulation
+661,Virtual Environment
+662,Volume Rendering
+663,Mixed Reality
+664,Real-time Graphics
+665,Virtools
+666,Immersive Environments
+667,Psychophysics
+668,Real-time Simulation
+669,Surgical Navigation
+670,Gesture Recognition
+671,Stereo Vision
+672,Immersive
+673,Electro-Mechanical Packaging
+674,Enclosure Design
+675,Large Assemblies
+676,Large Assembly Management
+677,Robotic Design
+678,OneSpace
+679,Pro Intralink
+680,PDM Works
+681,Electronic Product Design
+682,Cosmos FEA
+683,ASME Y14.5
+684,Product Design Support
+685,Opto-mechanical Engineering
+686,Intralink
+687,Design for Assembly
+688,Electro-Mechanical Design
+689,PTC Pro/Engineer
+690,NEi Nastran
+691,Windchill 9.1
+692,Ideas NX
+693,Tolerance Design
+694,Design for Environment
+695,DFA
+696,Autodesk
+697,Maya
+698,Autodesk Maya
+699,Mudbox
+700,DFMA
+701,ANSI Y14.5
+702,Electro-Mechanical Products
+703,Robust Design
+704,Geometric Dimensioning & Tolerancing
+705,DFLSS
+706,Mechanical Product Design
+707,Top-down
+708,DFX
+709,SDRC I-DEAS
+710,C3P
+711,Digital Buck
+712,Metaphase
+713,VisMockup
+714,WERS
+715,I-DEAS
+716,Team Center Engineering
+717,Surface Development
+718,CADDS5
+719,CADAM
+720,ICEM Surf
+721,Flotherm
+722,UGS
+723,CFDesign
+724,Class A Surfacing
+725,Concept Modeling
+726,Generative Shape Design
+727,ICEM
+728,Alias Automotive
+729,Automotive Interiors
+730,GSD
+731,Bunkspeed
+732,Alias
+733,Vehicle Architecture
+734,Fascia
+735,Instrument Panel
+736,V5.2
+737,Exterior Trim
+738,Parametric Modeling
+739,Clay Modelling
+740,SINDA
+741,Convection
+742,Heat Sinks
+743,Electronic Cooling
+744,Icepak
+745,Thermal Modeling
+746,Thermal Science
+747,Flotherm
+748,Thermal Testing
+749,Thermal System Design
+750,Two-phase Flow
+751,Gas Dynamics
+752,Thermal Management
+753,Thermal Energy Storage
+754,Flow Visualization
+755,Compressible Flow
+756,Thermoelectrics
+757,Thermodynamic Modeling
+758,Thermal Hydraulics
+759,Airflow
+760,Aerothermodynamics
+761,Grid Generation
+762,Gridgen
+763,Hypersonic
+764,XFOIL
+765,Space Environment
+766,Magnetohydrodynamics
+767,FieldView
+768,Astrodynamics
+769,Ricardo Wave
+770,Finite Volume
+771,Trajectory Analysis
+772,STAR-CD
+773,Chemkin
+774,Combustion Analysis
+775,Subsonic
+776,Flight Mechanics
+777,Turbulence Modeling
+778,LDV
+779,High Speed Imaging
+780,PIV
+781,Experimental Mechanics
+782,Wind Tunnel
+783,Vortex
+784,Tecplot
+785,Aeroacoustics
+786,Turbulence
+787,Fluid-Structure Interaction
+788,Solid Mechanics
+789,OpenFOAM
+790,Mechanics of Materials
+791,CFX
+792,Fluid Mechanics
+793,ICEM CFD
+794,Tgrid
+795,Cavitation
+796,Ensight
+797,User Flows
+798,Contextual Inquiry
+799,Heuristic Evaluation
+800,User Research
+801,Wire Framing
+802,OmniGraffle
+803,Paper Prototyping
+804,Mobile Interaction Design
+805,Card Sorting
+806,Persona Creation
+807,Heuristic Analysis
+808,UED
+809,Axure
+810,Mobile Design
+811,User Experience Testing
+812,User Journeys
+813,Mobile Interface Design
+814,Cognitive Walkthrough
+815,Usability Engineering
+816,Affinity Diagramming
+817,Information Architechture
+818,PHP
+819,HTML
+820,MYSQL
+821,CSS
+822,DHTML
+823,CSS Javascript
+824,jQuery
+825,Cross-browser Compatibility
+826,AJAX
+827,XHTML
+828,CSS2
+829,JSON
+830,Homesite
+831,phpMyAdmin
+832,JavaScript
+833,XSL
+834,Advanced CSS
+835,Web Standards
+836,MVC
+837,W3C
+838,HTML emails
+839,Markup Languages
+840,HAML
+841,CoffeeScript
+842,Capybara
+843,Compass
+844,RSpec
+845,Sinatra
+846,RVM
+847,Capistrano
+848,Rake
+849,Shoulda
+850,ActiveRecord
+851,TextMate
+852,Heroku
+853,JSLint
+854,Phusion Passenger
+855,Stylus
+856,ERB
+857,Merb
+858,YAML
+859,Backbone.js
+860,Software Design
+861,Software Projects
+862,Object Oriented Design
+863,Software Architectural Design
+864,Agile Modeling
+865,Software Engineering
+866,Software Solution Architecture
+867,Distributed Development
+868,Offshore Software Development
+869,Continuous Integration
+870,Software Engineers
+871,Agile Project Management
+872,Refactoring
+873,Distributed Teams
+874,Multithreading
+875,Application Architecture
+876,SCCS
+877,Win32 API
+878,Distributed Applications
+879,OOAD
+880,C++
+881,Boost C++
+882,OpenGL
+883,MFC
+884,Qt
+885,CMake
+886,DirectX
+887,OpenCV
+888,CppUnit
+889,GLSL
+890,x86 Assembly
+891,Valgrind
+892,Pthreads
+893,GNU Debugger
+894,HLSL
+895,ATL COM
+896,Doxygen
+897,Qt Creator
+898,Eclipse
+899,JDBC
+900,Maven
+901,Servlets
+902,IntelliJ IDEA
+903,Java Web Start
+904,JSP
+905,Ant
+906,Tomcat
+907,Mockito
+908,Hibernate
+909,JAXB
+910,NetBeans
+911,JPA
+912,Java
+913,EJB
+914,Maven2
+915,JAX-WS
+916,JMS
+917,J2EE Application Development
+918,WTL
+919,ATL
+920,GDI
+921,MS VC++
+922,Winsock
+923,STL
+924,BoundsChecker
+925,GDI+
+926,MSXML
+927,Managed C++
+928,ObjectARX
+929,ISAPI
+930,DirectShow
+931,DCOM
+932,DirectDraw
+933,SoftIce
+934,ActiveX
+935,MAPI
+936,Borland C++
+937,GNU C++
+938,DLL
+939,C++/CLI
+940,ReSharper
+941,TFS
+942,LINQ
+943,WinForms
+944,NUnit
+945,ADO.NET
+946,User Controls
+947,Telerik
+948,Entity Framework
+949,XAML
+950,Enterprise Library
+951,MSTest
+952,MSBuild
+953,Visual Studio Team System
+954,Infragistics
+955,ASP.NET AJAX
+956,Custom Controls
+957,Custom Web Parts
+958,CodeSmith
+959,DevExpress
+960,WCF
+961,WCF Services
+962,MVVM
+963,WPF
+964,NHibernate
+965,ASP.NET MVC
+966,.NET Remoting
+967,MSMQ
+968,.NET
+969,QML
+970,Qtopia
+971,Maemo
+972,MeeGo
+973,Nokia Qt
+974,KDevelop
+975,KDE
+976,Trolltech Qt
+977,PyQt
+978,GTK
+979,Carbide C++
+980,VTK
+981,GTK+
+982,Glib
+983,Open Inventor
+984,FLTK
+985,Xlib
+986,S60
+987,python
+988,Django
+989,NumPy
+990,SciPy
+991,SQLAlchemy
+992,Matplotlib
+993,wxPython
+994,Celery
+995,NLTK
+996,WSGI
+997,Flask
+998,CherryPy
+999,Web2py
+1000,TurboGears
+1001,PyGTK
+1002,Pylons
+1003,Pygame
+1004,SCons
+1005,Zope
+1006,PyMEL
+1007,Data Munging
+1008,Data Products
+1009,Collaborative Filtering
+1010,Mahout
+1011,Dimensionality Reduction
+1012,Unsupervised Learning
+1013,Unstructured Data
+1014,SciPy
+1015,NumPy
+1016,Scientific Data Management
+1017,NLTK
+1018,Exploratory Data Analysis
+1019,Feature Selection
+1020,Association Rules
+1021,Gephi
+1022,Sqoop
+1023,Classifiers
+1024,d3.js
+1025,Recommender Systems
+1026,Network Science
+1027,Data Science
+1028,Web Scraping
+1029,Regular Expressions
+1030,Text Mining
+1031,Natural Language Processing
+1032,MapReduce
+1033,Data Visualization
+1034,Tableau
+1035,Scientific Computing
+1036,Predictive Analytics
+1037,Predictive Modeling
+1038,Hadoop
+1039,Big Data
+1040,Machine Learning
+1041,Data Analytics
+1042,Amazon Web Services (AWS)
+1043,Statistical Modelin
+1044,Text Classification
+1045,Word Sense Disambiguation
+1046,Natural Language
+1047,Semi-supervised Learning
+1048,Sentiment Analysis
+1049,Text Analytics
+1050,Statistical Machine Translation
+1051,Computational Linguistics
+1052,Semantic Analysis
+1053,Computational Semantics
+1054,Web Mining
+1055,Natural Language Generation
+1056,Semantic Search
+1057,Lexical Semantics
+1058,Language Technology
+1059,Question Answering
+1060,WordNet
+1061,User Modeling
+1062,Reputation Systems
+1063,Social Graph
+1064,User Behavior
+1065,Relevance
+1066,Graphical Models
+1067,Music Information Retrieval
+1068,Cascading
+1069,Case-Based Reasoning
+1070,Handwriting Recognition
+1071,Computer Aided Diagnosis
+1072,Object Detection
+1073,Object Tracking
+1074,Feature Extraction
+1075,Markov Decision Processes
+1076,Mallet
+1077,Camera Calibration
+1078,Bayesian
+1079,Markov models
+1080,Hidden Markov Models
+1081,Amazon Mechanical Turk
+1082,Matplotlib
+1083,Praat
+1084,Language Processing
+1085,Semantic Networks
+1086,Buzz Monitoring
+1087,Voldemort
+1088,Faceted Search
+1089,Ad Targeting
+1090,Convex Optimization
+1091,Bayesian networks
+1092,Reinforcement Learning
+1093,Anomaly Detection
+1094,Bayesian methods
+1095,Bayesian inference
+1096,Markov Chain Monte Carlo
+1097,NLP
+1098,Atlassian JIRA
+1099,PRD
+1101,MRD
+1102,Internet Recruiting
+1103,cake php
+1104,Internet Recruiting
+1105,Problem Solving
+1106,SQL
+1107,Usability Research
+1108,Windows
+1109,Patent Research
+1110,Social Network Analytics
+1869,Product Definition
+1870,Scrum
+1871,Screen Scraping
+1872,CakePHP
+1873,Competitive Analysis
+1874,SAP R/3
+1875,Hydraulics
+1876,Android
+1877,Cocos2d
+1878,Mobile Games
+1879,R
+1880,Semaphore
+1881,Multi-threaded Applications
+1882,gSOAP
+1883,Product Launch
+1884,Mobile Applications
+1885,Game Development
+1886,OpenGL ES
+1887,C#
+1888,Photoshop
+1889,Visual Studio
+1890,API
+1891,Research
+1892,Mathematica
+1893,Cloud Computing
+1894,Market Research
+1895,Product Strategy
+1896,Catia
+1897,Entrepreneurship
+1898,User Experience
+1899,Product Marketing
+1900,Strategy
+1901,Engineering
+1902,Statistics
+1903,Visual Basic
+1904,PowerPoint
+1905,Web Design
+1906,Product Development
+1907,Start-ups
+1908,Web Development
+1909,Operating Systems
+1910,C
+1911,Matlab
+1912,Octave
+1913,SaaS
+1914,Unix
+1915,Product Management
+1916,Affiliate Marketing
+1924,PL/SQL
+1925,Software Project Management
+1926,Multiphase Flow
+1927,Microsoft SQL Server
+1935,FRESHER
+1937,OOP
+1938,SilverLight
+1939,MS Sql Server
+1940,DotNetNuke
+1941,WIX
+1942,Nant Script
+1943,College Recruiting
+1944,Image Processing
+1945,Numerical Analysis
+1946,Testing
+1947,E-commerce
+1948,Fatigue Analysis
+1949,Rapid Prototyping
+1950,Analytics
+1951,Fluid Power
+1952,Apache 2
+1953,Ruby
+1954,Apache Pig
+1955,Genetic Algorithms
+1956,Markov Chains
+1957,Data Structures
+1958,Algorithms
+1959,Data Mining
+1960,Software Development
+1961,LaTeX
+1962,Computer Science
+1963,Objective-C
+1964,Android Development
+1965,iOS development
+1966,Distributed Systems
+1967,Time Series Analysis
+1968,Knowledge Discovery
+1969,Information Retrieval
+1970,Scala
+1971,Pandas
+1972,CAE
+1973,Finite Element Analysis
+1974,Simulink
+1975,Automotive
+1976,Design Optimization
+1977,Occupant Restraint Systems
+1978,Durability
+1979,Nastran
+1980,Vehicles
+1981,Simulations
+1982,Mechanical Engineering
+1983,Durable Goods
+1984,Pro Engineer
+1985,Automotive Engineering
+1986,CAD
+1987,Marketing Strategy
+1988,Marketing
+1989,Marketing Research
+1990,Linear Programming
+1991,Process Improvement
+1992,ilog cplex
+1993,Six Sigma
+1994,Supply Chain Management
+1995,Lean Manufacturing
+1996,Continuous Improvement
+1997,Minitab
+1998,DMAIC
+1999,Quality Assurance
+2000,Supply Chain
+2002,AUTOCAD
+2003,SOLIDWORKS
+2004,CATIA V5
+2006,STAR CCM+
+2007,Manufacturing
+2008,CFD
+2009,HTML + CSS
+2010,Business Analysis
+2011,User Interface Design
+2012,iRise
+2013,Agile Methodologies
+2014,Business Process Improvement
+2015,Visio
+2016,Web Applications
+2017,Requirements Analysis
+2018,Business Intelligence
+2019,Accounting
+2020,Tax
+2021,Financial Analysis
+2022,Financial Reporting
+2023,Auditing
+2024,Adobe Photoshop
+2025,Visual Basic for Applications
+2026,Social Media
+2027,Editing
+2028,Public Speaking
+2029,Social Media Marketing
+2030,Non-profits
+2031,Strategic Planning
+2032,Data Analysis
+2033,Microsoft Office
+2034,Graphic Design
+2035,Biological Data Analysis
+2036,Google Analytics
+2037,Data
+2038,Data Modeling
+2039,Legal Research
+2040,Creative Strategy
+2041,Digital Strategy
+2042,Pricing Strategy
+2043,SEM
+2044,Creative Direction
+2045,WordPress
+2046,Web Analytics
+2047,Adobe Creative Suite
+2048,SPSS
+2049,Content Strategy
+2050,Brand Management
+2051,Perl
+2052,Heat Transfer
+2053,Maple
+2054,Project Management
+2055,Programming Languages
+2056,Product Lifecycle Management
+2057,Teamcenter
+2058,Programming
+2059,Optimization
+2060,CAD/CAM
+2061,Unigraphics
+2062,Social Networking
+2063,Recruiting
+2064,SEO
+2065,Online Marketing
+2066,Recruitment Advertising
+2067,Community Building
+2068,iPhone Application Development
+2069,Android SDK
+2070,Leadership
+2071,HTML 5
+2072,CSS3
+2073,Git
+2074,Chromecast
+2075,Software Design Patterns
+2076,Java Enterprise Edition
+2077,OAuth
+2078,User Interface
+2079,Flex
+2080,VB.NET
+2081,Test Automation
+2082,Functional Programming
+2083,Object Oriented Software
+2084,Qualitative Research
+2085,Proposal Writing
+2086,User Experience Design
+2087,Information Architecture
+2088,Virtual Communities
+2089,Usability Testing
+2090,User-centered Design
+2091,Survey Research
+2092,Ethnography
+2093,Collaborative Problem Solving
+2094,Conceptual Modeling
+2095,Applied Research
+2096,Information Visualization
+2097,GIS
+2098,Stakeholder Analysis
+2099,Knowledge Acquisition
+2100,Systems Analysis
+2101,Social Environmental Systems
+2102,Pro/Engineer
+2103,Mathematical Modeling
+2104,Probability Theory
+2105,Random Networks
+2106,People Skills
+2107,Stochastic Calculus
+2108,SAS
+2109,Statistical Inference
+2110,Regression Analysis
+2111,Mathematics
+2112,Artificial Neural Networks
+2113,Business Strategy
+2114,Invention
+2115,Strategic Partnerships
+2116,Quantitative Analytics
+2117,Bayesian statistics
+2118,Statistical Modeling
+2119,VBA
+2120,Revenue Analysis
+2121,Hotel Management
+2122,Hotels
+2123,Hospitality
+2124,Hospitality Industry
+2125,Root Cause Analysis
+2126,Hospitality Management
+2127,Yield Management
+2128,Sales Management
+2129,Event Management
+2130,Account Management
+2131,Market Planning
+2132,Sales
+2133,Budgets
+2134,Team Building
+2135,Pricing
+2136,Pricing Analysis
+2137,Holidex
+2138,OnQ R&I
+2139,Opening Hotels
+2140,Pre-opening
+2141,Micros
+2142,Lanyon
+2143,GDS systems
+2144,Revenue Forecasting
+2145,Microsoft Excel
+2146,Access
+2147,Pattern Recognition
+2148,Computer Vision
+2149,Core Java
+2150,XML
+2151,Linux
+2152,Web Services
+2153,Shell Scripting
+2154,Signal Processing
+2155,VHDL
+2156,PostgreSQL
+2157,Embedded Systems
+2158,Artificial Intelligence
+2159,Databases
+2160,iPhone development
+2161,Apache
+2162,Jersey
+2163,Employee Benefits
+2164,Risk Management
+2165,Financial Sales
+2166,Forecasting
+2167,Managerial Finance
+2168,Finance
+2169,Corporate Finance
+2170,Financial Modeling
+2171,Financial Accounting
+2172,Chemical Physics
+2173,Salesforce.com
+2174,Molecular Dynamics
+2175,Monte Carlo
+2176,Salesforce.com Administration
+2177,Salesforce.com Development
+2178,Apex Programming
+2179,Visualforce Pages
+2180,Physics
+2181,RapidMiner
+2182,Node.js
+2183,Angular.js
+2184,UX Design
+2185,Front-End Design Development
+2186,Wordpress Design
+2187,Wordpress Development
+2188,Online Marketing Strategy
+2189,PHP Development
+2190,Illustrator
+2191,Excel
+2192,Ruby on Rails
+2193,CodeIgniter
+2194,html5
+2195,Writing
+2196,Board Leadership
+2197,Local Marketing
+2198,PPC
+2199,Tax Law
+2200,FINRA
+2201,FINCEN
+2202,Web Project Management
+2203,CRM software
+2204,Marketing Communications
+2205,CRM
+2206,Website Development
+2207,API Design
+2208,Design Patterns
+2209,Architectural Patterns
+2210,Stream Processing
+2211,ClearCase
+2212,Rational Team Concert
+2213,Linux development
+2214,Agent-based Modeling
+2215,Algorithm Design
+2216,System Architecture
+2217,Decentralization
+2218,ZeroMQ
+2219,TCP/IP
+2220,Integration
+2221,UML
+2222,Test Driven Development
+2223,LAMP
+2224,Zend Framework
+2225,Mantis
+2226,Zend Studio
+2227,Open Source
+2228,Redis
+2229,Microprocessors
+2230,JRuby
+2231,MongoDB
+2232,Derivatives
+2233,Investment Banking
+2234,Equities
+2235,Commodity
+2236,Equity Derivatives
+2237,Trading
+2238,Fixed Income
+2239,Bloomberg
+2240,Trading Systems
+2241,Quantitative Finance
+2242,Options
+2243,Consulting
+2244,Social Network Analysis
+2245,Visual Design
+2246,InDesign
+2247,Corporate Identity
+2248,Mockups
+2249,Direct Marketing
+2250,Branding & Identity
+2251,Digital Marketing
+2252,Mailers
+2253,Book Design
+2254,Typography
+2255,Product Design
+2256,Experience Design
+2257,Graphics
+2258,Advertising
+2259,Usability
+2260,Logo Design
+2261,Copywriting
+2262,Persona
+2263,Team Management
+2264,Information Design
+2265,Event Design
+2266,Pre-press
+2267,Communication Design
+2268,User Analysis
+2269,Customer Experience
+2270,Customer Insight
+2271,Automated Manufacturing Systems
+2272,Containment Design
+2273,Fatigue Testing
+2274,Accelerated Life Testing
+2275,Bolted Joint Design
+2276,Explicit Dynamics Analysis
+2277,Thermo-mechanical Analysis
+2278,Weibull Analysis
+2279,Advanced Design Methodologies
+2280,Engineering Optimization Methods
+2281,GD&T
+2282,Statistical Process Control
+2283,Autodesk Inventor
+2284,FEM
+2285,ProE
+2286,MS Office Suite
+2287,ALTA
+2288,Inventor
+2289,Stress Analysis
+2290,FMEA
+2291,Online Video
+2292,Video Advertising
+2293,Streaming Media
+2294,Monetization
+2295,Live Streaming
+2296,Video
+2297,Internet Video
+2298,Digital Video
+2299,Training
+2300,Web Video
+2301,Channel Partners
+2302,Ad Networks
+2303,Encoding
+2304,Drupal
+2305,Digital Media
+2306,Mobile Devices
+2307,Solution Selling
+2308,Transcoding
+2309,iOS
+2310,Change Management
+2311,Management Consulting
+2312,Business Development
+2313,International Sales
+2314,Telecommunications
+2315,Amazon EC2
+2316,Business Modeling
+2317,Semantic Web
+2318,Critical Thinking
+2319,Technology Needs Analysis
+2320,Web 2.0
+2321,Venture Capital
+2322,Word
+2323,jQueryUI
+2324,MAMP
+2325,Bash
+2326,Node
+2327,Multivariable Calculus
+2328,Active Directory
+2329,DNS
+2330,VPN
+2331,Networking
+2332,Troubleshooting
+2333,Network Administration
+2334,System Administration
+2335,Servers
+2336,Wireless Networking
+2337,VMware ESX
+2338,Windows Server
+2339,Data Center
+2340,Subversion
+2341,Mac OS X
+2342,Nginx
+2343,Unix Shell Scripting
+2344,Mercurial
+2345,After Effects
+2346,Final Cut Pro
+2347,Adobe Audition
+2348,Cinema 4D
+2349,Print Management
+2350,Photography
+2351,Corporate Branding
+2352,Creative Development
+2353,Art Direction
+2354,Brand Development
+2355,Layout
+2356,Mac
+2357,Email Marketing
+2358,Concept Development
+2359,Fashion
+2360,Interaction Design
+2361,Glassfish
+2362,Groovy
+2363,Jasper Reports
+2364,Architecture
+2365,Oracle
+2366,Database Design
+2367,Spring
+2368,SOA
+2369,JBoss Application Server
+2370,JUnit
+2371,XSLT
+2372,Enterprise Architecture
+2373,REST
+2374,JSF
+2375,English
+2376,Management
+2377,Online Advertising
+2388,Bloomberg Terminal
+2389,Private Placements
+2390,Early-stage Startups
+2391,Investments
+2392,Microsoft Word
+2393,Contract Management
+2394,Contract Negotiation
+2395,Interviews
+2396,Business Planning
+2397,Economics
+2398,Capital IQ
+2399,Valuation
+2400,Computer Graphics
+2401,YUI
+2402,Social Media Measurement
+2403,Social Media Outreach
+2404,Social Media Advertising
+2405,Boolean Logic
+2406,Blogging
+2407,Interactive Advertising
+2408,Public Relations
+2409,Facebook
+2410,Entreprenuership
+2411,Final Cut Studio
+2412,Cinematography
+2413,Digital Photography
+2414,Sound Design
+2415,Animation
+2416,Audacity
+2417,Motion Graphics
+2418,Video Editing
+2419,Camera Operating
+2420,Short Films
+2421,Music Production
+2422,Feature Films
+2423,Media Production Management
+2424,Data Wrangling
+2425,Post Production
+2426,Webcasting
+2427,live event videography
+2428,Video Production
+2429,Film Production
+2430,Videography
+2431,Multimedia
+2432,Broadcast
+2433,Film
+2434,Screenwriting
+2435,Premiere
+2436,Storytelling
+2437,Commercials
+2438,Music Videos
+2439,HD Video
+2440,Creative Writing
+2441,Storyboarding
+2442,Film Editing
+2443,Documentaries
+2444,ITIL
+2445,IT Service Management
+2446,VMware
+2447,Disaster Recovery
+2448,SharePoint
+2449,IT Strategy
+2450,Solution Architecture
+2451,Stakeholder Management
+2452,Virtualization
+2453,IT Management
+2454,Project Delivery
+2455,Windows 7
+2456,PRINCE2
+2457,Ubuntu
+2458,Government Proposals
+2459,Information Technology
+2460,Infrastructure
+2461,Technical Support
+2462,Dreamweaver
+2463,Illustration
+2464,QuarkXPress
+2465,Posters
+2466,Packaging
+2467,Brochures
+2468,Adobe Acrobat
+2469,Newsletters
+2470,Flash
+2471,Trade Secrets
+2472,Microfinance
+2473,Early Stage Companies
+2474,Intellectual Property
+2475,Patent Analysis
+2476,Patent Strategy
+2477,Patent Portfolio Management
+2478,Patentability
+2479,Program Management
+2480,Program Implementation
+2481,Economic Development
+2482,Technology Valuation
+2483,Intellectual Property Valuation
+2484,Export Controls
+2485,Legal Compliance
+2486,Patents
+2487,Licensing
+2488,Trademarks
+2489,Legal Writing
+2490,Corporate Law
+2491,Policy
+2492,Legal Issues
+2493,Public Policy
+2494,Due Diligence
+2495,Copyright Law
+2496,Commercialization
+2497,Negotiation
+2498,Mediation
+2499,Political Campaigns
+2500,Grassroots Organizing
+2501,Politics
+2502,Strategic Vision
+2503,Legislative Relations
+2504,Policy Analysis
+2505,Political Science
+2506,Community Organizing
+2507,Volunteer Management
+2508,Opposition Research
+2509,Volunteer Recruiting
+2510,Creativity
+2511,Sports
+2512,Sponsorship
+2513,Journalism
+2514,Coaching
+2515,Grant Writing
+2516,Medical Writing
+2517,Contract Writing
+2518,Health Journalism
+2519,AMA Style
+2520,Grant Management
+2521,Budgeting
+2522,Research Design
+2523,Program Evaluation
+2524,Health
+2525,Mental Health
+2526,Grants
+2527,Github
+2528,Nonprofits
+2529,Fundraising
+2530,Government
+2531,Community Outreach
+2532,Report Writing
+2533,Workshop Facilitation
+2534,Community Development
+2535,Copy Editing
+2536,Public Health
+2537,Non-profit Administration
+2538,Teaching
+2539,Circuit Design
+2540,Robotics
+2541,Electronics
+2542,Automation
+2543,Electrical Engineering
+2544,Pspice
+2545,Simulation
+2546,Microcontrollers
+2547,Electrical
+2548,Entrepreneur
+2549,Large Scale Events
+2550,Lead Generation
+2551,Corporate Events
+2552,Backend Development
+2553,Frontend Development
+2554,NoSQL
+2555,Materials
+2556,Front End Developers
+2557,Security
+2558,Enterprise Software
+2559,Marketing Automation
+2560,Salesforce Automation
+2561,Infusionsoft
+2562,SDLC
+2563,Sales Force Development
+2564,Archer Certified Consultant
+2565,Business Process
+2566,Pre-sales
+2567,Sales & Marketing Leadership
+2568,Traffic Generation
+2569,Demand Generation
+2570,Professional Services
+2571,Customer Service
+2572,Time Management
+2573,Event Planning
+2574,Team Leadership
+2575,Teamwork
+2576,Mobile
+2577,New Business Development
+2578,Software Architect
+2579,Executive Management
+2580,Mobile Marketing
+2581,Technology Development
+2582,Open Source Development
+2583,Angel Investing
+2584,Startup Development
+2585,Integrated Marketing
+2586,B2B
+2587,Mobile Advertising
+2588,Facebook API
+2589,Startups
+2590,ActionScript
+2591,CouchDB
+2592,Front-end
+2593,Google App Engine
+2594,Jetty
+2595,RHEL
+2596,Red Hat Linux
+2597,RELAX NG
+2598,XML Schema
+2599,Telco Industry
+2600,Financial Industry
+2601,Medical Industry
+2602,Location Based Marketing
+2603,Location Based Services
+2604,Expert Witness
+2605,Financial Systems
+2606,Criminal Justice
+2607,Biometrics
+2608,SOAP
+2609,Bitcoin
+2610,Cryptocurrency
+2611,Cryptography
+2612,QNX
+2613,Human Computer Interaction
+2614,Series 63
+2615,Mergers
+2616,Comparative Analysis
+2617,Mergers & Acquisitions
+2618,Hedge Funds
+2619,LBO
+2620,CRM databases
+2621,Lean Startup
+2622,Kanban
+2623,Customer Satisfaction
+2624,Retail
+2625,Google Adwords
+2626,Marketing Management
+2627,Multi-channel Marketing
+2628,Customer Acquisition
+2629,Viral Marketing
+2630,Campaign Management
+2631,Interactive Marketing
+2632,Growth Hacking
+2633,User Acquisition
+2634,Guerrilla Marketing
+2635,Viral Video
+2636,SQL Server
+2637,Ingres
+2638,Google Maps
+2639,Grails
+2640,ETL
+2641,ORM
+2642,Application Development
+2643,KnockoutJS
+2644,ASP.NET MVC 4
+2645,ASP
+2646,Solaris
+2647,Windows Azure
+2648,Architectures
+2649,Web Marketing Strategy
+2650,Landing Page Optimization
+2651,Landing Pages
+2652,Stata
+2653,Econometrics
+2654,Microeconomics
+2655,Macroeconomics
+2656,Network Security
+2657,Outsourcing
+2658,IVR
+2659,CTI
+2660,ACD
+2661,Computer Security
+2662,Call Center
+2663,NewLISP
+2664,BSD
+2665,Startup Marketing
+2666,Call Centers
+2667,Operations Management
+2668,Leadership Development
+2669,Special Operations
+2670,Intelligence Analysis
+2671,Risk Assessment
+2672,Counterterrorism
+2673,International Relations
+2674,Analysis
+2675,Operations Research
+2676,Process Engineering
+2677,Procurement
+2678,Network Engineering
+2679,Garden
+2680,HIPAA
+2681,Color Theory
+2682,Branding
+2683,Online Branding
+2684,Facebook apps
+2685,Application Design
+2686,Social Marketing
+2687,Digital Branding
+2688,Interactive Marketing Strategy
+2689,Service Design
+2690,Cross-platform design
+2691,User Interaction
+2692,Customer Retention
+2693,Personal Development
+2694,Communication Skills
+2695,Twitter
+2696,LinkedIn
+2697,Schedules
+2698,Administrative Assistants
+2699,QuickBooks
+2700,Small Business
+2701,Project Planning
+2702,Genexus
+2703,Genexus Smart Devices
+2704,AngularJS
+2705,MSP430
+2706,SQLite
+2707,Chrome Extensions
+2708,jQuery Mobile
+2709,Employee Relations
+2710,OFCCP
+2711,Taleo
+2712,Corporate Recruiting
+2713,Full-life Cycle Recruiting
+2714,Applicant Tracking Systems
+2715,iCIMS
+2716,AIRS
+2717,Peopleclick
+2718,Behavioral Interviewing
+2719,Job Fairs
+2720,AIRS CIR
+2721,Boolean Searching
+2722,Extending Offers
+2723,High-volume Recruiting
+2724,Employee Referral Programs
+2725,Phone Screens
+2726,CIR
+2727,Staffing Services
+2728,Screening Resumes
+2729,Temporary Placement
+2730,Benefits Negotiation
+2731,Resume Writing
+2732,Temporary Staffing
+2733,Crowdfunding
+2734,Corporate Treasury
+2735,Financial Management
+2736,IT Outsourcing
+2737,Global HR
+2738,International Business
+2739,Intercultural Skills
+2740,Treasury
+2741,Human Resources
+2742,Process Management
+2743,Treasury Management
+2744,Fluid Dynamics
+2745,Machining
+2746,Modeling
+2747,Hive
+2748,Graph Theory
+2749,Cassandra
+2750,Clustering
+2751,Informatica
+2752,Large-scale Data Analysis
+2753,Solr
+2754,JClouds
+2755,Presentations
+2756,Mentoring
+2757,Graphology
+2758,SAPScript
+2759,Smartforms
+2760,ABAP
+2761,BDC
+2762,SAP
+2763,LSMW
+2764,ALV
+2765,Data Migration
+2766,Dialog Programs
+2767,SAP ERP
+2768,ECC
+2769,SAP Implementation
+2770,ERP
+2771,User Exits
+2772,BAPI
+2773,SD
+2774,SAP Netweaver
+2775,Legacy Systems
+2776,WebDynpro
+2777,IDOC
+2778,SAP MM
+2779,Idea Generation
+2780,Social TV
+2781,Spanish
+2782,Drug Design
+2783,Computational Chemistry
+2784,Molecular Modeling
+2785,Cheminformatics
+2786,Medicinal Chemistry
+2787,Virtual Screening
+2788,QSAR
+2789,Drug Discovery
+2790,Lead Change
+2791,Systems Biology
+2792,ADME
+2793,Bioinformatics
+2794,GPCRs
+2795,OS X
+2796,Clojure
+2797,Agile & Waterfall Methodologies
+2798,T-SQL
+2799,Lisp
+2800,Math
+2801,PHPUnit
+2802,Unit Testing
+2803,Integration Testing
+2804,JBoss
+2805,High Scalability Solutions
+2806,ESB
+2807,TIBCO
+2808,JIRA
+2809,CVS
+2810,Drools
+2811,Workbrain
+2812,Haskell
+2813,Health 2.0
+2814,Unified Communications
+2815,SMS
+2816,IP PBX
+2817,Unified Messaging
+2818,Hosted VoIP
+2819,CCXML
+2820,Omniture
+2821,Data Integration
+2822,Cloud
+2823,Google API
+2824,Amazon Web Services
+2825,Amazon Cloud
+2826,Bing
+2827,SQL Azure
+2828,Business Process Automation
+2829,VoIP
+2830,APIs
+2831,Program Analysis
+2832,Test Execution
+2833,Materials Science
+2834,FTIR
+2835,UV/Vis
+2836,TGA
+2837,Chemical Engineering
+2838,Thin Films
+2839,Differential Scanning Calorimetry
+2840,FTIR spectroscopy
+2841,GPC
+2842,HPLC
+2843,pH meter
+2844,Conductivity Meter
+2845,Chemistry
+2846,Analytical Chemistry
+2847,Coatings
+2848,Protective Coatings
+2849,AFM
+2850,Creative Problem Solving
+2851,Technical Writing
+2852,Technical Presentations
+2853,Microscopy
+2854,Spectroscopy
+2855,Chemical
+2856,Polymers
+2857,Membrane
+2858,R&D
+2859,Encapsulation
+2860,Sop
+2861,Validation
+2862,Scientific Writing
+2863,Microfabrication
+2864,Nanotechnology
+2865,Partner Management
+2866,Indirect Channel Sales
+2867,Software Solution Sales
+2868,Direct Sales
+2869,Channel
+2870,WebSphere Integration Developer
+2871,WebSphere Process Server
+2872,WebSphere Message Broker
+2873,DB2
+2874,ASIC
+2875,Computer Architecture
+2876,Verilog
+2877,ModelSim
+2878,Jython
+2879,RUP
+2880,PMBOK
+2881,PMI
+2882,MS Project
+2883,PMO
+2884,RESTful WebServices
+2885,Automata
+2886,Start-up Consulting
+2887,Algorithm Development
+2888,Server Management
+2889,Front End Engineering Design
+2890,Memcached
+2891,Elastic Load Balancing
+2892,Scalable Web Applications
+2893,Database-driven Web Applications
+2894,API Development
+2895,Conversion Optimization
+2896,A/B testing
+2897,Web
+2898,Happiness
+2899,Life
+2900,Japanese
+2901,JLPT
+2902,Sockets
+2903,OSPF
+2904,EIGRP
+2905,IP
+2906,PPP
+2907,ATM
+2908,Embedded SQL
+2909,OPNET
+2910,GSM
+2911,CDMA
+2912,MagicDraw
+2913,DB2/SQL
+2914,Wireshark
+2915,BGP
+2916,MPLS
+2917,Multicast
+2918,Contract Negotiations
+2919,Web Marketing
+2920,Organic Search
+2921,Online Lead Generation
+2922,Google Webmaster Tools
+2923,Keyword Research
+2924,RabbitMQ
+2925,International Project Management
+2926,Innovation Management
+2927,Internet Strategy
+2928,Offshore Projects
+2929,Affiliate Programs
+2930,Engineering Design
+2931,BOM management
+2932,Sheet Metal
+2933,BOM development
+2934,Computer Repair
+2935,Industrial Design
+2936,Rendering
+2937,Design Research
+2938,Sketching
+2939,Design Thinking
+2940,Concept Design
+2941,3D rendering
+2942,Healthcare
+2943,Leading Development Teams
+2944,Go-to-market Strategy
+2945,Growth Strategies
+2946,Private Equity
+2947,Corporate Development
+2948,Strategic Consulting
+2949,Acquisition Integration
+2950,Oracle SQL
+2951,Google Website Optimizer
+2952,Competitive Intelligence
+2953,Focus Groups
+2954,Microstrategy
+2955,Social Commerce
+2956,Consumer Insights
+2957,Social Listening
+2958,Social Analytics
+2959,Google Insights
+2960,Cross-functional Team Leadership
+2961,Behavioral Targeting
+2962,Segmentation
+2963,Optics
+2964,Digital Communication
+2965,PCB design
+2966,Telekenesis
+2967,Laser Eyes
+2968,Design
+2969,Weblogic
+2970,PMP
+2971,Software Documentation
+2972,Sparx Enterprise Architect
+2973,Websphere
+2974,Middleware
+2975,Technical Leadership
+2976,Architectural Design
+2977,Managerial
+2978,Selling Skills
+2979,CCNP
+2980,Cisco Technologies
+2981,Routers
+2982,CCNA
+2983,CCDA
+2984,Large Scale Optimization
+2985,Arena Simulation Software
+2986,Wireless
+2987,Network Architecture
+2988,TDD
+2989,TCL
+2990,Google Cloud SQL
+2991,High Performance Computing
+2992,Parallel Computing
+2993,Software Training
+2994,Computational Biology
+2995,Lifesciences
+2996,Genomics
+2997,Survey Design
+2998,WinBUGS
+2999,Joomla
+3000,XPath
+3001,XQuery
+3002,UDP
+3003,Netfilter
+3004,nodejs
+3005,Lucene
+3006,Targeted Advertising
+3007,People Management
+3008,3D visualization
+3009,Computer Animation
+3010,Information Graphics
+3011,Desktop Publishing
+3012,GNU Octave
+3013,Desktop Support
+3014,Printer Support
+3015,Remote Support
+3016,Server Administration
+3017,System Migration
+3018,Backup Solutions
+3019,Hosted Solutions
+3020,Storage Solutions
+3021,Purchasing
+3022,Documentation
+3023,Windows XP Professional
+3024,Windows Vista
+3025,Windows Server 2003
+3026,Windows Server 2008
+3027,Group Policy
+3028,Novell Netware
+3029,HP Proliant
+3030,Cisco Catalyst Switches
+3031,Linksys
+3032,Juniper
+3033,SMC
+3034,DHCP
+3035,RAID
+3036,WAN
+3037,Outlook
+3038,Lotus Notes
+3039,Google Apps
+3040,LogMeIn
+3041,Virtual PC
+3042,VirtualBox
+3043,Credit Card Processing
+3044,Blackberry
+3045,Integrity
+3046,Object-oriented Software
+3047,Scheme
+3048,Racket
+3049,ASP.NET
+3050,SEA
+3051,E-business
+3052,Project Portfolio Management
+3053,Organizational Development
+3054,Lecturing
+3055,Higher Education
+3056,E-Learning
+3057,Knowledge Management
+3058,Student Affairs
+3059,Student Development
+3060,Curriculum Design
+3061,Institutional Research
+3062,Accreditation
+3063,Program Development
+3064,Adult Education
+3065,Curriculum Development
+3066,Instructional Design
+3067,Staff Development
+3068,Faculty Development
+3069,University Teaching
+3070,Academic Advising
+3071,Academia
+3072,College Teaching
+3073,Admissions
+3074,Distance Learning
+3075,Enrollment Management
+3076,Tutoring
+3077,Academic Administration
+3078,Educational Technology
+3079,Higher Education Administration
+3080,Educational Leadership
+3081,UEFI
+3082,Hardware Diagnostics
+3083,Object Oriented Modeling
+3084,Thrift
+3085,Probability
+3086,Game Theory
+3087,Linear Algebra
+3088,Combinatorics
+3089,Panel Data Analysis
+3090,Complex Systems
+3091,PHP4/5
+3092,OWL
+3093,Encryption
+3094,Firefox Extensions
+3095,WebGUI
+3096,FrontPage
+3097,Crystal Reports
+3098,Merise
+3099,Next generation sequencing
+3100,Sequence Analysis
+3101,Bioconductor
+3102,Sequencing
+3103,Microarray Analysis
+3104,DNA sequencing
+3105,RNAseq
+3106,Science
+3107,Neuroscience
+3108,NGS
+3109,Biotechnology
+3110,qPCR
+3111,ChIP-seq
+3112,Personalized Medicine
+3113,Statistical Learning
+3114,Information Extraction
+3115,Neural Networks
+3116,Mashups
+3117,Nutch
+3118,Datasets
+3119,Linkedin Endorsements
+3120,Soul Retrieval
+3121,Putting Out Fires
+3122,Spring Webflow
+3123,Spring DI
+3124,JBoss EAP
+3125,RHCE
+3126,Fedora
+3127,Numerical Computing
+3128,Stellar Astrophysics
+3129,Planetary Science
+3130,Theoretical Physics
+3131,Musical Composition
+3132,Guitar
+3133,Fortran
+3134,Data Warehousing
+3135,Logistics
+3136,Struts
+3137,ElasticSearch
+3138,Dojo
+3139,SSRS
+3140,iBatis
+3141,GWT
+3142,DWR
+3143,Velocity
+3144,Jena
+3145,SPARQL
+3146,Liferay
+3147,JSR 168
+3148,Portlets
+3149,Pentaho
+3150,Weka
+3151,Jboss Fuse
+3152,Apache Camel
+3153,Front-end Development
+3154,CMS
+3155,Customer Relations
+3156,Production
+3157,Medical Devices
+3158,Deal Sourcing
+3159,Breakdance
+3160,Sensors
+3161,IDL
+3162,Fortran 95
+3163,Mergers and Acquisitions
+3164,International M&A
+3165,Software Licensing
+3166,Open Source Licensing
+3167,Technology Roadmapping
+3168,Preparation of Business Cases
+3169,Thought Leadership
+3170,Operational Excellence
+3171,Mobile Technology
+3172,Cloud M&A
+3173,Toxicology
+3174,In Vitro Toxicology
+3175,Developmental and Reproductive Toxicology
+3176,Regulatory Affairs
+3177,Chronic Illness
+3178,GLP
+3179,FDA
+3180,Pharmacology
+3181,Pharmaceutical Industry
+3182,CRO
+3183,Drug Development
+3184,21 CFR Part 11
+3185,Clinical Trials
+3186,Regulatory Submissions
+3187,Oncology
+3188,GMP
+3189,Laboratory
+3190,Clinical Research
+3191,HBase
+3192,Scalability
+3193,Systems Thinking
+3194,High Availability
+3195,Vim
+3196,Pig
+3197,Abstraction
+3198,Strategyst
+3199,Internationalization
+3200,Technology Management
+3201,Semiconductors
+3202,"Technology Valuation (M&A VC)"
+3203,Open Innovation
+3204,Mobile Communications
+3205,Innovation Consulting
+3206,Innovation Development
+3207,XNA
+3208,Microsoft Technologies
+3209,Emacs
+3210,Storm
+3211,Parallel Programming
+3212,Expression Blend
+3213,MapR Certified Administrator
+3214,Social Media Monitoring
+3215,DRM
+3216,Infrastructure Security
+3217,Tornado
+3218,C/C++ STL
+3219,Cocoa
+3220,ExtJS 3/4.x
+3221,History
+3222,Art History
+3223,Academic Writing
+3224,Start-up Ventures
+3225,Active TS/SCI Clearance
+3226,Active Top Secret Security Clearance
+3227,Prolog
+3228,Magento
+3229,MODx
+3230,Meteor.js
+3231,Java/J2EE (Web)
+3232,Product Integration
+3233,OpenSSL
+3234,Audio Fingerprinting
+3235,AVR Studio
+3236,Gcc/g++
+3237,Penetration Testing
+3238,Win32
+3239,Gdb
+3240,HDFS
+3241,Crunch
+3242,Spark
+3243,Spine
+3244,Assembly
+3245,socket.io
+3246,Gimp
+3247,Inkscape
+3248,Processing
+3249,SSIS
+3250,SSAS
+3251,OBIEE
+3252,Teradata
+3253,OLTP
+3254,OLAP
+3255,Healthcare Information Technology
+3256,Embarcadero
+3257,Erwin
+3258,PowerPivot
+3259,PowerView
+3260,GoldenGate
+3261,Replication
+3262,ETL Tools
+3263,Gaming Industry
+3264,Executive Reporting
+3265,Dashboard Metrics
+3266,Master Data Management
+3267,Data Quality
+3268,Teradata Data Warehouse
+3269,Distributed File Systems
+3270,MDX
+3271,MDS
+3272,Performance Tuning
+3273,Policy Management
+3274,Mobile Broadband
+3275,GTD
+3276,Business Relationship Management
+3277,Business Transformation
+3278,Value Propositions
+3279,Best Practices
+3280,Consultative Sales Professional
+3281,Executive Level Relationship Building
+3282,Business Networking
+3283,Inbound Marketing
+3284,Digital Economy
+3285,Technical Assistance
+3286,Dropwizard
+3287,Play Framework
+3288,Payment Systems
+3289,Electronic Payments
+3290,Payment Gateways
+3291,Consultancy
+3292,Customer Management
+3293,Order Management
+3294,BSS
+3295,Siebel
+3296,Siebel EAI
+3297,Trouble Ticket
+3298,EAI
+3299,Oracle CRM
+3300,Requirements Gathering
+3301,Telco
+3302,Business Process Design
+3303,Open Source Software
+3304,Oracle CRM on Demand
+3305,Help Desk Support
+3306,Physician Verification
+3307,State License Verification
+3308,QlikView
+3309,Kana
+3310,Data Entry
+3311,Data Management
+3312,GCP
+3313,HIPPA
+3314,ICH-GCP
+3315,CTMS
+3316,"Healthcare Data Stewardship Governance & Quality"
+3317,Molecular Biology
+3318,Biodefense
+3319,Biostatistics
+3320,Microarrays
+3321,Genetics
+3322,Biomarker Discovery
+3323,PCR
+3324,Proteomics
+3325,Cell Biology
+3326,Assay Development
+3327,SMO
+3328,Mobile Internet
+3329,Link Building
+3330,Search Advertising
+3331,WebTrends Analytics
+3332,Database Marketing
+3333,Solutions Marketing
+3334,Display Advertising
+3335,Multivariate Testing
+3336,Unit Trusts
+3337,Firebird
+3338,MySQL 4.x
+3339,FuelPHP
+3340,Internet Media
+3341,SEO Audits
+3342,Blog Marketing
+3343,Content Marketing
+3344,Search Analysis
+3345,Search Engine Submission
+3346,Statistical Data Analysis
+3347,Particle Physics
+3348,Statistical Tools
+3349,Monte Carlo Simulation
+3350,Experimentation
+3351,SAS programming
+3352,Software Lifecycle Management
+3353,AOP
+3354,Information Security
+3355,Privacy Law
+3356,Physical Security
+3357,Homeland Security
+3358,Information Security Management
+3359,PCI DSS
+3360,Information Assurance
+3361,Application Security
+3362,Security Management
+3363,Vendor Management
+3364,Third Party Vendor Management
+3365,Security Consulting
+3366,Crisis Management
+3367,Vulnerability Assessment
+3368,ISO 27001
+3369,Governance
+3370,Linux System Administration
+3371,Network Programming
+3372,Computer Programming
+3373,Linux Kernel
+3374,Client Service
+3375,Client Relationship Building
+3376,Client Retention
+3377,Advertising Sales
+3378,B2B Marketing
+3379,Industrial Equipment
+3380,Upselling
+3381,Cross Selling
+3382,Conceptual Sales
+3383,Up-selling
+3384,Adobe LiveCycle Designer
+3385,Country Managers
+3386,Spanish-speaking
+3387,Threat Management
+3388,Threat & Vulnerability Management
+3389,Deal-making
+3390,Logistics Management
+3391,Operational Risk Management
+3392,Intelligence
+3393,Corporate Security
+3394,Security Operations
+3395,Deal Development
+3396,Mobile App Development
+3397,Logistics Intelligence
+3398,Cloud Applications
+3399,Logistics Consulting
+3400,International Logistics
+3401,Digital Media Services
+3402,SNMP
+3403,Innovation
+3404,NMS/EMS
+3405,Javascript/HTML5/CSS3/Mobile Frameworks
+3406,Technology Solutions
+3407,Adaptive Streaming
+3408,Managing Start-ups
+3409,Lean Product
+3410,Product Engineering
+3411,Looking At the Big Picture
+3412,Technology Evangelist
+3413,WAN Optimisation
+3414,Network Management
+3415,Backtesting
+3416,Asset Allocation
+3417,Tactical Asset Allocation
+3418,Portfolio Optimization
+3419,Quantitative Investment Strategies
+3420,Financial Markets
+3421,Business Analytics
+3422,Financial Services
+3423,Retirement Planning
+3424,Personal Finance
+3425,Media Relations
+3426,Strategic Financial Planning
+3427,Project Control
+3428,Database Admin
+3429,Employee Training
+3430,Executive Communications
+3431,Travel
+3432,Training & Development
+3433,Contact Management
+3434,License Management
+3435,RFI
+3436,Compliance
+3437,Inside Sales
+3438,Technology Planning
+3439,Application Management
+3440,Database Management
+3441,Continuing Education
+3442,Employee Hiring
+3443,Benefits Administration
+3444,Staff Scheduling
+3445,Inventory Control
+3446,Inventory Analysis
+3447,Supplier Sourcing
+3448,DOT regulations
+3449,Transportation Management
+3450,Game Design
+3451,Software Deployment
+3452,Technical Analysis
+3453,Functional Analysis
+3454,Multi-Team Management
+3455,RubyMine
+3456,Watir
+3457,Cucumber
+3458,Apache Tiles
+3459,89C51
+3460,Process Mapping
+3461,SQL Server Management Studio
+3462,J2EE
+3463,"Asp.NET Framework 4"
+3464,"Asp.NET Framework 4.5"
+3465,C#.NET
+3466,SQL server 2005
+3467,SQL server 2008
+3468,customer communication
+3469,Time Study
+3470,Fitness
+3471,Merchandising
+3472,Social CRM
+3473,Business Process Management
+3474,ERP/CRM
+3475,Product Life Cycle Management
+3476,P&L Management
+3477,Descriptive Analysis
+3478,Consumer Insight
+3479,Market Analysis
+3480,Quantitative Research
+3481,Secondary Research
+3482,Brand Equity
+3483,Online Research
+3484,Advertising Research
+3485,Market Intelligence
+3486,Consumer Behaviour
+3487,OpenLDAP
+3488,Sun Directory Server
+3489,Sun Identity Manager
+3490,Oracle Identity Manager
+3491,OID
+3492,Veritas Volume Manager
+3493,Veritas Cluster Server
+3494,Solaris Volume Manager
+3495,Veritas Net Backup
+3496,VxFS
+3497,ZFS
+3498,LVM
+3499,NetApp
+3500,IBM Storage
+3501,vSphere
+3502,Brocade
+3503,CWIP
+3504,Sendmail
+3505,Bind
+3506,RedHat
+3507,HP EVA
+3508,Sun
+3509,Netbackup
+3510,DS4000
+3511,Nagios
+3512,Online Publishing
+3513,Publishing
+3514,New Media
+3515,Magazines
+3516,Editorial
+3517,Television
+3518,Corporate Communications
+3519,Eiffel
+3520,MIPS
+3521,Device Drivers
+3522,Sun Certified Java Programmer
+3523,Java software development
+3524,ExtJS
+3525,Ext JS
+3526,Xcode
+3527,Core Data
+3528,Sencha
+3529,Oracle PL/SQL Development
+3530,Spring MVC
+3531,Import Export
+3532,Enterprise Social Networking
+3533,Fertilizers
+3534,NGOs
+3535,Sulfur
+3536,Strategic Thinking
+3537,Internet Entrepreneur
+3538,Customer Focused Marketing
+3539,Relationship Developer
+3540,Forward Planning
+3541,Implementation Plans
+3542,Wireframes
+3543,Military
+3544,Operational Planning
+3545,Army
+3546,Security Clearance
+3547,Excel Services
+3548,Business Intelligence Tools
+3549,Grid Computing
+3550,Cross-team Collaboration
+3551,Passion for Technology
+3552,Microsoft Office Sharepoint Server
+3553,Analysis Services
+3554,DAX
+3555,JSONP
+3556,Ext
+3557,Slim
+3558,Abaqus CAE/ Explicit
+3559,FESafe
+3560,Structural Analysis
+3561,Design of Experiments
+3562,Project Coordination
+3563,Customer Interaction
+3564,Stakeholder Engagement
+3565,Solution Implementation
+3566,Technology Integration
+3567,Linux Tools
+3568,DOM Scripting
+3569,MySQL 4/5
+3570,ImageMagick
+3571,Ffmpeg
+3572,OpenSSH
+3573,Debian/Ubuntu
+3574,Machine Design
+3575,Solid Modeling
+3576,Engineering Analysis
+3577,Activity Modeling
+3578,Task Analysis
+3579,Charismatic Leadership
+3580,Influential Communicator
+3581,Sales Presentations
+3582,Determined to Succeed
+3583,Highly motivated self-starter
+3584,Relationship Management
+3585,Innovator
+3586,Customer Oriented
+3587,Google Glass
+3588,ExpressionEngine
+3589,SVG
+3590,Twitter API
+3591,Strategy Development
+3592,Process Optimization
+3593,Supplier Management
+3594,Process Creation
+3595,Computers
+3596,Sustainability
+3597,Press Releases
+3598,Business Simulation
+3599,Discrete Event Simulation
+3600,Agent-based Simulation
+3601,RSLogix5000
+3602,RSLinx
+3603,RSEmulate
+3604,RSLogix500
+3605,Siemens S7-200
+3606,RSNetWorx
+3607,RSLogix
+3608,DeviceNet
+3609,Ethernet IP
+3610,WinCC
+3611,Control Systems Design
+3612,Technical Presales
+3613,Techincal Writing
+3614,User Acceptance Testing
+3615,Mobile Solutions
+3616,Branding Ideas
+3617,Film Marketing
+3618,Media & Entertainment
+3619,Entertainment
+3620,Books
+3621,Online Communications
+3622,Digital Innovation
+3623,Small Business Online Marketing
+3624,visonary
+3625,SQL Server 2000-2008
+3626,Web Crawling
+3627,Parsing
+3628,LinkedIn API
+3629,Compulsive Curiosity
+3630,Curiosity
+3631,French
+3632,Russian
+3633,Emerging Markets
+3634,Social Entrepreneurship
+3635,Program Design
+3636,B2C
+3637,Key Account Management
+3638,Cognos
+3639,Metasploit
+3640,Nmap
+3641,Reverse Engineering
+3642,Malware Analysis
+3643,Assembly Language
+3644,Software Quality
+3645,Rubymotion
+3646,Symfony
+3647,Doctrine
+3648,Varnish
+3649,Go
+3650,CentOS
+3651,Management Of Creative Teams
+3652,Distributed Team Management
+3653,Multi-touch
+3654,Patent Applications
+3655,Data Representation & Modeling
+3656,New Product Introduction
+3657,Product Requirements Definition
+3658,User Interface Specifications
+3659,3D Modeling
+3660,Interior Design
+3661,Construction Management
+3662,3D graphics
+3663,Lighting Design
+3664,Installation Design
+3665,R&D planning
+3666,User Scenarios
+3667,JavaScript Frameworks
+3668,JavaScript Libraries
+3669,Unobtrusive Javascript
+3670,Firebug
+3671,W3C Validation
+3672,iPhone
+3673,PhoneGap
+3674,jQuery UI
+3675,SASS
+3676,Mobile First
+3677,Responsive Design
+3678,underscore
+3679,Modenizr
+3680,require.js
+3681,Zepto.js
+3682,Modular JavaScript
+3683,Object Oriented JavaScript
+3684,Windows Mobile
+3685,Google Closure
+3686,Performance Improvement
+3687,PRO-E W/F-5
+3688,CATIA_V5R20
+3689,UG_NX-8.0
+3690,Atairs Hypermesh
+3691,Autodesk Inventor-12
+3692,Techanical and Engineering Drawing.
+3693,"Pres Tools Design and Development-Dies Fixtures"
+3694,Process Piping Design
+3695,PLC Programming
+3696,SCADA
+3697,Vibration
+3698,Labview
+3699,Human Factors
+3700,Aviation
+3701,Aircraft
+3702,Visual C#
+3703,Wellness
+3704,Personal Training
+3705,Exercise Physiology
+3706,ACSM
+3707,Kinesiology
+3708,Exercise Prescription
+3709,Strength Training
+3710,Fitness Training
+3711,ACE Certified Personal Trainer
+3712,Nutrition
+3713,Health Promotion
+3714,Functional Training
+3715,Biomechanics
+3716,Body Composition
+3717,Weight Training
+3718,TRX Suspension Training
+3719,Indoor Cycling
+3720,Urchin
+3721,Software Development Methodologies
+3722,Business Alliances
+3723,Resource Management
+3724,PayPal
+3725,RIA
+3726,Flex Builder
+3727,MXML
+3728,MSN AdCenter
+3729,Keyword Analysis
+3730,Visualization
+3731,Switchgear
+3732,DCS
+3733,Partial Differential Equations
+3734,Applied Mathematics
+3735,MPI
+3736,OpenMP
+3737,OpenCL
+3738,Adobe Software
+3739,IT Solutions
+3740,Scaleform
+3741,OpenSuse
+3742,UnrealScript
+3743,Unreal Engine 3
+3744,Traktor
+3745,DJ
+3746,FL Studio
+3747,Brackets
+3748,Strategic Planning/Consulting
+3749,"Project Management (Monitoring Control Benchmark"
+3750,Advanced data modeling & analysis
+3751,Systems Programming
+3752,Kernel Programming
+3753,Storage Systems
+3754,Wireless Sensor Networks
+3755,JNDI
+3756,JMX
+3757,Version Control SVN
+3758,CMMI
+3759,Quality Management
+3760,C ++
+3761,Windows Phone
+3762,twitter bootstrap
+3763,BPMN
+3764,Talent Management
+3765,Seibel
+3766,Business Statistics
+3767,COMSOL
+3768,AWS
+3769,JAX-RS
+3770,IBM DB2
+3771,Amazon CloudFront
+3772,Openshift
+3773,Pyramid
+3774,Twisted
+3775,Statistical Programming
+3776,BottlePy
+3777,Mongo
+3778,Demand Side Platform
+3779,expressjs
+3780,SDK development
+3781,Enlightenment
+3782,Touch Interfaces
+3783,AutoIt
+3784,V8
+3785,Jade
+3786,Clutter
+3787,MVC Architecture
+3788,Debian
+3789,RDF
+3790,RDFa
+3791,Common Lisp
+3792,Animal Husbandry
+3793,Endorsements
+3794,Selenium
+3795,HandlebarsJS
+3796,QA Engineering
+3797,Sales Plan
+3798,International Trade
+3799,International Marketing
+3800,Global Business Development
+3801,Talend Open Studio
+3802,For Aleppo Organization
+3803,Red Crescent
+3804,Hospitals
+3805,"Google App Engine GWT"
+3806,KDE Development
+3807,RTB
+3808,Data Collection
+3809,Data Models
+3810,JavaSE
+3811,Smarty
+3812,Microsoft Reporting Service
+3813,Music Journalism
+3814,Microsoft CRM
+3815,Linux Server
+3816,Yii
+3817,InfoSphere
+3818,Rational Software Architect
+3819,Julia
+3820,Digital Signal Processing
+3821,Transcriptomics
+3822,Microbiology
+3823,Microarray
+3824,Metagenomics
+3825,SVM
+3826,WebDriver
+3827,Erlang
+3828,BDD
+3829,Adobe AIR
+3830,Flash Builder
+3831,Jenkins
+3832,ANSI C
+3833,Content
+3834,Microsoft Exchange
+3835,Windows Small Business Server
+3836,LabTech and Connectwise PSA Adminsitration
+3837,Remote Infrastructure Management
+3838,Cisco Routing & Switching
+3839,Backup Disaster Recovery
+3840,Patch Management
+3841,Powershell Scripting
+3842,Batch Scripting
+3843,SBS Migration
+3844,Office365
+3845,NOC
+3846,Remote Monitoring
+3847,Network Monitoring Tools
+3848,Enterprise Anti-Virus Administration
+3849,Small Business Server
+3850,Powershell
+3851,Cisco Routers
+3852,Office 365
+3853,Switches
+3854,Backup Exec
+3855,Kaseya
+3856,Antivirus
+3857,WSUS
+3858,Symantec Endpoint Protection
+3859,SCOM
+3860,VMware Infrastructure
+3861,Hyper-V
+3862,TMG
+3863,SCCM
+3864,Blackberry Enterprise Server
+3865,Banking
+3866,Credit
+3867,Loans
+3868,Lead Qualification
+3869,Prospect Research
+3870,Strategic Prospecting
+3871,Prospect Qualification
+3872,Communication
+3873,MIS
+3874,TM1
+3875,Board Presentations
+3876,International Sales & Marketing
+3877,Performance Management
+3878,Statutory Reporting
+3879,Balanced Scorecard
+3880,Software Sales
+3881,Data Marts
+3882,Business Objects
+3883,Entrepreneurial Experience
+3884,Interactive Solutions
+3885,Interactive Kiosks
+3886,Software Industry
+3887,Brio Query
+3888,Hyperion Enterprise
+3889,Essbase
+3890,Oracle Application Express
+3891,ABBYY FineReader
+3892,conversational French
+3893,Business Communications
+3894,Agile Methodolgy
+3895,C/C++
+3896,IMS DB/DC
+3897,Toad
+3898,Tortoise SVN
+3899,Visual DB Architect
+3900,Peregrine
+3901,VS-COBOL II
+3902,JCL
+3903,Xpeditor
+3904,QUICKJOB
+3905,Customer Segmentation Strategy
+3906,Mathematical Programming
+3907,Propensity Modelling
+3908,Decision Trees
+3909,Market Basket Analysis
+3910,Lifetime Value
+3911,Customer Analysis
+3912,Assortment Planning
+3913,Business Requirements
+3914,Treasury Services
+3915,Cash Management
+3916,Payments
+3917,RSA SecurID
+3918,Secure Messaging
+3919,Entitlements
+3920,Platform Management
+3921,Campaign Optimization
+3922,Regression
+3923,Newspaper
+3924,Alteryx
+3925,Qualitative & Quantitative Research Methodologies
+3926,Social Media Development
+3927,Proofreading
+3928,Video Blogging
+3929,Customer-focused Service
+3930,Canon DSLR
+3931,YouTube
+3932,Vimeo
+3933,Prezi
+3934,Google Docs
+3935,Canon Cameras
+3936,Canon XL-1
+3937,Technical Recruiting
+3938,HRIS
+3939,Strategic HR
+3940,Resume Parsing
+3941,B2B software
+3942,Video Resumes
+3943,HR Start-up
+3944,NER
+3945,HR Analytics
+3946,Strategic Communications
+3947,Speech Writing
+3948,Internal Communications
+3949,Crisis Communications
+3950,Corporate Social Responsibility
+3951,Communications Planning
+3952,Data Security
+3953,Data Streaming
+3954,Computer Engineering
+3955,Virtual Currency
+3956,Automated Trading
+3957,Public Transport
+3958,GIS software
+3959,New Technology Implementation
+3960,Analytical Abilities
+3961,Quantum GIS
+3962,Urban Planning
+3963,Transportation Planning
+3964,Urban Policy
+3965,Radian6
+3966,Sales Support
+3967,Online Promotions
+3968,Promotions
+3969,Beauty Industry
+3970,Sales Operations
+3971,Content Management
+3972,Manicures
+3973,Dog Behavior
+3974,Vowpal Wabbit
+3975,Arduino
+3976,Coordination
+3977,Soft Skills
+3978,Screening
+3979,Talent Acquisition
+3980,Performance Appraisal
+3981,Employee Engagement
+3982,Career Counseling
+3983,IT Recruitment
+3984,5S
+3985,Kaizen
+3986,Social Media Blogging
+3987,Finacle
+3988,Debugging
+3989,iReport
+3990,Ergonomics
+3991,F#
+3992,Genie
+3993,Graphviz
+3994,Collaboration
+3995,Ontology Engineering
+3996,ExactTarget
+3997,Performance Dashboards
+3998,Sysomos
+3999,Process Automation
+4000,YouTube API
+4001,Data Classification
+4002,Storage Architecture
+4003,Apache Hadoop
+4004,Apache Mahout
+4005,REST API
+4006,Google Prediction
+4007,Friendly Personality
+4008,International Intellectual Property
+4009,Drafting patent applications
+4010,EHR
+4011,IP transactions
+4012,Patent Portfolio Development
+4013,Medical Translation
+4014,Business Model Innovation
+4015,Human-centered Design
+4016,Citizen Journalism
+4017,Visionary
+4018,negotiator
+4019,Linguistics
+4020,Cross-cultural Teams
+4021,Disruptive Technologies
+4022,Special Skills
+4023,World Cinema
+4024,Trekking
+4025,Rafting
+4026,Climbing
+4027,Social Ventures
+4028,Visual Thinking
+4029,Interface Builder
+4030,Fast Learner
+4031,Freefem++
+4032,Financial Modeling
+4033,Forecasting
+4034,Corporate Finance
+4035,Mergers & Acquisitions
+4036,Mergers
+4037,Acquisitions
+4038,Valuation
+4039,Finance
+4040,Investments
+4041,Strategic Financial Planning
+4042,Budgets
+4043,Portfolio Management
+4044,Derivatives
+4045,Venture Capital Accounting
+4046,Accounting
+4047,Due Diligence
+4048,Auditing
+4049,Financial Analysis
+4050,Negotiation
+4051,Risk Management
+4052,Banking
+4053,Financial Reporting
+4054,Revenue Recognition
+4055,Venture Capital
+4056,Contract Negotiation
+4057,Cash Management
+4058,US GAAP
+4059,Private Equity
+4060,Tax
+4061,Financial Accounting
+4062,SEC filings
+4063,Financial Statements
+4064,Sarbanes-Oxley Act
+4065,Financial Services
+4066,FinTech
+4067,Budgeting
+4068,Financial Planning
+4069,SOX
+4070,Recruiting
+4071,Interviews
+4072,Career Counseling
+4073,Human Resources
+4074,Technical Recruiting
+4075,Executive Coaching
+4076,Sourcing
+4077,Employee Relations
+4078,Temporary Placement
+4079,Personnel Management
+4080,Applicant Tracking Systems
+4081,Workforce Planning
+4082,Change Management
+4083,Hiring
+4084,College Recruiting
+4085,Internet Recruiting
+4086,Talent Management
+4087,Outsourcing
+4088,Benefits Negotiation
+4089,Executive Search
+4090,Executive Management
+4091,Performance Management
+4092,Employer Branding
+4093,Employee Engagement
+4094,Contract Recruitment
+4095,Consulting
+4096,HRIS
+4097,Resume Writing
+4098,Staffing Services
+4099,Job Coaching
+4100,Screening Resumes
+4101,Boolean Search
+4102,Talent Acquisition
+4103,Product Management
+4104,Strategic Partnerships
+4105,Strategy
+4106,Cross-functional Team
+4107,Product Launch
+4108,Product Marketing
+4109,Management
+4110,Product Strategy
+4111,Business Strategy
+4112,Customer Research
+4113,Business Case
+4114,Marketing Strategy
+4115,Leadership
+4116,New Business Development
+4117,Competitive Analysis
+4118,Business Alliances
+4119,Partner Management
+4120,Product Requirements
+4121,Vendor Management
+4122,SDLC
+4123,Requirements Analysis
+4124,Project Planning
+4125,Agile Project Management
+4126,Agile Methodologies
+4127,Management
+4128,Business Analysis
+4129,Business Process Improvements
+4130,Business Intelligence
+4131,Six Sigma
+4132,Scrum
+4133,IT Strategy
+4134,Process Improvement
+4135,Online Marketing
+4136,Probabilistic Models
+4137,Astrophysics
+4138,Astronomy
+4139,Numerical Simulation
+4140,Cosmology
+4141,Scilab
+4142,Oil
+4143,SSAE 16
+4144,Scalable Infrastructure Design
+4145,Managed Services Development
+4146,Structured Documentation
+4147,Managed Services
+4148,IT Operations
+4149,Business Continuity
+4150,Co-location
+4151,Internet Services
+4152,Managed Hosting
+4153,Continuous Delivery
+4154,DevOps
+4155,Data Warehouse Architecture
+4156,Embedded C
+4157,Gedit
+4158,Manage Client Relationships
+4159,IT Project Leadership
+4160,Reporting & Analysis
+4161,Dashboards
+4162,Fraud Investigations
+4163,Social network security
+4164,Social Media Brand Marketing
+4165,SaaS Platform Sales
+4166,Revenue Growth Generation
+4167,Client Development
+4168,Relationship Buiding
+4169,Collaboration Solutions
+4170,Senior Level Negotiation
+4171,Social Recruiting
+4172,Integrated Brand Marketing
+4173,Emerging Technologies
+4174,LinkedIn Training
+4175,Client Negotiation
+4176,Workforce Marketing
+4177,Sales Prospecting
+4178,Content Development
+4179,Workforce
+4180,Strategy Communication
+4181,Cold Calling
+4182,Social Media Strategist
+4183,Cognitive Science
+4184,Empirical Research
+4185,Music Theory
+4186,Psychometrics
+4187,Psychology
+4188,Literature Reviews
+4189,Personality Assessment
+4190,Data Blogging
+4191,Science Writing
+4192,Bayesian Data Analysis
+4193,System Deployment
+4194,System Design
+4195,Systems Engineering
+4196,Requirements Traceability
+4197,Regression Testing
+4198,Cluster Management
+4199,MySQL Cluster
+4200,Digital Signal Processors
+4201,Control Theory
+4202,ANSYS - ICEM CFD
+4203,Modal Analysis
+4204,Hyperview
+4205,Animator
+4206,Hypergraphs
+4207,Topology Optimization
+4208,PHP Frameworks
+4209,Symfony2
+4210,Agile
+4211,Lean
+4212,Event-Chain Management
+4213,Firebase
+4214,Twig
+4215,LMS
+4216,Keynote speaker
+4217,Presenter
+4218,Pitching
+4219,Asset Managment
+4220,Real Estate
+4221,Corporate Culture
+4222,Culture
+4223,Culture Change
+4224,Onboarding
+4225,RPO
+4226,HR Consulting
+4227,Human Capital Management
+4228,Career Development
+4229,Deferred Compensation
+4230,Succession Planning
+4231,Full-cycle Recruiting
+4232,Recruitment/Retention
+4233,Interviewing
+4234,Talent Assessment
+4235,Compensation
+4236,Diversity Recruitment
+4237,Benefits
+4238,HR Strategy
+4239,Talent Development
+4240,ncurses(C++)
+4241,pugiXML(C++)
+4242,Bootstrap.js
+4243,Windows Phone Development
+4244,Visual C++
+4245,Unigraphics NX
+4246,Medical Imaging
+4247,Web Frameworks
+4248,C# MVC
+4249,Vulnerability Research
+4250,Exploitation
+4251,Quantitative Modeling
+4252,Quantitative Development
+4253,High Frequency Trading
+4254,Statistical Arbitrage
+4255,Automated Market Making
+4256,Stochastic Modeling
+4257,Systematic Trading
+4258,Volatility Arbitrage
+4259,Traders
+4260,Optimizations
+4261,Developers
+4262,Market Making
+4263,Electronic Trading
+4264,Proprietary Trading
+4265,FX Options
+4266,Market Risk
+4267,Equity Trading
+4268,Capital Markets
+4269,Search
+4270,Rates
+4271,Oil/Gas
+4272,Energy
+4273,Energy Industry
+4274,Environmental Research
+4275,Leasing
+4276,Gas
+4277,Petroleum
+4278,Supervisory Skills
+4279,Pro Tools
+4280,Reason
+4281,Pure Data
+4282,Ember.js
+4283,Media Planning
+4284,Marketing Analytics
+4285,Online Marketing Analysis
+4286,Full SDLC
+4287,FPGA
+4288,Diptrace
+4289,E-commerce Solutions
+4290,Customer Analytics
+4291,Higher Education Leadership
+4292,Cost Accounting
+4293,GATE
+4294,Software Architecture
+4295,Deep Learning
+4296,Finagle
+4297,Discourse Analysis
+4298,Information Management
+4299,Knowledge Representation
+4300,Market Entry
+4301,Alternative Energy
+4302,Mobile Health
+4303,Connected Health
+4304,Remote Patient Monitoring
+4305,Telehealth
+4306,mLearning
+4307,eHealth
+4308,Sales Process
+4309,Amazon
+4310,ITK
+4311,UGS NX5
+4312,Adding Value
+4313,Channel Marketing
+4314,Field Marketing
+4315,Content Writing
+4316,Collateral Production
+4317,Collateral Writing
+4318,corporate blogging
+4319,Web Application Security
+4320,Website Updating
+4321,Performance Testing
+4322,Functional Testing
+4323,COBOL
+4324,CICS
+4325,IBM Assembler
+4326,Openfire
+4327,XMPP
+4328,Hacking
+4329,Scrapy
+4330,USB
+4331,ARM
+4332,Firmware
+4333,X86
+4334,Client Relations Skills
+4335,IIS
+4336,Cisco Switches
+4337,XenServer
+4338,Fortinet
+4339,Oracle E-Business Suite
+4340,Oracle Order Management
+4341,Order to Cash
+4342,Oracle SCM
+4343,Solutions Design
+4344,TCA
+4345,Depot Repair
+4346,Oracle Applications
+4347,Global Delivery
+4348,Business Process Re-engineering
+4349,Storage
+4350,Functional Specifications
+4351,Process Modeling
+4352,System Testing
+4353,Use Case Analysis
+4354,Accounts Payable
+4355,Accounts Receivable
+4356,Infor Service Management
+4357,PeopleSoft Financial
+4358,Confluence
+4359,Perforce
+4360,IBM Rational Tools
+4361,Excel VBA Macros
+4362,Emacs Lisp
+4363,Google Apps Script
+4364,Biochemistry
+4365,Sourcing Research
+4366,Technical Recruiting Research
+4367,Salesforce
+4368,Google Spreadsheets
+4369,Biomaterials
+4370,Column Chromatography
+4371,Data Integrity
+4372,Assessment Center
+4373,Graduate Recruitment
+4374,Job Descriptions
+4375,Building Relationships
+4376,Training Delivery
+4377,Administration
+4378,Permanent Placement
+4379,HR Policies
+4380,Competency Based Interviewing
+4381,Gamification
+4382,Talent Engagement
+4383,Campus Placement
+4384,Retail Packaging
+4385,Consumer Products
+4386,Consumer Packaged Goods Marketing
+4387,Consumer Marketing
+4388,Software Product Management
+4389,Solid Edge
+4390,Italian
+4391,Solid Works
+4392,Casting
+4393,Die Casting
+4394,Injection Molding
+4395,Electric Motors
+4396,Welding
+4397,Forming
+4398,TPM
+4399,Mandarin
+4400,Korean
+4401,Private Cloud
+4402,Street Photography
+4403,Service Catalog
+4404,Visual Basic 5.0/6.0
+4405,Apple
+4406,Bootstrap
+4407,Titanium Mobile
+4408,Fluent
+4409,Digital Business
+4410,Recrutement 2.0
+4411,marketingHR
+4412,Marque employeur
+4413,Professional Networking
+4414,Business Plan Evaluation
+4415,digital
+4416,Content Creation
+4417,Embedded Software
+4418,Processors
+4419,RTOS
+4420,Kernel
+4421,Oral & Written Communication Skills
+4422,Priority Management
+4423,SAP MDM
+4424,Templating
+4425,Documentum
+4426,MS Access
+4427,Sports Writing
+4428,Radio Broadcasting
+4429,Logic Studio
+4430,Merge
+4431,Tumblr
+4432,Google+
+4433,Instagram
+4434,iWork
+4435,TLC
+4436,Live Recording
+4437,iMovie
+4438,Sponsorship Sales
+4439,Broadcast Media Sales
+4440,Print Media Sales
+4441,Sports Marketing
+4442,Sound Forge
+4443,Scott Studios
+4444,Sony Sound Forge
+4445,RCS Selector Music Scheduling
+4446,CisionPoint
+4447,underscore js
+4448,backbone js
+4449,Jsp and Servlets
+4450,Struts 2
+4451,NetSuite
+4452,Box.net
+4453,Bugzilla
+4454,SOLID principles
+4455,Software Implementation
+4456,Workflow Applications
+4457,Position Management
+4458,New Hire Processes
+4459,High Volume Staffing
+4460,SuccessFactors
+4461,Report Design
+4462,Customer Support
+4463,Customer Engagement
+4464,Software Consulting
+4465,Process Consulting
+4466,Field Support
+4467,Train the Trainer
+4468,Document Management
+4469,iManage
+4470,Kronos
+4471,Business Process Mapping
+4472,Movex
+4473,Data Conversion
+4474,Symbolic Math
+4475,Solar Cells
+4476,Sociology
+4477,DICOM
+4478,Gazebo
+4479,Digital Image Processing

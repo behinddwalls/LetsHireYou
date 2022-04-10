@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Data Scientist</MainJobTitle>
+    <JobTitle>Data Scientist</JobTitle>
+  </JobTitles>
+  <RequiredSkills>
+    <RequiredSkill>DATA MINING</RequiredSkill>
+    <RequiredSkill>ETL</RequiredSkill>
+    <RequiredSkill>EXTRACT, TRANSFORM, AND LOAD</RequiredSkill>
+    <RequiredSkill>JAVA</RequiredSkill>
+    <RequiredSkill>MACHINE LEARNING</RequiredSkill>
+    <RequiredSkill>NATURAL LANGUAGE PROCESSING</RequiredSkill>
+    <RequiredSkill>SCRAPING</RequiredSkill>
+  </RequiredSkills>
+  <Taxonomies>
+    <Taxonomy type="best fit">
+      <ParentTaxonomyId>10</ParentTaxonomyId>
+      <ParentTaxonomyName>Information Technology</ParentTaxonomyName>
+      <SubTaxonomyId>553</SubTaxonomyId>
+      <SubTaxonomyName>Big Data</SubTaxonomyName>
+    </Taxonomy>
+    <Taxonomy type="second best fit">
+      <ParentTaxonomyId>27</ParentTaxonomyId>
+      <ParentTaxonomyName>Light Technical/Trades/Skilled Labor</ParentTaxonomyName>
+      <SubTaxonomyId>293</SubTaxonomyId>
+      <SubTaxonomyName>Other</SubTaxonomyName>
+    </Taxonomy>
+  </Taxonomies>
+  <MinimumYears>1</MinimumYears>
+  <TypeOfSource>stJobOrder</TypeOfSource>
+  <SourceText>Data Scientist
+
+Requirements:
+
+Atleast 1 year of experience in web crawling, scraping
+Experience working with social network APIs
+Analyzing dataset, extracting information from web pages (information retrieval)
+Experience in Scrapy or other frameworks for scraping data
+Experience with python, ruby, java or other programming languages
+
+Bonus:
+
+Knowlege / experience with natural language processing
+Data Mining
+Desire to dive into machine learning
+ETL</SourceText>
+  <RevisionDate>2014-09-20</RevisionDate>
+</SovrenData>

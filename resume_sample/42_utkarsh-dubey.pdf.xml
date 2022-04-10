@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Utkarsh Dubey</FormattedName>
+				<GivenName>Utkarsh</GivenName>
+				<FamilyName>Dubey</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91-834-103-2750</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>utkarsh.dubey.26@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>IIT</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+					</DatesOfAttendance>
+					<Comments>Futures First Pvt. Ltd. Hyderabad, India, Market Analyst	IIT Varanasi Banaras Hindu</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor</DegreeName>
+					<DegreeMajor>
+						<Name>Technology</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2012-07-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2015-07-02</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>[2012 July - Present] / Hyderabad	University
+Bachelor    of   Technology, Civil</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:Graduated>false</sov:Graduated>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>CFA</Name>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>the market sentiments, like Bolinger Bands, Fibonacci             SAS certified base</Name>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Retracement/Extension, Moving Convergence/Divergence              programmer for SAS 9</Name>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>(MACD), Parabolic SAR, Stochastic and candelsticks chart</Name>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>To gain more insight and knowledge</Name>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>•   Developed trading tools with the help of data analyst             in field of finance.</Name>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>using real time data from Reuters, importing it to excel</Name>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>sheets.</Name>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Computer Skills
+•   Strong understanding            of   market   psychology   and
+behavioural analysis.                                             Base SAS, Excel, AUTOCAD,
+STAAD Pro(Basic), MS-Office
+•   Evaluating the trading strategies like Spreads, Butterfly &amp; Condor spread using Fundamental &amp; Technical Analysis.
+
+•   Successfully understood trading in markets and ability to
+work under pressure by participating in the market day in
+and day out.
+
+•   Ensure that trading standards and safety regulations are
+being adhered to.
+
+Training
+Northern Railways at Jammu Udhampur Srinagar
+Baramulla Railway Link Project -Srinagar, J&amp;K, Trainee [
+2011 May-2011 June ] / Srinagar
+
+Central Building Research Institute, Roorkee, Research
+Assistant
+[2010 May-2010 June ] / Roorkee</QualificationSummary>
+			<Competency name="AUTOCAD">
+				<CompetencyId id="0025251" />
+				<TaxonomyId id="356" idOwner="4" description="Sovren" />
+				<CompetencyEvidence name="AUTOCAD" typeDescription="Found in SKILLS" typeId="0025251">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUTOCAD">
+				<CompetencyId id="0025252" />
+				<TaxonomyId id="357" idOwner="4" description="Sovren" />
+				<CompetencyEvidence name="AUTOCAD" typeDescription="Found in SKILLS" typeId="0025252">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUILDING DESIGN">
+				<CompetencyId id="023469" />
+				<TaxonomyId id="390" idOwner="22" description="Sovren" />
+				<CompetencyEvidence name="BUILDING DESIGN" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="023469">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUILDING DESIGN">
+				<CompetencyId id="023470" />
+				<TaxonomyId id="470" idOwner="85" description="Sovren" />
+				<CompetencyEvidence name="BUILDING DESIGN" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="023470">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CFA">
+				<CompetencyId id="012939" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CFA" typeDescription="Found in CERTIFICATIONS" typeId="012939">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA ANALYST">
+				<CompetencyId id="014962" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA ANALYST" typeDescription="Found in CERTIFICATIONS" typeId="014962">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA ANALYST">
+				<CompetencyId id="5530939" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA ANALYST" typeDescription="Found in CERTIFICATIONS" typeId="5530939">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL">
+				<CompetencyId id="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL" typeDescription="Found in SKILLS" typeId="022841">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCE">
+				<CompetencyId id="023147" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCE" typeDescription="Found in CERTIFICATIONS" typeId="023147">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RAILWAY">
+				<CompetencyId id="023040" />
+				<TaxonomyId id="388" idOwner="22" description="Sovren" />
+				<CompetencyEvidence name="RAILWAY" typeDescription="Found in SKILLS" typeId="023040">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REAL TIME">
+				<CompetencyId id="022816" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="REAL TIME" typeDescription="Found in CERTIFICATIONS" typeId="022816">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REAL TIME">
+				<CompetencyId id="081185" />
+				<TaxonomyId id="340" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="REAL TIME" typeDescription="Found in CERTIFICATIONS" typeId="081185">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REAL TIME">
+				<CompetencyId id="081189" />
+				<TaxonomyId id="253" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="REAL TIME" typeDescription="Found in CERTIFICATIONS" typeId="081189">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REAL TIME">
+				<CompetencyId id="081198" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="REAL TIME" typeDescription="Found in CERTIFICATIONS" typeId="081198">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAR">
+				<CompetencyId id="007438" />
+				<TaxonomyId id="924" idOwner="26" description="Sovren" />
+				<CompetencyEvidence name="SAR" typeDescription="Found in CERTIFICATIONS" typeId="007438">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="007445" />
+				<TaxonomyId id="341" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="007445">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="100728601" idOwner="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="100728601">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="1400078" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="1400078">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5540979" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="5540979">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5551185" />
+				<TaxonomyId id="555" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="5551185">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="9000114" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="9000114">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="Serial Attached SCSI">
+				<CompetencyId id="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="Serial Attached SCSI" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="1007286">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STAAD">
+				<CompetencyId id="008515" />
+				<TaxonomyId id="356" idOwner="4" description="Sovren" />
+				<CompetencyEvidence name="STAAD" typeDescription="Found in SKILLS" typeId="008515">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STAAD">
+				<CompetencyId id="024068" />
+				<TaxonomyId id="310" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="STAAD" typeDescription="Found in SKILLS" typeId="024068">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRADING">
+				<CompetencyId id="009789" />
+				<TaxonomyId id="127" idOwner="81" description="Sovren" />
+				<CompetencyEvidence name="TRADING" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="009789">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRADING">
+				<CompetencyId id="022750" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="TRADING" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="022750">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRADING">
+				<CompetencyId id="080179" />
+				<TaxonomyId id="245" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="TRADING" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="080179">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRADING">
+				<CompetencyId id="080204" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="TRADING" typeDescription="Found in CERTIFICATIONS; SKILLS" typeId="080204">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRAINING">
+				<CompetencyId id="200064" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="TRAINING" typeDescription="Found in SKILLS" typeId="200064">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>All India Rank-3886 in IIT-JEE 2008</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Winner in TECHNEX 2011</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Aced 'Flotante', floating building design competition held in</Description>
+			</Achievement>
+			<Achievement>
+				<Description>TECHNEX 2011 (National Technical Fest)</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2015-07-02</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Utkarsh Dubey's experience appears to be concentrated in Information Technology / Reporting, with exposure to Engineering / Computer Hardware. Utkarsh Dubey's experience appears to be ENTRY LEVEL, with only 0 months of experience, with no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>0</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>0</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="226.37" percentOfOverall="18.19" percentOfParent="18.19">
+						<sov:BestFitTaxonomy id="341" rootId="Sovren" name="Reporting" weight="46.66" percentOfOverall="3.75" percentOfParent="20.61" />
+						<sov:BestFitTaxonomy id="554" rootId="Sovren" name="Business Intelligence" weight="46.66" percentOfOverall="3.75" percentOfParent="20.61" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="5" rootId="Sovren" name="Engineering" weight="207.17" percentOfOverall="16.65" percentOfParent="16.65">
+						<sov:BestFitTaxonomy id="144" rootId="Sovren" name="Computer Hardware" weight="183.17" percentOfOverall="14.72" percentOfParent="88.42" />
+						<sov:BestFitTaxonomy id="310" rootId="Sovren" name="Software and Tools" weight="24.00" percentOfOverall="1.93" percentOfParent="11.58" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Hobbies>
+				<sov:Text>Participated in all major intra-college cricket tournaments for
+four years.</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="0" ends="3" sectionType="WORK HISTORY" />
+				<sov:Section starts="4" ends="12" sectionType="EDUCATION" />
+				<sov:Section starts="13" ends="21" sectionType="CERTIFICATIONS">Certifications</sov:Section>
+				<sov:Section starts="22" ends="44" sectionType="SKILLS">Computer Skills</sov:Section>
+				<sov:Section starts="45" ends="51" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">Notables</sov:Section>
+				<sov:Section starts="52" ends="54" sectionType="HOBBIES">Sports</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>2734</sov:ParsedTextLength>
+			<sov:ParseTime>390</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

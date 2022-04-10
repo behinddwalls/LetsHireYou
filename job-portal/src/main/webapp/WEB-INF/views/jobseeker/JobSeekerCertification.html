@@ -1,0 +1,17 @@
+<!-- This represents all the data for one certification that needs to be shown -->
+
+<div class="col-lg-10 col-lg-offset-0 work-experience">
+	<div class="col-sm-11 col-xs-10 pull-left">
+		<input class ="userCertificationId" type="hidden" name="certificationId" value=' + certificationObj.certificationId + ' >
+		<h5>'+ ((checkEmpty(certificationObj.certificationName))?"":certificationObj.certificationName) + ((checkEmpty(certificationObj.organisationName))?"":("&nbsp;&nbsp;&nbsp;&nbsp;"+certificationObj.organisationName)) +'</h5>
+		<h6>' +((checkEmpty(certificationObj.certificationStartDate))? "" :
+			certificationObj.certificationStartDate) + ((checkEmpty(certificationObj.certificationEndDate))? "": ("
+			- " + certificationObj.certificationEndDate))  + '</h6>		
+		<a href='+ ((checkEmpty(certificationObj.certificationUrl))?"":certificationObj.certificationUrl) +'>'+((checkEmpty(certificationObj.certificationUrl))?"":certificationObj.certificationUrl)+'</a>	
+		<p></p>	
+	</div>
+	<div class="pull-left col-sm-1 col-xs-2"
+		style="color: grey; font-size: 1.2em;">
+		<i class="fa fa-pencil editUserCertification"></i>
+	</div>
+</div>

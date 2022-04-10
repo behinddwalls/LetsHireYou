@@ -1,0 +1,57 @@
+job_level,numeric
+CEO,0
+CFO,0
+CIO,0
+CCO,0
+CSO,0
+CTO,0
+CKO,0
+CLO,0
+CXO,0
+Chief Executive Officer,0
+Chief Financial Officer,0
+Chief Information Officer,0
+Chief Compliance Officer,0
+Chief Security Officer,0
+Chief Technology Officer,0
+Chief Knowledge Officer,0
+Chair,0
+Chairman,0
+Chairwoman,0
+Chief Learning Officer,0
+President,1
+SVP,1
+Senior VP,1
+Senior Vice President,1
+Sr VP,1
+Sr Vice President,1
+Global Director,1
+Partner,1
+Board Member,1
+Board,1
+Director,2
+VP,2
+EVP,2
+Vice President,2
+Deputy President,2
+CVP,2
+Head,3
+Senior Manager,4
+Sr Manager,4
+program manager,4
+Manager,5
+lead,6
+senior,7
+sr,7
+mid senior,8
+engineer,9
+developer,9
+software developer,9
+analyst,9
+intern,10
+student,10
+teaching assistant,10
+research assistant,10
+founder,11
+owner,11
+proprieter,11

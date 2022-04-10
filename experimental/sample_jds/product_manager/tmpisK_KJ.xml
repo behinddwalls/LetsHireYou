@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>true</CurrentJobIsMgmt>
+  <HighestManagementScore>55</HighestManagementScore>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Senior Product Manager, Content Management</MainJobTitle>
+    <JobTitle>Senior Product Manager, Content Management</JobTitle>
+    <JobTitle>Product Manager</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <EmployerName>Ask.com</EmployerName>
+  </EmployerNames>
+  <CurrentLocation>
+    <Municipality>Oakland</Municipality>
+    <Region>CA</Region>
+    <CountryCode>US</CountryCode>
+    <Latitude inferred="true">37.80437</Latitude>
+    <Longitude inferred="true">-122.2708</Longitude>
+  </CurrentLocation>
+  <RequiredSkills>
+    <RequiredSkill>CMS</RequiredSkill>
+    <RequiredSkill>CONTENT MANAGEMENT</RequiredSkill>
+    <RequiredSkill>CONTENT MANAGEMENT SYSTEM</RequiredSkill>
+    <RequiredSkill>DATA MANAGEMENT</RequiredSkill>
+    <RequiredSkill>ENGINES</RequiredSkill>
+    <RequiredSkill>HP-UX</RequiredSkill>
+    <RequiredSkill>LEADERSHIP SKILLS</RequiredSkill>
+    <RequiredSkill>MARKETING</RequiredSkill>
+    <RequiredSkill>PRESENTATION SKILLS</RequiredSkill>
+    <RequiredSkill>PRODUCT MANAGEMENT</RequiredSkill>
+    <RequiredSkill>PRODUCT MANAGER</RequiredSkill>
+    <RequiredSkill>PUBLISHING</RequiredSkill>
+    <RequiredSkill>SEARCH ENGINE OPTIMIZATION</RequiredSkill>
+    <RequiredSkill>SEO</RequiredSkill>
+    <RequiredSkill>SOLUTIONS</RequiredSkill>
+    <RequiredSkill>UI</RequiredSkill>
+    <RequiredSkill>UNIX</RequiredSkill>
+    <RequiredSkill>USER INTERFACE</RequiredSkill>
+    <RequiredSkill>UX</RequiredSkill>
+  </RequiredSkills>
+  <Taxonomies>
+    <Taxonomy type="best fit">
+      <ParentTaxonomyId>10</ParentTaxonomyId>
+      <ParentTaxonomyName>Information Technology</ParentTaxonomyName>
+      <SubTaxonomyId>553</SubTaxonomyId>
+      <SubTaxonomyName>Big Data</SubTaxonomyName>
+    </Taxonomy>
+    <Taxonomy type="second best fit">
+      <ParentTaxonomyId>14</ParentTaxonomyId>
+      <ParentTaxonomyName>Marketing</ParentTaxonomyName>
+      <SubTaxonomyId>227</SubTaxonomyId>
+      <SubTaxonomyName>Brand Management</SubTaxonomyName>
+    </Taxonomy>
+  </Taxonomies>
+  <MinimumYears>5</MinimumYears>
+  <TypeOfSource>stJobOrder</TypeOfSource>
+  <SourceText>Senior Product Manager, Content Management
+Ask.com - Oakland, California
+Posted 2 days ago
+Apply on company website
+Other Details
+About this job
+Job description
+
+
+Us
+Ask.com is a leading site on the Internet with more than 200+ million worldwide unique monthly users. We help users find the best answers from the web, in addition to answers on Ask.com that come from editors, partners and our Q&amp;A community. As we continue to expand Ask&apos;s content offerings, we seek an experienced Sr. Product Manager to drive scalable content management solutions across multiple properties.
+
+
+The Role
+The Sr. Product Manager, Content Management will be responsible for developing Content Management tools that help us to manage millions of pages of content. They&apos;ll work closely with UX, engineering, and content managers to create quality tools based on the Content team&apos;s goals and user feedback. This person will have worked at large media sites or other large Internet publishers and be well versed in CMS, publishing workflows and data management. Technical product management skills are preferred.
+
+
+Key Responsibilities
+
+Collaborate with Content executives, Engineering and third parties to write requirements for custom, highly flexible and scalable CMS tools (this is not a standard Drupal or WordPress implementation)
+Partner with UX and Engineering to launch products in an agile environment
+Rapidly test and optimize with internal users
+Partner with SEO experts to ensure content is optimized for discovery via search engines and social media
+Communicate plans, status, and results to teams and management
+Additional opportunities for this role may also include consumer Content and Search experiences for both desktop and mobile
+
+
+Qualifications
+
+5+ years of Internet product management experience with emphasis on content management solutions
+Strong eye for design and UI
+Excellent leadership skills and ability to work cross-functionally to deliver results
+Experience managing the production and development of a new tools
+Ability to work well in a team environment, scrum/Agile experience a plus
+Working understanding of SEO and content marketing strategies
+Strong communication, written, and presentation skills</SourceText>
+  <RevisionDate>2014-09-16</RevisionDate>
+</SovrenData>

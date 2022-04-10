@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>true</CurrentJobIsMgmt>
+  <HighestManagementScore>55</HighestManagementScore>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Senior Product Manager - Retail Products</MainJobTitle>
+    <JobTitle>Senior Product Manager - Retail Products</JobTitle>
+    <JobTitle>Product Manager</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <EmployerName>Retail Products</EmployerName>
+    <EmployerName>Coupons.com</EmployerName>
+  </EmployerNames>
+  <CurrentLocation>
+    <Municipality>Mountain View</Municipality>
+    <Region>CA</Region>
+    <CountryCode>US</CountryCode>
+    <Latitude inferred="true">37.38605</Latitude>
+    <Longitude inferred="true">-122.0838</Longitude>
+  </CurrentLocation>
+  <RequiredSkills>
+    <RequiredSkill>business requirements</RequiredSkill>
+    <RequiredSkill>gather business requirements</RequiredSkill>
+  </RequiredSkills>
+  <OtherSkills>
+    <OtherSkill>ADVERTISING</OtherSkill>
+    <OtherSkill>AND SALES</OtherSkill>
+    <OtherSkill>COST ESTIMATES</OtherSkill>
+    <OtherSkill>CUSTOMER SUPPORT</OtherSkill>
+    <OtherSkill>INTERNET ADVERTISING</OtherSkill>
+    <OtherSkill>LIFE CYCLE</OtherSkill>
+    <OtherSkill>MARKET ANALYSIS</OtherSkill>
+    <OtherSkill>MARKET RESEARCH</OtherSkill>
+    <OtherSkill>MARKETING</OtherSkill>
+    <OtherSkill>PRODUCT MANAGEMENT</OtherSkill>
+    <OtherSkill>PRODUCT MANAGER</OtherSkill>
+    <OtherSkill>RETAIL</OtherSkill>
+    <OtherSkill>RETAIL MARKETING</OtherSkill>
+    <OtherSkill>SALES AND</OtherSkill>
+    <OtherSkill>SALES TO</OtherSkill>
+    <OtherSkill>THOUGHTFUL</OtherSkill>
+    <OtherSkill>USE CASES</OtherSkill>
+    <OtherSkill>USER EXPERIENCE</OtherSkill>
+    <OtherSkill>USER EXPERIENCE DESIGN</OtherSkill>
+  </OtherSkills>
+  <Taxonomies>
+    <Taxonomy type="best fit">
+      <ParentTaxonomyId>10</ParentTaxonomyId>
+      <ParentTaxonomyName>Information Technology</ParentTaxonomyName>
+      <SubTaxonomyId>199</SubTaxonomyId>
+      <SubTaxonomyName>Project Management</SubTaxonomyName>
+    </Taxonomy>
+    <Taxonomy type="second best fit">
+      <ParentTaxonomyId>14</ParentTaxonomyId>
+      <ParentTaxonomyName>Marketing</ParentTaxonomyName>
+      <SubTaxonomyId>223</SubTaxonomyId>
+      <SubTaxonomyName>Market Research</SubTaxonomyName>
+    </Taxonomy>
+  </Taxonomies>
+  <Education>
+    <Degree>
+      <DegreeType>bachelors</DegreeType>
+      <DegreeName>BA/BS</DegreeName>
+    </Degree>
+  </Education>
+  <RequiredDegree>bachelors</RequiredDegree>
+  <TypeOfSource>stJobOrder</TypeOfSource>
+  <SourceText>Senior Product Manager - Retail Products
+
+Coupons.com - Mountain View, CA
+
+Other Details
+About this job
+Job description
+
+Position Summary:
+
+
+The Product Manager is responsible for collaborating with key stakeholders to define the product plans and product strategy to accomplish Coupons.com%u2019s business objectives. As a key member of the product management team, this position is responsible for managing the strategy for new and existing Coupons.com retail products, conducting product research, market analysis, business requirements definitions, user experience design, developing and coordinating launch plans with cross functional teams, including marketing, sales and customer support; and evangelizing Coupons.com%u2019s products both internally and externally.
+
+
+Position Responsibilities:
+
+Drive platform innovation that fundamentally changes the promotions and checkout experience for shoppers, retailers and CPG companies, delivering higher consumer engagement, activation, and shopping behavior.
+Manage and refine long-term product strategy, product plans and use cases
+Specifying market requirements for current and future products by conducting market research supported by on-going visits to customers and non-customers
+Collaborate with all cross functional teams, in particular engineering, marketing and sales to build, launch and maintain products
+Establish business goals with measureable success criteria early in the product life cycle, stay consistent with those goals, and adapt to change as required
+Evaluate new organic and non-organic product opportunities, including revenue and cost estimates, target markets and fit with current product offering
+Developing and implementing a company-wide go-to-market plan, working with all departments to execute
+
+Position Qualifications:
+
+Extensive experience in developing and validating product strategy plans, defining product requirements and managing products for a fast-paced, high growth technology market.
+Ability to grasp complex concepts and develop clear, concise, synthesized recommendations
+Ability to gather business requirements, drive thoughtful discussions with relevant stakeholders, seek internal (and if applicable external) alignment, deliver consolidated plan, and follow through
+Ability to analyze new markets and prepare market entry strategies
+Domain knowledge in internet advertising marketplaces and product capabilities
+Retail/Commerce industry experience desired, but most importantly, candidate must have strong initiative, high energy, and impeccable integrity.
+BA/BS required.</SourceText>
+  <RevisionDate>2014-09-24</RevisionDate>
+</SovrenData>

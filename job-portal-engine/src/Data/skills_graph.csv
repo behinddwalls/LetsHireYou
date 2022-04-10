@@ -1,0 +1,434 @@
+source,target,frequency
+matlab,python,10
+matlab,r,13
+statistical modeling,risk analytics,28
+statistical modeling,python,12
+statistical modeling,credit risk,18
+statistical modeling,logistic regression,30
+statistical modeling,data analytics,18
+statistical modeling,predictive analytics,16
+statistical modeling,analytics,66
+statistical modeling,segmentation,22
+statistical modeling,data analysis,20
+statistical modeling,data scientist,14
+statistical modeling,business analytics,14
+statistical modeling,marketing analytics,30
+statistical modeling,time series,16
+statistical modeling,data mining,18
+statistical modeling,sas sql,12
+statistical modeling,statistics,24
+statistical modeling,machine learning,34
+statistical modeling,r,26
+statistical modeling,statistical analysis,16
+statistical modeling,sas,76
+statistical modeling,spss,18
+statistical modeling,regression,28
+statistical modeling,predictive modeling,80
+statistical modeling,sql,24
+statistical modeling,analysis,10
+risk management,risk analytics,20
+risk management,finance,14
+risk management,credit risk,16
+risk management,sas,22
+risk management,sql,12
+data analyst,data analytics,12
+data analyst,data mining,14
+data analyst,analytics,14
+data analyst,data analysis,38
+data analyst,data management,12
+data analyst,business analyst,10
+data analyst,analyst,20
+data analyst,sas,10
+data analyst,mis,10
+data analyst,sql,14
+business planning,business research,16
+business planning,ba,10
+business planning,business analytics,10
+business planning,strategy,12
+business planning,business analyst,18
+business planning,business analysis,34
+data scientist,python,38
+data scientist,data mining,18
+data scientist,analytics,18
+data scientist,data analysis,14
+data scientist,spss,10
+data scientist,java,16
+data scientist,machine learning,52
+data scientist,r,34
+data scientist,data management,12
+data scientist,statistical analysis,14
+data scientist,sas,20
+data scientist,predictive modeling,14
+data scientist,hadoop,24
+data scientist,sql,16
+data scientist,algorithms,12
+text mining,data mining,11
+text mining,machine learning,10
+analytics,mis reporting,14
+analytics,predictive analytics,12
+analytics,segmentation,24
+analytics,vba,16
+analytics,data management,38
+analytics,project management,24
+analytics,machine learning,32
+analytics,research analysis,10
+analytics,tableau,18
+analytics,market research,28
+analytics,analytics manager,28
+analytics,python,32
+analytics,senior management,10
+analytics,logistic regression,24
+analytics,advanced excel,14
+analytics,data analytics,38
+analytics,research,14
+analytics,business analytics,26
+analytics,sas sql,26
+analytics,r,52
+analytics,business intelligence,24
+analytics,sas,156
+analytics,predictive modeling,62
+analytics,mis,18
+analytics,risk analytics,34
+analytics,credit risk,30
+analytics,time series,16
+analytics,data mining,48
+analytics,java,18
+analytics,secondary research,10
+analytics,business analyst,16
+analytics,business analysis,28
+analytics,statistical analysis,30
+analytics,regression,18
+analytics,hadoop,10
+analytics,reporting,16
+analytics,analysis,34
+analytics,data analysis,66
+analytics,marketing analytics,22
+analytics,spss,30
+analytics,strategy,16
+analytics,statistics,50
+analytics,analyst,18
+analytics,excel,14
+analytics,sql,66
+r,hadoop,10
+r,python,64
+r,c++,12
+r,logistic regression,10
+r,data analytics,22
+r,segmentation,14
+r,data analysis,22
+r,java,20
+r,marketing analytics,12
+r,time series,10
+r,spss,30
+r,data mining,34
+r,statistics,14
+r,data management,12
+r,vba,14
+r,project management,12
+r,machine learning,42
+r,sas,88
+r,predictive modeling,24
+r,tableau,16
+r,sql,52
+stress testing,sas,11
+marketing,business analysis,10
+marketing,sales,22
+marketing,sas,10
+analyst,advanced excel,10
+analyst,mis reporting,10
+analyst,data analysis,16
+analyst,research,10
+analyst,business analyst,22
+analyst,business intelligence,14
+analyst,sas,10
+analyst,analysis,24
+excel,risk analytics,12
+excel,communication skills,10
+excel,mis reporting,12
+excel,data analysis,40
+excel,vba,20
+excel,data mining,12
+excel,sas sql,18
+excel,data management,16
+excel,business analysis,10
+excel,ms office,10
+excel,sas,20
+excel,mis,16
+excel,reporting,16
+excel,sql,34
+excel,analysis,20
+sql,predictive analytics,10
+sql,segmentation,12
+sql,vba,38
+sql,data management,24
+sql,project management,16
+sql,machine learning,38
+sql,tableau,26
+sql,analytics manager,10
+sql,google analytics,22
+sql,python,60
+sql,logistic regression,10
+sql,advanced excel,16
+sql,data analytics,26
+sql,sas sql,12
+sql,ms office,12
+sql,business intelligence,22
+sql,sas,106
+sql,predictive modeling,18
+sql,risk analytics,16
+sql,c++,16
+sql,data mining,28
+sql,java,32
+sql,business analyst,26
+sql,business analysis,30
+sql,hadoop,20
+sql,data analysis,52
+sql,marketing analytics,10
+sql,spss,22
+sql,statistics,24
+chaid,sas,10
+web technologies,business analysis,14
+web technologies,google analytics,10
+data management,data analytics,16
+data management,data analysis,52
+data management,spss,18
+data management,mis reporting,12
+data management,data mining,32
+data management,machine learning,12
+data management,statistical analysis,14
+data management,sas,28
+data management,reporting,12
+data management,analysis,10
+machine learning,risk analytics,18
+machine learning,data modeling,12
+machine learning,python,66
+machine learning,c++,28
+machine learning,data analytics,12
+machine learning,predictive analytics,10
+machine learning,data analysis,22
+machine learning,spss,10
+machine learning,data mining,54
+machine learning,statistics,16
+machine learning,java,38
+machine learning,statistical analysis,14
+machine learning,sas,36
+machine learning,predictive modeling,34
+machine learning,hadoop,28
+machine learning,algorithms,36
+senior management,project management,10
+senior management,sas,14
+senior management,analytics manager,12
+credit risk,risk analytics,44
+credit risk,finance,10
+credit risk,data analysis,12
+credit risk,statistics,10
+credit risk,sas,50
+credit risk,predictive modeling,12
+finance,financial modelling,18
+finance,risk analytics,10
+finance,data analysis,16
+finance,business analyst,12
+finance,business analysis,20
+logistic regression,data analytics,12
+logistic regression,predictive analytics,12
+logistic regression,segmentation,18
+logistic regression,time series,16
+logistic regression,sas,34
+logistic regression,predictive modeling,40
+advanced excel,mis reporting,16
+advanced excel,vba,16
+advanced excel,business analyst,14
+advanced excel,business analysis,10
+advanced excel,business intelligence,10
+advanced excel,sas,12
+advanced excel,analysis,16
+advanced excel,google analytics,10
+business analytics,data analysis,10
+business analytics,ba,14
+business analytics,marketing analytics,12
+business analytics,business analyst,24
+business analytics,business intelligence,28
+business analytics,sas,16
+business analytics,business analysis,32
+statistics,risk analytics,26
+statistics,vba,14
+statistics,predictive analytics,12
+statistics,data analysis,18
+statistics,marketing analytics,10
+statistics,time series,14
+statistics,spss,16
+statistics,data mining,16
+statistics,sas sql,10
+statistics,business analysis,16
+statistics,project management,12
+statistics,statistical analysis,16
+statistics,sas,68
+statistics,regression,14
+statistics,predictive modeling,12
+statistics,analysis,14
+scorecard,sas,10
+sas,predictive analytics,30
+sas,segmentation,40
+sas,vba,40
+sas,project management,26
+sas,tableau,26
+sas,market research,10
+sas,google analytics,14
+sas,python,52
+sas,data analytics,46
+sas,sas sql,16
+sas,business intelligence,18
+sas,predictive modeling,82
+sas,risk analytics,60
+sas,data modeling,16
+sas,c++,14
+sas,time series,26
+sas,data mining,38
+sas,java,14
+sas,business analyst,20
+sas,business analysis,16
+sas,statistical analysis,32
+sas,regression,28
+sas,hadoop,14
+sas,analysis,36
+sas,data analysis,50
+sas,bi,12
+sas,marketing analytics,32
+sas,spss,70
+sas,clustering,10
+algorithms,python,28
+algorithms,c++,14
+algorithms,java,22
+algorithms,predictive modeling,10
+data modeling,data analysis,22
+data modeling,data mining,18
+c++,python,38
+c++,data analytics,10
+c++,data mining,16
+c++,java,36
+c++,c,14
+c++,hadoop,12
+data mining,python,40
+data mining,data analytics,18
+data mining,reporting,10
+data mining,data analysis,72
+data mining,java,20
+data mining,spss,18
+data mining,business analysis,10
+data mining,business intelligence,14
+data mining,statistical analysis,12
+data mining,predictive modeling,16
+data mining,hadoop,16
+data mining,analysis,20
+business analyst,mis reporting,10
+business analyst,project management,24
+business analyst,google analytics,10
+business analyst,python,12
+business analyst,business intelligence,16
+business analyst,business research,10
+business analyst,business analysis,122
+business analyst,analysis,12
+business analyst,data analysis,10
+business analyst,ba,26
+spss,python,12
+spss,data analytics,10
+spss,data analysis,16
+spss,vba,16
+spss,statistical analysis,10
+spss,predictive modeling,14
+spss,tableau,10
+spss,analysis,12
+sales,strategy,10
+sales,business analysis,14
+segmentation,data analytics,10
+segmentation,marketing analytics,20
+segmentation,time series,14
+segmentation,regression,14
+segmentation,predictive modeling,32
+communication skills,business analysis,16
+research,business research,12
+research,secondary research,10
+research,market research,10
+sas sql,data analytics,14
+sas sql,mis reporting,10
+predictive modeling,risk analytics,14
+predictive modeling,python,16
+predictive modeling,data analytics,14
+predictive modeling,predictive analytics,18
+predictive modeling,data analysis,14
+predictive modeling,marketing analytics,16
+predictive modeling,time series,18
+predictive modeling,business intelligence,10
+predictive modeling,statistical analysis,14
+predictive modeling,regression,24
+predictive modeling,hadoop,10
+predictive modeling,analysis,16
+risk analytics,data analytics,10
+risk analytics,data analysis,14
+risk analytics,vba,10
+risk analytics,marketing analytics,14
+risk analytics,time series,10
+risk analytics,analysis,16
+c,java,12
+c,python,14
+java,python,60
+java,data analysis,18
+java,statistical analysis,10
+java,hadoop,24
+strategy,business analysis,16
+business analysis,use cases,10
+business analysis,vba,14
+business analysis,project management,44
+business analysis,market research,14
+business analysis,google analytics,18
+business analysis,python,14
+business analysis,business intelligence,16
+business analysis,business research,22
+business analysis,secondary research,12
+business analysis,market analysis,11
+business analysis,data analysis,28
+business analysis,ba,32
+business intelligence,data analytics,14
+business intelligence,data analysis,16
+business intelligence,bi,22
+business intelligence,mis reporting,10
+business intelligence,secondary research,10
+business intelligence,project management,14
+business intelligence,tableau,10
+business intelligence,analysis,14
+hadoop,python,32
+hadoop,data analysis,10
+analysis,mis reporting,18
+analysis,vba,18
+analysis,data analytics,14
+analysis,reporting,12
+mis executive,mis,11
+mis executive,mis reporting,14
+hive,python,10
+mis reporting,data analytics,12
+mis reporting,data analysis,26
+mis reporting,mis,32
+vba,reporting,10
+vba,data analysis,18
+vba,data analytics,14
+project management,data analysis,10
+project management,data analytics,10
+project management,tableau,12
+project management,analytics manager,12
+research analysis,secondary research,10
+research analysis,market research,12
+tableau,data analytics,14
+market research,business research,18
+market research,data analysis,12
+market research,secondary research,18
+google analytics,python,12
+python,data analytics,16
+python,data analysis,30
+data analytics,data analysis,36
+mis,data analysis,22
+mis,reporting,16
+business research,secondary research,22
+time series,regression,14
+statistical analysis,data analysis,30
+regression,marketing analytics,10
+reporting,data analysis,22

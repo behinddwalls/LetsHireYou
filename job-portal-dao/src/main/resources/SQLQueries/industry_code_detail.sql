@@ -1,0 +1,16 @@
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (1,'Accounting/Auditing');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (2,'Advertising');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (3,'Analytics');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (4,'Art/Creative/Design');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (5,'Banking and Financial Services');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (6,'Consulting');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (7,'Education/Training');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (8,'Healthcare');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (9,'Human Resources');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (10,'Information Technology');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (11,'Legal');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (12,'Logistics');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (13,'Pharmaceuticals');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (14,'Public Relations');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (15,'Infrastructure and Construction');
+INSERT INTO industry_code_detail(industry_code,industry_description) VALUES (16,'BPO/KPO');

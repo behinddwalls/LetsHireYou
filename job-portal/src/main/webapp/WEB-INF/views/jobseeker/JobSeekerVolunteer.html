@@ -1,0 +1,15 @@
+<!-- This represents all the data for one volunteer that needs to be shown -->
+
+<div class="col-lg-10 col-lg-offset-0 work-experience">
+	<div class="col-sm-11 col-xs-10 pull-left">		
+		<input class ="userVolunteerId" type="hidden" name="volunteerId" value=' + volunteerObj.volunteerId + ' >		
+		<h5 class="text-capitalize">'+ ((checkEmpty(volunteerObj.organisationName))?"":volunteerObj.organisationName) +((checkEmpty(volunteerObj.roleName))?"":(" - "+volunteerObj.roleName)) +'</h5>		
+		<h4>' + ((checkEmpty(volunteerObj.volunteerStartDate))?"":volunteerObj.volunteerStartDate) + ((checkEmpty(volunteerObj.volunteerEndDate))?"":(" - " + volunteerObj.volunteerEndDate)) + '</h4>
+		<h4 class="text-capitalize">' + ((checkEmpty(volunteerObj.volunteerCause))?"":volunteerObj.volunteerCause) + '</h4>
+		<p>'+ ((checkEmpty(volunteerObj.volunteerDescription))?"":volunteerObj.volunteerDescription) +'</p>		
+	</div>
+	<div class="pull-left col-sm-1 col-xs-2"
+		style="color: grey; font-size: 1.2em;">
+		<i class="fa fa-pencil editUserVolunteer"></i>
+	</div>
+</div>

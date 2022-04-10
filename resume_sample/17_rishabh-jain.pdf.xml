@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Rishabh Jain</FormattedName>
+				<GivenName>Rishabh</GivenName>
+				<FamilyName>Jain</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>342005</PostalCode>
+					<Region>Rajasthan</Region>
+					<Municipality>Jodhpur</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Indian Institute of Technology</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>(+91) 81078 25294</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>rishabhjain@iitj.ac.in</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Inter-IIT Sports Meet</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Student Placement Cell</Title>
+					<OrgName>
+						<OrganizationName>Inter-IIT Sports Meet</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ASSAM</Region>
+							<Municipality>Guwahati</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Student Placement Cell  • Established healthy relationship with recruiters; organised smooth placement sessions
+(Apr'14 - Till date) • Invited 1000+ companies; department internships status - 76% (second highest)
+Captain        • Scheduled practice sessions, conducted trials &amp; mentored a team of 13 members
+Table Tennis Team     • Led a team of 7 in Inter-IIT Sports Meet, Guwahati &amp; Mumbai (won Gold)</Description>
+					<StartDate>
+						<AnyDate>2014-04-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-04</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>16</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>17</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>21</sov:OffsetOfFarthestDataFound>
+							<sov:NumberOfEmployeesSupervised>13</sov:NumberOfEmployeesSupervised>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Head - Finance</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>(Feb'13 - Till date) • Managed budget of   1.08 lakh (team budget) and   4 lakh (Inter IIT budget)
+Head - Finance      • Supervised budget division of   10 lakh for inter college sports festival
+Varchas'14       • Analysed pre-fest cost for 15 departments; reserved   0.5+ lakh for Varchas'15</Description>
+					<StartDate>
+						<AnyDate>2013-02-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-04</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:PositionTitleProbability>22</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>112</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Marketing Coordinator</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>(Sep'13 - Apr'14)   • Employed   3.32 lakh on marathon for social cause - Run for Democracy; footfall - 900
+Marketing Coordinator   • Instituted a 4 tier team of 35+ students to organize one of the largest festival of state
+PROM          • Introduced client specific-marketing modules by customization of events</Description>
+					<StartDate>
+						<AnyDate>2013-09-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2014-04-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:PositionTitleProbability>25</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>128</sov:OffsetOfFarthestDataFound>
+							<sov:NumberOfEmployeesSupervised>35</sov:NumberOfEmployeesSupervised>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>EXTRA-CURRICULARS</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>EXTRA-CURRICULARS</OrganizationName>
+					</OrgName>
+					<Description>(Jul'12 - Apr'13)  • Garnered a total sponsorship of   30.2 lakh; 168 % of growth in funds generated
+EXTRA-CURRICULARS</Description>
+					<StartDate>
+						<AnyDate>2012-07-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-04-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbability>10</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>15</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Indian Institute of Technology Jodhpur</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>RAJASTHAN</Region>
+					<Municipality>Jodhpur</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech</DegreeName>
+					<DegreeMajor>
+						<Name>System Science</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2011-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>B.Tech, System Science	Indian Institute of Technology Jodhpur	7.49/10	2011-pursuing</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:Graduated>false</sov:Graduated>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="highschool">
+				<School>
+					<SchoolName>Sir Padampat Singhania School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>RAJASTHAN</Region>
+					<Municipality>Kota</Municipality>
+				</PostalAddress>
+				<Degree degreeType="high school or equivalent">
+					<DegreeName>Class XII</DegreeName>
+					<DegreeDate>
+						<AnyDate>2011-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>80.0</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2011-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Class XII, CBSE	Sir Padampat Singhania School, Kota	80.0%	2011</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.800</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="highschool">
+				<School>
+					<SchoolName>Aditya Birla Public School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>GUJARAT</Region>
+					<Municipality>Bharuch</Municipality>
+				</PostalAddress>
+				<Degree degreeType="some high school or equivalent">
+					<DegreeName>Class X</DegreeName>
+					<DegreeDate>
+						<AnyDate>2009-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>94.4</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2009-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Class X, CBSE	Aditya Birla Public School, Bharuch	94.4%	2009</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.944</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary></QualificationSummary>
+			<Competency name="BUDGET">
+				<CompetencyId id="012120" />
+				<TaxonomyId id="533" idOwner="89" description="Sovren" />
+				<CompetencyEvidence name="BUDGET" typeDescription="Found in WORK HISTORY; POS-2" typeId="012120" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">29</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUDGET">
+				<CompetencyId id="022891" />
+				<TaxonomyId id="962" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="BUDGET" typeDescription="Found in WORK HISTORY; POS-2" typeId="022891" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">29</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUDGET">
+				<CompetencyId id="022892" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="BUDGET" typeDescription="Found in WORK HISTORY; POS-2" typeId="022892" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">29</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCE">
+				<CompetencyId id="023147" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCE" typeDescription="Found in WORK HISTORY; POS-2" typeId="023147" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">29</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING">
+				<CompetencyId id="021241" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING" typeDescription="Found in WORK HISTORY; POS-3" typeId="021241" lastUsed="2014-04-01">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ALGORITHMS">
+				<CompetencyId id="017446" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHMS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="017446">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ALGORITHMS">
+				<CompetencyId id="024338" />
+				<TaxonomyId id="298" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHMS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="024338">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY">
+				<CompetencyId id="022441" />
+				<TaxonomyId id="304" idOwner="11" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022441">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY">
+				<CompetencyId id="022442" />
+				<TaxonomyId id="379" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022442">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY">
+				<CompetencyId id="080356" />
+				<TaxonomyId id="308" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="080356">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY">
+				<CompetencyId id="080515" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="080515">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY">
+				<CompetencyId id="080777" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="080777">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY LINE">
+				<CompetencyId id="004687" idOwner="022441" />
+				<TaxonomyId id="304" idOwner="11" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY LINE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="004687">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY LINE">
+				<CompetencyId id="004688" idOwner="022442" />
+				<TaxonomyId id="379" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY LINE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="004688">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL">
+				<CompetencyId id="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022841">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FACTOR ANALYSIS">
+				<CompetencyId id="7200023" />
+				<TaxonomyId id="720" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="FACTOR ANALYSIS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="7200023">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="017857" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="017857">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="017858" />
+				<TaxonomyId id="502" idOwner="71" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="017858">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="023163" />
+				<TaxonomyId id="256" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="023163">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="023164" />
+				<TaxonomyId id="245" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="023164">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FORECASTING">
+				<CompetencyId id="7000318" />
+				<TaxonomyId id="705" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FORECASTING" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="7000318">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="HIDDEN MARKOV MODEL">
+				<CompetencyId id="7200028" />
+				<TaxonomyId id="720" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="HIDDEN MARKOV MODEL" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="7200028">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="HRSG">
+				<CompetencyId id="023867" />
+				<TaxonomyId id="308" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="HRSG" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="023867">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ITS">
+				<CompetencyId id="020239" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ITS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="020239">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LIABILITY">
+				<CompetencyId id="4000007" />
+				<TaxonomyId id="400" idOwner="12" description="Sovren" />
+				<CompetencyEvidence name="LIABILITY" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="4000007">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LINEAR PROGRAMMING">
+				<CompetencyId id="020791" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="LINEAR PROGRAMMING" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="020791">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MAINTENANCE">
+				<CompetencyId id="022116" />
+				<TaxonomyId id="364" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="MAINTENANCE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022116">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MAINTENANCE">
+				<CompetencyId id="022117" />
+				<TaxonomyId id="452" idOwner="72" description="Sovren" />
+				<CompetencyEvidence name="MAINTENANCE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022117">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKOV">
+				<CompetencyId id="5531019" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MARKOV" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="5531019">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MATLAB">
+				<CompetencyId id="021346" />
+				<TaxonomyId id="252" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MATLAB" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="021346">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MATLAB">
+				<CompetencyId id="021347" />
+				<TaxonomyId id="376" idOwner="15" description="Sovren" />
+				<CompetencyEvidence name="MATLAB" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="021347">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MATLAB">
+				<CompetencyId id="024275" />
+				<TaxonomyId id="310" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="MATLAB" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="024275">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS EXCEL">
+				<CompetencyId id="002864" idOwner="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS EXCEL" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="002864">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPTIMIZATION">
+				<CompetencyId id="023294" />
+				<TaxonomyId id="198" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="OPTIMIZATION" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="023294">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPTIMIZATION">
+				<CompetencyId id="023295" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="OPTIMIZATION" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="023295">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PYTHON">
+				<CompetencyId id="006120" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="PYTHON" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="006120">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="QUANTITATIVE">
+				<CompetencyId id="006272" />
+				<TaxonomyId id="143" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="QUANTITATIVE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="006272">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="QUANTITATIVE">
+				<CompetencyId id="022509" />
+				<TaxonomyId id="119" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="QUANTITATIVE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022509">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="QUANTITATIVE">
+				<CompetencyId id="022510" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="QUANTITATIVE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022510">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SCHEDULING">
+				<CompetencyId id="022739" />
+				<TaxonomyId id="208" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="SCHEDULING" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022739">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SCHEDULING">
+				<CompetencyId id="022740" />
+				<TaxonomyId id="460" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="SCHEDULING" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022740">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLASS">
+				<CompetencyId id="5530927" idOwner="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CLASS" typeDescription="Found in EDUCATION; PERSONAL INTERESTS AND ACCOMPLISHMENTS; DEG-2; DEG-3" typeId="5530927" lastUsed="2011-01-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM">
+				<CompetencyId id="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM" typeDescription="Found in EDUCATION; PERSONAL INTERESTS AND ACCOMPLISHMENTS; DEG-2; DEG-3" typeId="5530926" lastUsed="2011-01-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>KVPY Scholar'11              •   Awarded scholarship by Department of Science and Technology, Government of India</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Merit Scholarship - Class X      •   Conferred with scholarship for meritorious performance by Reliance Industries Limited</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Cultural                 •   Won 1st prize in SHOUT (extempore) in Spandan'11 and in Group Dance in Spandan'12</Description>
+			</Achievement>
+			<Achievement>
+				<Description>IIT JEE'11               •   Ranked in top 0.5% of 5, 00, 000 students appearing for IIT JEE'11
+KVPY Scholar'11              •   Awarded scholarship by Department of Science and Technology, Government of India
+NTSE'08                 •   Secured rank in top 2000 among 2, 50, 000 students; by NCERT, Government of India
+Merit Scholarship - Class X      •   Conferred with scholarship for meritorious performance by Reliance Industries Limited
+INTERNSHIPS
+Developing Models for Attribute Analysis of Asset Liability Management Desk
+Kotak Mahindra Bank            • Attributed (factor analysis) Treasury - P&amp;L into 8 major factors/reasons; used MS Excel
+Limited                  • Applied quantitative and qualitative methodologies on monthly basis P&amp;L for past 5 years
+(May'14 - Jul'14)
+• Employed linear programming techniques for portfolio optimisation
+Power Plant - System Study - Its Maintenance &amp; Operation
+Reliance Industries           • Proposed addition of CPU (Condensate Pre-heating Unit) in flue path after economiser
+Limited                 • Increased efficiency of HRSG (Heat Recovery Steam Generator) by 1.5 - 2%
+(May'13 - Jul'13)
+• Designed ways to tackle real life problems in setting up new project "Captive Power Plant"
+
+PROJECTS
+Portfolio Modeling with         •   Studying nature of data sets; checking linearity and lag relations; filtering outliers
+Robustness in Forecasting        •   Forecasting stock prices of competitors by pattern observation and regression models
+&amp; Optimization              •   Improving forecast results by Hidden Markov Model to build dynamic portfolio
+(On Going)              •   Applying learning algorithms and linear/non-linear optimization tools on portfolio
+Assembly Line Scheduling         •   Formulated an optimised method to minimize time and cost in assembly line
+(Jul'13 - Dec'13)          •   Implemented dynamic programming in C language
+Dynamical Billiards Study        •   Analyzed and computed billiard system for different parameters on MATLAB
+(Aug'13 - Nov'13)          •   Examined sensitivity dependence on initial conditions, periodic orbits and chaos
+Prime No. Generation           •   Developed methods for generating new prime numbers from given finite set of prime
+(Aug'13 - Nov'13)              numbers and checked efficiency on Python; Open problem</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2015-07-04</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Rishabh Jain's experience appears to be concentrated in Information Technology / Big Data, with exposure to Finance / Other. Rishabh Jain's experience appears to be LOWER-TO-MID LEVEL, with about 3 years of experience, with no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>38</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>3</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="563.90" percentOfOverall="28.83" percentOfParent="28.83">
+						<sov:BestFitTaxonomy id="553" rootId="Sovren" name="Big Data" weight="419.90" percentOfOverall="21.47" percentOfParent="74.46" />
+						<sov:BestFitTaxonomy id="720" rootId="Sovren" name="Machine Learning" weight="48.00" percentOfOverall="2.45" percentOfParent="8.51" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="7" rootId="Sovren" name="Finance" weight="417.60" percentOfOverall="21.35" percentOfParent="21.35">
+						<sov:BestFitTaxonomy id="243" rootId="Sovren" name="Other" weight="196.80" percentOfOverall="10.06" percentOfParent="47.13" />
+						<sov:BestFitTaxonomy id="235" rootId="Sovren" name="Financial Planning &amp; Analysis" weight="196.80" percentOfOverall="10.06" percentOfParent="47.13" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Hobbies>
+				<sov:Text>•   Secured 1st position in 3 intra college chess tournaments; played chess at State Level
+Social                  •   Organised Jodhpur's 1st Marathon to support women empowerment; core team member
+Cultural                 •   Won 1st prize in SHOUT (extempore) in Spandan'11 and in Group Dance in Spandan'12
+
+
+
+•   Puzzle solving, swimming, playing strategy games
+Address: Room No. 105, Type I, IIT Jodhpur Hostels, Jodhpur, Rajasthan - 342005</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="2" ends="5" sectionType="EDUCATION">EDUCATIONAL BACKGROUND</sov:Section>
+				<sov:Section starts="6" ends="33" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">ACADEMIC ACHIEVEMENTS</sov:Section>
+				<sov:Section starts="34" ends="47" sectionType="WORK HISTORY" />
+				<sov:Section starts="48" ends="50" sectionType="HOBBIES">Sports</sov:Section>
+				<sov:Section starts="51" ends="52" sectionType="HOBBIES">Interests</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>5031</sov:ParsedTextLength>
+			<sov:ParseTime>562</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

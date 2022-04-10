@@ -1,0 +1,354 @@
+title,role
+product manager,product manager
+product management,product manager
+director of product,product manager
+head of product,product manager
+aerospace engineer,aerospace engineering
+aerospace structures,aerospace engineering
+astrodynamics,aerospace engineering
+flight dynamics,aerospace engineering
+flight mechanics,aerospace engineering
+aircraft design,aerospace engineering
+aeroelasticity,aerospace engineering
+aircraft propulsion,aerospace engineering
+reinforcement learning,artificial intelligence
+artificial intelligence,artificial intelligence
+deep learning,artificial intelligence
+deep neural networks,artificial intelligence
+convolutional deep neural networks,artificial intelligence
+deep belief networks,artificial intelligence
+convolutional deep belief networks,artificial intelligence
+deep learning engineer,artificial intelligence
+neural networks,artificial intelligence
+artificial neural networks,artificial intelligence
+restricted boltzmann machine,artificial intelligence
+powertrain,automotive engineering
+vehicle dynamics,automotive engineering
+vehicle engineering,automotive engineering
+automotive engineering,automotive engineering
+powertrain calibration,automotive engineering
+internal combustion engines,automotive engines
+fuel system design,automotive engines
+fuel injection,automotive engines
+engine development,automotive engines
+emissions control,automotive engines
+emissions testing,automotive engines
+fuel system design,automotive engines
+calibration engineer,automotive engines
+combustion and flow simulation,automotive engines
+automotive engine,automotive engines
+vehicle safety,automotive safety
+automotive safety,automotive safety
+crash analyst,automotive safety
+crashworthiness,automotive safety
+occupant restraint systems,automotive safety
+hadoop,big data
+big data,big data
+big data architect,big data
+hadoop developer,big data
+big data engineer,big data
+hadoop administrator,big data
+business analysis,business analysis
+business analyst,business analysis
+market research,business analysis
+strategy,business analysis
+business strategy,business analysis
+technology strategist,business analysis
+business analysis,business analysis
+business strategy,business analysis
+business management,business analysis
+noise and vibrations engineer,cae analysis
+finte element analyst,cae analysis
+fea analyst,cae analysis
+fea engineer,cae analysis
+durability analyst,cae analysis
+nvh engineer,cae analysis
+stress analyst,cae analysis
+fe analysis,cae analysis
+finite element analysis,cae analysis
+multi body dynamics,cae analysis
+cae engineer,cae analysis
+cae specialist,cae analysis
+duribility cae engineer,cae analysis
+stress engineer,cae analysis
+constitutive modeling,computational and applied mechanics
+contact mechanics,computational and applied mechanics
+continuum mechanics,computational and applied mechanics
+multiscale modeling,computational and applied mechanics
+materials modeling,computational and applied mechanics
+applied mechanics,computational and applied mechanics
+viscoelasticity,computational and applied mechanics
+mechanical behavior of materials,computational and applied mechanics
+structural optimization,computational and applied mechanics
+experimental mechanics,computational and applied mechanics
+structural mechanics,computational and applied mechanics
+plasticity,computational and applied mechanics
+multiphysics modeling,computational and applied mechanics
+applied mechanics,computational and applied mechanics
+computational materials science,computational and applied mechanics
+solid mechanics,computational and applied mechanics
+computational mechanics,computational and applied mechanics
+structural dynamics,computational and applied mechanics
+experimental mechanics,computational and applied mechanics
+solid mechanics,computational and applied mechanics
+quantitative modeling,data analysis
+quantitative development,data analysis
+data visualization,data analysis
+tableau,data analysis
+statistical modeling,data analysis
+data analyst,data analysis
+data analytics,data analysis
+data analysis,data analysis
+business analytics,data analysis
+business intelligence,data analysis
+quantitative,data analysis
+data engineer,data engineering
+data architect,data engineering
+etl architect,data engineering
+etl engineer,data engineering
+data munging,data science
+data products,data science
+apache mahout,data science
+recommender systems,data science
+data science,data science
+web scraping,data science
+web crawling,data science
+text mining,data science
+natural language processing,data science
+predictive analytics,data science
+predictive modeling,data science
+machine learning,data science
+data analytics,data science
+text classification,data science
+text analysis,data science
+statistical machine translation,data science
+computational semantics,data science
+web mining,data science
+semantic search,data science
+lexical semantics,data science
+information retrieval,data science
+image processing,data science
+convex optimization,data science
+bayesian networks,data science
+anomaly detection,data science
+social network analytics,data science
+probabilistic models,data science
+data scientist,data science
+data science,data science
+data mining,data science
+data science,data science
+mysql developer,database development
+microsoft access developer,database development
+sql server developer,database development
+database developer,database development
+data warehouse developer,database development
+database,database development
+data warehouse developer,database development
+data warehouse architecture,database development
+database administrator,database development
+database architect,database development
+database application engineer,database development
+sql server developer,database development
+mechatronics,dynamics and control
+robotics,dynamics and control
+simulink,dynamics and control
+robot control,dynamics and control
+robotic surgery,dynamics and control
+wind tunnel,fluid dynamics
+aeroacoustics,fluid dynamics
+turbulence,fluid dynamics
+cfd engineer,fluid dynamics
+fluid mechanics,fluid dynamics
+html developer,front end development
+angularjs developer,front end development
+javascript developer,front end development
+nodejs developer,front end development
+jquery developer,front end development
+front end developer,front end development
+web designer,front end development
+front end engineer,front end development
+ui developer,front end development
+ui designer,front end development
+user interface developer,front end development
+web designer,front end development
+recruiter,human resources
+human resource,human resources
+recruiting,human resources
+technical recruiting,human resources
+sourcing,human resources
+talent management,human resources
+benefits negotiation,human resources
+executive search,human resources
+executive management,human resources
+performance management,human resources
+talent acquisition,human resources
+human capital management,human resources
+talent assessment,human resources
+hr strategy,human resources
+talent development,human resources
+human resources,human resources
+industrial engineer,industrial engineering
+supply chain,industrial engineering
+manufacturing engineer,manufacturing
+manufacturing processes,manufacturing
+manufacturing operations,manufacturing
+manufacturing engineering,manufacturing
+process manufacturing,manufacturing
+assembly processes,manufacturing
+design for manufacturing,manufacturing
+process engineering,manufacturing
+manufacturing systems,manufacturing
+corporate identity,marketing
+branding and identity,marketing
+advertising,marketing
+copywriting,marketing
+marketing strategy,marketing
+marketing,marketing
+marketing research,marketing
+product marketing,marketing
+marketing,marketing
+marketing analyst,marketing
+marketing and communications,marketing
+marketing specialist,marketing
+online marketing,marketing
+search engine marketing,marketing
+computational materials science,materials science and engineering
+materials engineer,materials science and engineering
+material science,materials science and engineering
+metallurgy,materials science and engineering
+physical metallurgy,materials science and engineering
+composite structures,materials science and engineering
+mechanical engineer,mechanical engineering
+mechanical design engineer,mechanical engineering
+android developer,mobile development
+android developer,mobile development
+app developer,mobile development
+app developer,mobile development
+ios developer,mobile development
+nlp engineer,natural language processing
+natural language processing,natural language processing
+sentiment analysis,natural language processing
+computational linguistics,natural language processing
+semantic analysis,natural language processing
+catia designer,product design
+proe designer,product design
+unigraphics nx designer,product design
+ugs nx5 designer,product design
+solid works designer,product design
+industrial design,product design
+product design,product design
+mechanical product design,product design
+industrial design,product design
+cad design,product design
+surface development,product design
+catia,product design
+icem surf,product design
+flotherm,product design
+ugs,product design
+unigraphics,product design
+concept modeling,product design
+generative shape design,product design
+alias automotive,product design
+automotive interiors,product design
+parametric modeling,product design
+catia,product design
+pro engineer,product design
+cad,product design
+product definition,product management
+product strategy,product management
+product marketing,product management
+product development,product management
+product management,product management
+product management,product management
+product requirements,product management
+project management,project management
+project manager,project management
+radio broadcasting,public relations
+researcher scientist,research
+research coordinator,research
+research scientist,research
+new business developer,sales and business development
+business development,sales and business development
+customer experience,sales and business development
+strategic partnerships,sales and business development
+sales,sales and business development
+sales engineer,sales and business development
+business development,sales and business development
+lead generation,sales and business development
+sales associate,sales and business development
+software engineering,software development
+software solution architecture,software development
+distributed development,software development
+application architecture,software development
+cpp developer,software development
+c++ developer,software development
+java developer,software development
+j2ee application developer,software development
+visual c++ developer,software development
+nosql dba developer,software development
+mongodb dba developer,software development
+cassandra architect developer,software development
+software engineer,software development
+software developer,software development
+software programmer,software development
+software consultant,software development
+software applications engineer,software development
+technical staff,software development
+staff software engineer,software development
+software development engineer,software development
+software developer,software development
+developer,software development
+java developer,software development
+software engineer,software development
+lettuce,software testing
+cucumber,software testing
+rspec,software testing
+selenium,software testing
+software quality engineer,software testing
+software testing,software testing
+software test engineer,software testing
+software test engineer in development,software testing
+software quality tester engineer,software testing
+software quality assurance tester,software testing
+systems developer,system administration
+system administrator,system administration
+system developer,system administration
+business systems analyst,systems analyst
+instructor,teaching
+math tutor,teaching
+math teacher,teaching
+thermal modeling,thermal and fluids sciences
+thermal science,thermal and fluids sciences
+thermal testing,thermal and fluids sciences
+thermal system design,thermal and fluids sciences
+thermal management,thermal and fluids sciences
+thermal energy storage,thermal and fluids sciences
+thermodynamic modeling,thermal and fluids sciences
+thermal hydraulics,thermal and fluids sciences
+aerothermodynamics,thermal and fluids sciences
+ux designer,user experience
+user experience designer,user experience
+information architect,user experience
+user experience,user experience
+user research,user experience
+interaction designer,user experience
+user experience testing,user experience
+user  interface design,user experience
+usability engineer,user experience
+ux designer,user experience
+user experience designer,user experience
+user experience,user experience
+usability researcher,user experience
+visual designer,visual design
+graphic designer,visual design
+designer,visual design
+python developer,web development
+django developer,web development
+web application security,web development
+php,web development
+mysql,web development
+cake php,web development
+web developer,web development
+web developer,web development
+website developer,web development
+flash developer,web development

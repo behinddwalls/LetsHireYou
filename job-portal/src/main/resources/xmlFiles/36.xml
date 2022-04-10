@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>SHASHANK BHARADWAJ</FormattedName>
+				<GivenName>SHASHANK</GivenName>
+				<FamilyName>BHARADWAJ</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>600 034</PostalCode>
+					<Region>TAMIL NADU</Region>
+					<Municipality>Chennai</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91-9840862749</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>shashu1992@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>ZS Associates</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Sales and Marketing Consulting .In</Title>
+					<OrgName>
+						<OrganizationName>ZS Associates</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Pune</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Work Experience             ZS Associates                 Pune, India                     Sep 2014 - Present
+ZS Associates is a Global leader in Sales and Marketing Consulting .In my role as a Business Analyst, I am
+responsible for enabling clients to make well informed business decisions using retrospective Analysis,
+Modeling and Simulation.
+
+Project Experience
+1)   Impact of Sampling, Calls and Rep Visits on Sales of the drug
+2)   Calculating the ROI of Promotional Events
+3)   Effect of Dosing frequency/ Payer on patient share
+4)   Creating trackers to monitor Key Performance Metrics ( share, Source of Business ) of drugs
+5)   Patient flow analysis to understand the reasons behind a particular patient treatment regime
+
+Skill Set and Awards
+•    First place in ZS Case study competition held during the ZStart program.•
+•    Won the Innovation Award for creating a process with maximum downstream value •
+•    Proficiency in using analytic software such as SAS, SQL and Excel and exposure to R and Tableau.•</Description>
+					<StartDate>
+						<AnyDate>2014-09-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-02</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>20</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>21</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>40</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Volkswagen</EmployerOrgName>
+				<PositionHistory positionType="internship">
+					<Title>Internship</Title>
+					<OrgName>
+						<OrganizationName>Volkswagen</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Pune</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Internship                       Volkswagen                      Pune, India                   June 2013-July 2013
+
+Volkswagen is a German based OEM with worldwide repute. I worked in the Critical Parts Development
+department which is a subsidy of the supply chain management.
+
+•    Responsible for the scheduling and part development of front headrest.
+•    Critical Analysis of seat belt assembly failure during a crash test in ARAI.
+•    Oversaw plant audit process at various sub supplier units in Pune.</Description>
+					<StartDate>
+						<AnyDate>2013-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-07-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>27</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>113</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Ashok Leyland</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Ashok Leyland</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>TAMIL NADU</Region>
+							<Municipality>Chennai</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>In-Plant Training                Ashok Leyland                   Chennai, India                     June 2012
+
+•    Understood the process involved in engine and chassis assembly and did a research on the efficiencies of the machines involved in production.•</Description>
+					<StartDate>
+						<AnyDate>2012-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-06-30</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbability>20</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>108</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>TVS</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>TVS</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>TAMIL NADU</Region>
+							<Municipality>Chennai</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>In-Plant Training                Delphi, TVS                      Chennai, India                    June 2011
+
+•    Gained practical knowledge on how fuel injectors and pump works.•
+•    Performed emission test to determine the quantity of CO2 and other gases present in it.•</Description>
+					<StartDate>
+						<AnyDate>2011-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2011-06-30</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>108</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="college">
+				<School>
+					<SchoolName>National Institute of Technology</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Tamil Nadu</Region>
+					<Municipality>Tiruchirappalli</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech</DegreeName>
+					<DegreeDate>
+						<AnyDate>2014-05-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Mechanical Engineering</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>7.97</StringValue>
+							</MeasureValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2010-07-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2014-05-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Tiruchirappalli, Tamil Nadu              National Institute of Technology, Trichy             July 2010 – May 2014
+    B.Tech in Mechanical Engineering May 2014. Course CGPA: 7.97</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>TAMIL NADU</Region>
+					<Municipality>Chennai</Municipality>
+				</PostalAddress>
+				<Degree degreeType="secondary">
+					<DegreeName>CBSE</DegreeName>
+					<DegreeDate>
+						<AnyDate>2010-05-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>92.4</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2010-05-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Chennai, India	P.S.B.B.K.K Nagar Branch	May 2010
+Secured 92.4% in the CBSE conducted All India Senior School Certificate Examination</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.924</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>TAMIL NADU</Region>
+					<Municipality>Chennai</Municipality>
+				</PostalAddress>
+				<Degree degreeType="secondary">
+					<DegreeName>CBSE</DegreeName>
+					<DegreeDate>
+						<AnyDate>2008-05-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Finance, Marketing, Economics and Financial Markets</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>92.2</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2008-05-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Chennai, India	P.S.B.B.K.K Nagar Branch	May 2008
+Secured 92.2% in the CBSE conducted All India Secondary School Examination
+
+
+ACADEMIC ACHIEVEMENTS AND CO-CURRICULAR ACTIVITIES
+
+•   Completed 5 courses in the MOOC Coursera in Finance, Marketing, Economics and Financial Markets.•
+•   Submitted a paper titled "Comparison of genetic algorithm and particle swarm optimisation in machining
+parameters optimisation of drilling operations" in the Taylor and Francis Journal.•</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:Graduated>true</sov:Graduated>
+							<sov:NormalizedGPA>0.922</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="college">
+				<School>
+					<SchoolName>inter college cultural extravaganza of NIT</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>TAMIL NADU</Region>
+					<Municipality>Trichy</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2013-01-01</AnyDate>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2013-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>•   Head of Publicity (Online Publicity and Company Relations) and member of the extended core for •          Festember 2013, the inter college cultural extravaganza of NIT, Trichy.•</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-4</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="college">
+				<School>
+					<SchoolName>intra-college sports event</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>TAMIL NADU</Region>
+					<Municipality>Trichy</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2014-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>education</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2014-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>•   Head of Sports Fete 2014, an intra-college sports event to be held at NIT, Trichy.•
+•   Campaign Leader for Teach for India which aims to achieve education equity in India.•</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-5</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Secured 92.4% in the CBSE conducted All India Senior School Certificate Examination</Name>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary></QualificationSummary>
+			<Competency name="MECHANICAL ENGINEERING">
+				<CompetencyId id="5000203" />
+				<TaxonomyId id="733" idOwner="29" description="Sovren" />
+				<CompetencyEvidence name="MECHANICAL ENGINEERING" typeDescription="Found in EDUCATION; DEG-1" typeId="5000203" lastUsed="2014-05-01">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING">
+				<CompetencyId id="021241" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING" typeDescription="Found in EDUCATION; TRAINING; WORK HISTORY; DEG-3; POS-1" typeId="021241" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AND MARKETING">
+				<CompetencyId id="030010" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AND MARKETING" typeDescription="Found in WORK HISTORY; POS-1" typeId="030010" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AWARD">
+				<CompetencyId id="030006" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AWARD" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; PROFESSIONAL AFFILIATIONS; WORK HISTORY; POS-1" typeId="030006" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLIENTS">
+				<CompetencyId id="030017" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="CLIENTS" typeDescription="Found in WORK HISTORY; POS-1" typeId="030017" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL">
+				<CompetencyId id="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL" typeDescription="Found in WORK HISTORY; POS-1" typeId="022841" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="IN SALES">
+				<CompetencyId id="030458" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="IN SALES" typeDescription="Found in WORK HISTORY; POS-1" typeId="030458" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="METRICS">
+				<CompetencyId id="021737" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="METRICS" typeDescription="Found in WORK HISTORY; POS-1" typeId="021737" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="METRICS">
+				<CompetencyId id="9000108" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="METRICS" typeDescription="Found in WORK HISTORY; POS-1" typeId="9000108" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ON SALES">
+				<CompetencyId id="030561" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="ON SALES" typeDescription="Found in WORK HISTORY; POS-1" typeId="030561" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PROMOTIONAL">
+				<CompetencyId id="030019" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="PROMOTIONAL" typeDescription="Found in WORK HISTORY; POS-1" typeId="030019" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ROI">
+				<CompetencyId id="007211" />
+				<TaxonomyId id="245" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ROI" typeDescription="Found in WORK HISTORY; POS-1" typeId="007211" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ROI">
+				<CompetencyId id="007212" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="ROI" typeDescription="Found in WORK HISTORY; POS-1" typeId="007212" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES">
+				<CompetencyId id="007359" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES" typeDescription="Found in WORK HISTORY; POS-1" typeId="007359" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES AND">
+				<CompetencyId id="030004" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES AND" typeDescription="Found in WORK HISTORY; POS-1" typeId="030004" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES OF">
+				<CompetencyId id="030772" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES OF" typeDescription="Found in WORK HISTORY; POS-1" typeId="030772" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAMPLING">
+				<CompetencyId id="007414" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="SAMPLING" typeDescription="Found in WORK HISTORY; POS-1" typeId="007414" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAMPLING">
+				<CompetencyId id="007415" />
+				<TaxonomyId id="376" idOwner="15" description="Sovren" />
+				<CompetencyEvidence name="SAMPLING" typeDescription="Found in WORK HISTORY; POS-1" typeId="007415" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAMPLING">
+				<CompetencyId id="022615" />
+				<TaxonomyId id="330" idOwner="6" description="Sovren" />
+				<CompetencyEvidence name="SAMPLING" typeDescription="Found in WORK HISTORY; POS-1" typeId="022615" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="007445" />
+				<TaxonomyId id="341" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in WORK HISTORY; POS-1" typeId="007445" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="100728601" idOwner="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in WORK HISTORY; POS-1" typeId="100728601" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="1400078" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400078" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5540979" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in WORK HISTORY; POS-1" typeId="5540979" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5551185" />
+				<TaxonomyId id="555" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in WORK HISTORY; POS-1" typeId="5551185" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="9000114" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in WORK HISTORY; POS-1" typeId="9000114" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="Serial Attached SCSI">
+				<CompetencyId id="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="Serial Attached SCSI" typeDescription="Found in WORK HISTORY; POS-1" typeId="1007286" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SIMULATION">
+				<CompetencyId id="007995" />
+				<TaxonomyId id="200" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SIMULATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="007995" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL">
+				<CompetencyId id="008481" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL" typeDescription="Found in WORK HISTORY; POS-1" typeId="008481" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ISO">
+				<CompetencyId id="5551315" />
+				<TaxonomyId id="556" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ISO" typeDescription="Found in TRAINING" typeId="5551315">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ISO">
+				<CompetencyId id="7000130" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ISO" typeDescription="Found in TRAINING" typeId="7000130">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY">
+				<CompetencyId id="022441" />
+				<TaxonomyId id="304" idOwner="11" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY" typeDescription="Found in WORK HISTORY; POS-2; POS-3" typeId="022441" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY">
+				<CompetencyId id="022442" />
+				<TaxonomyId id="379" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY" typeDescription="Found in WORK HISTORY; POS-2; POS-3" typeId="022442" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSEMBLY">
+				<CompetencyId id="080777" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ASSEMBLY" typeDescription="Found in WORK HISTORY; POS-2; POS-3" typeId="080777" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRAINING">
+				<CompetencyId id="200064" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="TRAINING" typeDescription="Found in WORK HISTORY; POS-3; POS-4" typeId="200064" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDIT">
+				<CompetencyId id="005582" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="AUDIT" typeDescription="Found in WORK HISTORY; POS-2" typeId="005582" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDIT">
+				<CompetencyId id="005583" />
+				<TaxonomyId id="245" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="AUDIT" typeDescription="Found in WORK HISTORY; POS-2" typeId="005583" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AUDIT">
+				<CompetencyId id="005584" />
+				<TaxonomyId id="943" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="AUDIT" typeDescription="Found in WORK HISTORY; POS-2" typeId="005584" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OEM">
+				<CompetencyId id="003671" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="OEM" typeDescription="Found in WORK HISTORY; POS-2" typeId="003671" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SCHEDULING">
+				<CompetencyId id="022739" />
+				<TaxonomyId id="208" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="SCHEDULING" typeDescription="Found in WORK HISTORY; POS-2" typeId="022739" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SCHEDULING">
+				<CompetencyId id="022740" />
+				<TaxonomyId id="460" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="SCHEDULING" typeDescription="Found in WORK HISTORY; POS-2" typeId="022740" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SUPPLY CHAIN">
+				<CompetencyId id="022128" />
+				<TaxonomyId id="461" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="SUPPLY CHAIN" typeDescription="Found in WORK HISTORY; POS-2" typeId="022128" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SUPPLY CHAIN">
+				<CompetencyId id="7000144" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="SUPPLY CHAIN" typeDescription="Found in WORK HISTORY; POS-2" typeId="7000144" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SUPPLY CHAIN MANAGEMENT">
+				<CompetencyId id="008919" idOwner="022128" />
+				<TaxonomyId id="461" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="SUPPLY CHAIN MANAGEMENT" typeDescription="Found in WORK HISTORY; POS-2" typeId="008919" lastUsed="2013-07-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CHASSIS">
+				<CompetencyId id="022132" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="CHASSIS" typeDescription="Found in WORK HISTORY; POS-3" typeId="022132" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DELPHI">
+				<CompetencyId id="015156" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DELPHI" typeDescription="Found in WORK HISTORY; POS-4" typeId="015156" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EMISSION">
+				<CompetencyId id="016218" />
+				<TaxonomyId id="328" idOwner="6" description="Sovren" />
+				<CompetencyEvidence name="EMISSION" typeDescription="Found in WORK HISTORY; POS-4" typeId="016218" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EMISSION">
+				<CompetencyId id="022648" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="EMISSION" typeDescription="Found in WORK HISTORY; POS-4" typeId="022648" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ALGORITHM">
+				<CompetencyId id="022551" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHM" typeDescription="Found in EDUCATION; DEG-3" typeId="022551" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ALGORITHM">
+				<CompetencyId id="022552" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHM" typeDescription="Found in EDUCATION; DEG-3" typeId="022552" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCE">
+				<CompetencyId id="023147" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCE" typeDescription="Found in EDUCATION; DEG-3" typeId="023147" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL MARKETS">
+				<CompetencyId id="017466" />
+				<TaxonomyId id="236" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCIAL MARKETS" typeDescription="Found in EDUCATION; DEG-3" typeId="017466" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GENETIC ALGORITHM">
+				<CompetencyId id="018329" />
+				<TaxonomyId id="373" idOwner="15" description="Sovren" />
+				<CompetencyEvidence name="GENETIC ALGORITHM" typeDescription="Found in EDUCATION; DEG-3" typeId="018329" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="JOURNAL">
+				<CompetencyId id="026929" />
+				<TaxonomyId id="944" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="JOURNAL" typeDescription="Found in EDUCATION; DEG-3" typeId="026929" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="JOURNAL">
+				<CompetencyId id="026930" />
+				<TaxonomyId id="960" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="JOURNAL" typeDescription="Found in EDUCATION; DEG-3" typeId="026930" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MACHINING">
+				<CompetencyId id="023704" />
+				<TaxonomyId id="206" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="MACHINING" typeDescription="Found in EDUCATION; DEG-3" typeId="023704" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MACHINING">
+				<CompetencyId id="023705" />
+				<TaxonomyId id="287" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="MACHINING" typeDescription="Found in EDUCATION; DEG-3" typeId="023705" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPERATIONS">
+				<CompetencyId id="003875" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="OPERATIONS" typeDescription="Found in EDUCATION; DEG-3" typeId="003875" lastUsed="2008-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Won the Innovation Award for creating a process with maximum downstream value</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Recipient of Promising Player and Best Performance Award at TTT tennis awards held at YMCA</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2015-07-02</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>SHASHANK BHARADWAJ's experience appears to be concentrated in Sales / General, with exposure to Marketing / General. SHASHANK BHARADWAJ's experience appears to be ENTRY LEVEL, with only 13 months of experience, with no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>13</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>1</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="20" rootId="Sovren" name="Sales" weight="1899.07" percentOfOverall="25.03" percentOfParent="25.03">
+						<sov:BestFitTaxonomy id="105" rootId="Sovren" name="General" weight="1899.07" percentOfOverall="25.03" percentOfParent="100.00" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="14" rootId="Sovren" name="Marketing" weight="905.47" percentOfOverall="11.93" percentOfParent="11.93">
+						<sov:BestFitTaxonomy id="249" rootId="Sovren" name="General" weight="732.67" percentOfOverall="9.66" percentOfParent="80.92" />
+						<sov:BestFitTaxonomy id="588" rootId="Sovren" name="Data &amp; Analytics" weight="172.80" percentOfOverall="2.28" percentOfParent="19.08" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="8" ends="46" sectionType="WORK HISTORY">WORK EXPERIENCE AND INTERNSHIPS</sov:Section>
+				<sov:Section starts="47" ends="71" sectionType="EDUCATION">EDUCATION</sov:Section>
+				<sov:Section starts="72" ends="84" sectionType="PROFESSIONAL AFFILIATIONS">EXTRA-CURRICULAR ACTIVITIES</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>4981</sov:ParsedTextLength>
+			<sov:ParseTime>531</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

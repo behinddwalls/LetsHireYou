@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<!-- These contains the form that has to be shown -->
+<!--  Form used to edit jobExp -->
+<div class="addNewJobExperience">
+	<form role="form" class="userExperienceForm basic-form col-sm-8">
+
+		<div class="form-group jobExpIdGrp" style="display: none">
+			<input type="text" class="form-control jobExpId" name="experienceId" 
+				value=' + expObj.experienceId + '>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group jobTitleGrp">
+					<label for="jobTitle">Title:</label> <input type="text" 
+						class="form-control jobExpTitle" name="roleName" 
+						value="' + ((checkEmpty(expObj.roleName))?"":expObj.roleName) + '">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group jobCompanyGrp">
+					<label for="jobCompany">Company Name:</label> <input type="text" 
+						class="form-control typeahead jobExpCompany" name="companyName" 
+						value="' + ((checkEmpty(expObj.companyName))?"":expObj.companyName) + '">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group jobStartDateGrp">
+					<label for="jobStartDate">Start Date:</label> <input type="date" 
+						class="form-control jobExpStartDate" name="startDate" 
+						value=' + ((checkEmpty(expObj.startDate))?"":expObj.startDate) + '>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group jobEndDate">
+					<label for="jobEndDate">End Date:</label> <input type="date" 
+						class="form-control jobExpEndDate" name="endDate" 
+						value=' + ((checkEmpty(expObj.endDate))?"":expObj.endDate) + '>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group jobLocationGrp">
+					<label for="jobLocation">Location:</label> <input type="text" 
+						class="form-control jobExpLocation autocompleteAddress" 
+						name="location" value="' + ((checkEmpty(expObj.location))?"":expObj.location) + '">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group jobDescriptionGrp">
+					<label for="jobDescription">Description:</label>
+					<textarea class="form-control jobExpDescription" name="description">' + ((checkEmpty(expObj.description))?"":expObj.description) + '</textarea>
+				</div>
+			</div>
+		</div>
+		<div class="form-group text-center">
+			<button type="button" style="margin-left: 10px; margin-right: 10px"  
+				class="btn btn-primary text-center cancelJobExp">
+				Cancel<i style="margin-left: 4px; margin-right: 4px; color:rgb(190, 35, 35)" 
+					class="fa fa-remove"></i>
+			</button>
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center saveJobExp">
+				Save<i style="margin-left: 4px; margin-right: 4px; color:rgb(54, 207, 120)" 
+					class="fa fa-check"></i>
+			</button>
+			<button type="button" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center deleteJobExp">
+				Remove<i style="margin-left: 4px; margin-right: 4px; color:rgb(236, 244, 216)" 
+					class="fa fa-trash-o"></i>
+			</button>
+		</div>
+	</form>
+</div>
+
+
+<!--  Form used to add new JobExperience -->
+<div class="addNewJobExperience basic-form col-sm-8">
+	<form role="form" class="userExperienceForm">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group jobTitleGrp">
+					<label for="jobTitle">Title:</label> <input type="text" 
+						placeholder="Add Job Title" class="form-control jobTitle" name="roleName">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group jobCompanyGrp">
+					<label for="jobCompany">Company Name:</label> <input type="text" 
+						placeholder="Add Company Name" class="form-control typeahead jobCompany" name="companyName">
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group jobStartDateGrp">
+					<label for="jobStartDate">Start Date:</label> <input type="date" 
+						class="form-control jobStartDate" name="startDate">
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="form-group jobEndDateGrp">
+					<label for="jobEndDate">End Date:</label> <input type="date" 
+						class="form-control jobEndDate" name="endDate">
+				</div>
+			</div>
+		</div>		
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group jobLocationGrp">
+					<label for="jobLocation">Location:</label> <input type="text" 
+						placeholder="Add Location" class="form-control jobLocation autocompleteAddress" 
+						name="location">
+				</div>
+			</div>
+		</div>		
+		<div class="row">
+			<div class="col-sm-10">
+				<div class="form-group jobDescriptionGrp">
+					<label for="jobDescription">Description:</label>
+					<textarea class="form-control jobExpDescription" placeholder="Add Description" name="description"></textarea>
+				</div>
+			</div>
+		</div>
+		<div class="form-group text-center">
+			<button type="button" style="margin-left: 10px; margin-right: 10px"   
+				class="btn btn-primary text-center cancelJobExp">
+				Cancel<i style="margin-left: 4px; margin-right: 4px; color:rgb(190, 35, 35)" 
+					class="fa fa-remove"></i>
+			</button>
+			<button type="submit" style="margin-left: 10px; margin-right: 10px" 
+				class="btn btn-primary text-center saveJobExp">
+				Save<i style="margin-left: 4px; margin-right: 4px; color:rgb(54, 207, 120)" 
+					class="fa fa-check"></i>
+			</button>
+		</div>
+	</form>
+</div>
+
+
+<!--  =============================== JSTL =============================== -->
+<!-- 	<c:forEach items="${userData.getUserExperienceDataModels()}"
+			var="userExpData" varStatus="theCount">
+			<form role="form" class="userExperienceForm">
+				<div class="form-group jobTitleGrp">
+					<label for="jobTitle">JobTitle:</label> <input type="text"
+						class="form-control jobTitle" id="jobTitle${theCount.index}"
+						name="roleName"
+						value="<c:out value='${userExpData.getRoleName()}'/>">
+				</div>
+				<div class="form-group jobCompanyGrp">
+					<label for="jobCompany">jobCompany:</label> <input type="text"
+						class="form-control jobCompany" id="jobCompany${theCount.index}"
+						name="companyName"
+						value="<c:out value='${userExpData.getCompanyName()}'/>">
+				</div>
+				<div class="form-group jobDescriptionGrp">
+					<label for="jobDescription">JobDescription:</label> <input
+						type="text" class="form-control jobDescription"
+						id="jobDescription${theCount.index}" name="description"
+						value="<c:out value='${userExpData.getDescription()}'/>">
+				</div>
+				<div class="form-group jobStartDateGrp">
+					<label for="jobStartDate">StartDate:</label> <input type="text"
+						class="form-control jobStartDate"
+						id="jobStartDate${theCount.index}" name="startDate"
+						value="<c:out value='${userExpData.getStartDate()}'/>">
+				</div>
+				<div class="form-group jobEndDate">
+					<label for="jobEndDate">jobEndDate:</label> <input type="text"
+						class="form-control jobEndDate" id="jobEndDate${theCount.index}"
+						name="endDate"
+						value="<c:out value='${userExpData.getEndDate()}'/>">
+				</div>
+				<div class="form-group jobLocationGrp">
+					<label for="jobLocation">jobLocation:</label> <input type="text"
+						class="form-control jobLocation" id="jobLocation${theCount.index}"
+						name="location"
+						value="<c:out value='${userExpData.getLocation()}'/>">
+				</div>
+
+				<div class="form-group text-center" id="editBasicFormGrp">
+					<button id="editJobExp${theCount.index}" type="button"
+						class="btn btn-primary text-center">EditJob</button>
+				</div>
+				<div class="form-group text-center" id="saveBasicFormGrp"
+					style='display: none'>
+					<button id="saveJobExp${theCount.index}" type="submit"
+						class="btn btn-primary text-center" disabled='disabled'>SAVE
+						JOB</button>
+				</div>
+
+			</form>
+		</c:forEach>  -->

@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Vibhor Mehra</FormattedName>
+				<GivenName>Vibhor</GivenName>
+				<FamilyName>Mehra</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91 9663033441</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>vibhorm91@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Mu Sigma Business Solutions Pvt Ltd</EmployerOrgName>
+				<PositionHistory positionType="internship" currentEmployer="true">
+					<Title>Trainee Decision Scientist</Title>
+					<OrgName>
+						<OrganizationName>Mu Sigma Business Solutions Pvt Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bangalore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Trainee Decision Scientist at Mu Sigma Business Solutions Pvt Ltd, Bangalore                 (August '14 - Present)
+
+
+Roles and Responsibilities
+CPG / FMCG
+Customer Segmentation and Personalized Campaign Modelling
+• Assisted marketing team of one of the World's largest CPG/FMCG company in designing personalized mobile
+marketing campaign for a dish wash brand
+• Built heuristic model in R to predict/impute features for mobile numbers such as purchasing power,
+incentive to be offered and SKU suggestion based on information available by the virtue of source, business
+knowledge, and consumer behaviour
+• Used data visualization to effectively show linkages across different datasets and generate insights
+
+News, Financial Information and Media Provider
+Application Recommendation Engine
+• Worked along with the Marketing Strategy and Analytics team of leading News and Financial Information
+provider to build an app recommendation engine to support retention strategies of the organization
+• Built algorithm and supporting codes in SQL and R for recommendation process based on usage behaviour and set triggers
+
+News, Financial Information and Media Provider
+Tableau Dashboard
+• Wrote SQL to pull data from varies data sources and perform calculation to provide automated fields to fed into Tableau
+• Collated different metrics that are most meaning full for various stakeholders and represented them for better insight generation and measurement of the performance of pricing model at different levels</Description>
+					<StartDate>
+						<AnyDate>2014-08-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-04</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>31</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>31</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>113</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Birla Institute</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Engineering</DegreeName>
+					<DegreeDate>
+						<AnyDate>2014-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Engineering</Name>
+					</DegreeMajor>
+					<DegreeMinor>
+						<Name>Technology</Name>
+					</DegreeMinor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2014-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Year     Qualifying Examination	Institute	CPGA / Percentage
+2014     Bachelor of Engineering (Honours) in Civil        Birla Institute of          7.65
+Engineering	Technology and Science</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="highschool">
+				<School>
+					<SchoolName>Evergreen Public School</SchoolName>
+				</School>
+				<Degree degreeType="high school or equivalent">
+					<DegreeName>School Certificate</DegreeName>
+					<DegreeDate>
+						<AnyDate>2010-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Examination</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>89.3</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2010-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2010     All India Senior School Certificate Examination   Evergreen Public School     89.3%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.893</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>Ryan International School</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeName>CBSE</DegreeName>
+					<DegreeDate>
+						<AnyDate>2008-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>86.6</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2008-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>(CBSE)
+2008     All India Secondary School Examination (CBSE)     Ryan International School   86.6%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.866</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>All India Senior School Certificate Examination   Evergreen Public School     89.3</Name>
+				<Description>certification</Description>
+				<EffectiveDate>
+					<FirstIssuedDate>
+						<AnyDate>2010-01-01</AnyDate>
+					</FirstIssuedDate>
+				</EffectiveDate>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Technical Skills
+•   Programming Languages/Tools - R, SQL, SAS, MS Excel, Tableau, Programming-Basics, IMRB's Pulse Plus, MS
+Power Point
+•   Machine Learning - Naïve Bayes Algorithm
+•   Databases - EDW, IMRB, AC Nielsen</QualificationSummary>
+			<Competency name="ALGORITHM">
+				<CompetencyId id="022551" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHM" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="022551" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ALGORITHM">
+				<CompetencyId id="022552" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHM" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="022552" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUYING/PROCUREMENT">
+				<CompetencyId id="012264" />
+				<TaxonomyId id="458" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="BUYING/PROCUREMENT" typeDescription="Found in WORK HISTORY; POS-1" typeId="012264" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA SOURCES">
+				<CompetencyId id="5530960" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA SOURCES" typeDescription="Found in WORK HISTORY; POS-1" typeId="5530960" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA VISUALIZATION">
+				<CompetencyId id="5530962" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA VISUALIZATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="5530962" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATASETS">
+				<CompetencyId id="5530959" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATASETS" typeDescription="Found in WORK HISTORY; POS-1" typeId="5530959" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING">
+				<CompetencyId id="021241" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING" typeDescription="Found in WORK HISTORY; POS-1" typeId="021241" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING CAMPAIGN">
+				<CompetencyId id="1400308" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING CAMPAIGN" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400308" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING CAMPAIGN">
+				<CompetencyId id="1400348" />
+				<TaxonomyId id="592" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING CAMPAIGN" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400348" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING STRATEGY">
+				<CompetencyId id="021254" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING STRATEGY" typeDescription="Found in WORK HISTORY; POS-1" typeId="021254" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING STRATEGY">
+				<CompetencyId id="1400003" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING STRATEGY" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400003" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING STRATEGY">
+				<CompetencyId id="1400141" />
+				<TaxonomyId id="592" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING STRATEGY" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400141" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="METRICS">
+				<CompetencyId id="021737" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="METRICS" typeDescription="Found in WORK HISTORY; POS-1" typeId="021737" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="METRICS">
+				<CompetencyId id="9000108" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="METRICS" typeDescription="Found in WORK HISTORY; POS-1" typeId="9000108" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRICING">
+				<CompetencyId id="005394" />
+				<TaxonomyId id="516" idOwner="80" description="Sovren" />
+				<CompetencyEvidence name="PRICING" typeDescription="Found in WORK HISTORY; POS-1" typeId="005394" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRICING">
+				<CompetencyId id="022325" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="PRICING" typeDescription="Found in WORK HISTORY; POS-1" typeId="022325" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PURCHASING">
+				<CompetencyId id="006085" idOwner="012264" />
+				<TaxonomyId id="458" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="PURCHASING" typeDescription="Found in WORK HISTORY; POS-1" typeId="006085" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RECOMMENDATION ENGINE">
+				<CompetencyId id="5531051" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="RECOMMENDATION ENGINE" typeDescription="Found in WORK HISTORY; POS-1" typeId="5531051" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SEGMENTATION">
+				<CompetencyId id="1400105" />
+				<TaxonomyId id="590" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SEGMENTATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400105" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL">
+				<CompetencyId id="008481" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="008481" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="VISUALIZATION">
+				<CompetencyId id="5570059" />
+				<TaxonomyId id="564" idOwner="93" description="Sovren" />
+				<CompetencyEvidence name="VISUALIZATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="5570059" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="VISUALIZATION">
+				<CompetencyId id="5570073" />
+				<TaxonomyId id="565" idOwner="93" description="Sovren" />
+				<CompetencyEvidence name="VISUALIZATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="5570073" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="VISUALIZATION">
+				<CompetencyId id="5570120" />
+				<TaxonomyId id="569" idOwner="93" description="Sovren" />
+				<CompetencyEvidence name="VISUALIZATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="5570120" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="VISUALIZATION">
+				<CompetencyId id="5570127" />
+				<TaxonomyId id="570" idOwner="93" description="Sovren" />
+				<CompetencyEvidence name="VISUALIZATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="5570127" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="VISUALIZATION">
+				<CompetencyId id="5570157" />
+				<TaxonomyId id="572" idOwner="93" description="Sovren" />
+				<CompetencyEvidence name="VISUALIZATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="5570157" lastUsed="2015-07-04">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AC">
+				<CompetencyId id="018855" />
+				<TaxonomyId id="285" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="AC" typeDescription="Found in SKILLS" typeId="018855">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASES">
+				<CompetencyId id="026776" />
+				<TaxonomyId id="228" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="DATABASES" typeDescription="Found in SKILLS" typeId="026776">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATABASES">
+				<CompetencyId id="026777" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATABASES" typeDescription="Found in SKILLS" typeId="026777">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EDW">
+				<CompetencyId id="015891" />
+				<TaxonomyId id="351" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="EDW" typeDescription="Found in SKILLS" typeId="015891">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL">
+				<CompetencyId id="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL" typeDescription="Found in SKILLS" typeId="022841">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MACHINE LEARNING">
+				<CompetencyId id="3380002" />
+				<TaxonomyId id="338" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MACHINE LEARNING" typeDescription="Found in SKILLS" typeId="3380002">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MACHINE LEARNING">
+				<CompetencyId id="5531016" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MACHINE LEARNING" typeDescription="Found in SKILLS" typeId="5531016">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MACHINE LEARNING">
+				<CompetencyId id="7200149" />
+				<TaxonomyId id="720" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="MACHINE LEARNING" typeDescription="Found in SKILLS" typeId="7200149">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS EXCEL">
+				<CompetencyId id="002864" idOwner="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS EXCEL" typeDescription="Found in SKILLS" typeId="002864">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NAÏVE BAYES">
+				<CompetencyId id="7200041" />
+				<TaxonomyId id="720" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="NAÏVE BAYES" typeDescription="Found in SKILLS" typeId="7200041">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NIELSEN">
+				<CompetencyId id="1400054" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="NIELSEN" typeDescription="Found in SKILLS" typeId="1400054">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REAL TIME">
+				<CompetencyId id="022816" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="REAL TIME" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="022816">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REAL TIME">
+				<CompetencyId id="081185" />
+				<TaxonomyId id="340" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="REAL TIME" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="081185">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REAL TIME">
+				<CompetencyId id="081189" />
+				<TaxonomyId id="253" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="REAL TIME" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="081189">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REAL TIME">
+				<CompetencyId id="081198" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="REAL TIME" typeDescription="Found in PROFESSIONAL AFFILIATIONS" typeId="081198">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="007445" />
+				<TaxonomyId id="341" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="007445">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="100728601" idOwner="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="100728601">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="1400078" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="1400078">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5540979" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="5540979">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5551185" />
+				<TaxonomyId id="555" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="5551185">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="9000114" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in SKILLS" typeId="9000114">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="Serial Attached SCSI">
+				<CompetencyId id="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="Serial Attached SCSI" typeDescription="Found in SKILLS" typeId="1007286">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>true</Speak>
+				<Comments>• Reading about Hindu mythology, specifically Mahabharat</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>2014     Bachelor of Engineering (Honours) in Civil        Birla Institute of          7.65</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2015-07-04</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Vibhor Mehra's experience appears to be concentrated in Information Technology / Big Data, with exposure to Marketing / Channel, Partner &amp; Ecosystem Marketing. Vibhor Mehra's experience appears to be ENTRY LEVEL, with only 11 months of experience, with no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>11</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>1</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="1457.28" percentOfOverall="41.45" percentOfParent="41.45">
+						<sov:BestFitTaxonomy id="553" rootId="Sovren" name="Big Data" weight="699.20" percentOfOverall="19.89" percentOfParent="47.98" />
+						<sov:BestFitTaxonomy id="193" rootId="Sovren" name="Database" weight="335.04" percentOfOverall="9.53" percentOfParent="22.99" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="14" rootId="Sovren" name="Marketing" weight="739.20" percentOfOverall="21.03" percentOfParent="21.03">
+						<sov:BestFitTaxonomy id="590" rootId="Sovren" name="Channel, Partner &amp; Ecosystem Marketing" weight="172.80" percentOfOverall="4.92" percentOfParent="23.38" />
+						<sov:BestFitTaxonomy id="249" rootId="Sovren" name="General" weight="172.80" percentOfOverall="4.92" percentOfParent="23.38" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="4" ends="13" sectionType="EDUCATION">Educational Qualification</sov:Section>
+				<sov:Section starts="14" ends="42" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="43" ends="49" sectionType="SKILLS">Technical Skills</sov:Section>
+				<sov:Section starts="50" ends="54" sectionType="PROFESSIONAL AFFILIATIONS">Extra-Curricular Activities</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>2744</sov:ParsedTextLength>
+			<sov:ParseTime>390</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

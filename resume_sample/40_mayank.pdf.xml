@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>MAYANK ROHIRA</FormattedName>
+				<GivenName>MAYANK</GivenName>
+				<FamilyName>ROHIRA</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>110088</PostalCode>
+					<Region>Delhi</Region>
+					<Municipality>Bagh</Municipality>
+					<DeliveryAddress>
+						<AddressLine>BW - 2C Shalimar</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+919953660852</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>Mayank.rohira@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Risk Management, American Express India Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Manager</Title>
+					<OrgName>
+						<OrganizationName>Risk Management, American Express India Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description>Risk Management, American Express India Pvt. Ltd. (Feb'11 - Sept'14) - As Manager
+Major projects:
+Accuracy Adjustment Framework - This framework helps in aligning prob scores to their
+actual default rates at a granular level, by adjusting for under/over-prediction of models and also captures change in the recent trend for default rates, resulting in improved risk
+prediction
+o First adjustment for consumer card portfolio had a PTI impact of $21 Mm
+Consumer PD Modeling - Worked on building and implementing new models that predicts
+probability of customer going default internally or externally based on post recession data
+aiming to capture benefits arising out of new information and enhanced set of variables.
+o The models had a PTI impact of $20 Mm through Point of sale and credit line actions.
+Corporate Card-members Modeling - Created new models for US corporate providing
+significant lift over the existing models.
+o New attributes capturing personal spend were created using closed loop information,
+Amex Spend, Amex payments and ONS information.
+o Segmentation and existing variable definitions were also enhanced to capture
+personal spend on corporate card
+
+BT out payments - Developed a capability to identify 'BT Out' customers leveraging the Bank
+Routing number and DDA information from Amex Payments Data
+o This capability will be used for targeting high value BT out customers with BT offers and develop BT Strategies based on competitive trends and offers
+Monitoring - These projects provided holistic knowledge of PD models integrity and solutions to multiple issues in timely and effective manner. Examples include:
+o Quarterly Model Tracking: Assessing the model performance based on standard
+accuracy and rank ordering metric
+o Weekly Variable Tracking: Tracking the modeling attributes
+o Case Reviews - This process helped to improve decision science by leveraging intuitive
+learning in risk prediction.</Description>
+					<StartDate>
+						<AnyDate>2011-02-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2014-09-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>20</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>29</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>80</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Grail Research</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Analyst</Title>
+					<OrgName>
+						<OrganizationName>Grail Research</OrganizationName>
+					</OrgName>
+					<Description>Grail Research (Jul 2010 - Feb 2011) - Analyst
+
+Major projects:
+
+Compensation Management: Client (one of the top consulting firms in world) provided us
+compensation data of their employees along with average compensation data for various
+markets
+o We Analyzed the data to know where the client is overpaying/underpaying,
+o And studied how to achieve dual objective of paying over market average and ensuring cost does not rises significantly.</Description>
+					<StartDate>
+						<AnyDate>2010-07-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2011-02-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbability>16</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>45</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>CFA institute</SchoolName>
+				</School>
+				<Degree degreeType="masters">
+					<DegreeName>Master of Business</DegreeName>
+					<DegreeDate>
+						<AnyDate>2010-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Business</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>64.1</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2010-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Year of
+Passing          Degree	Institute/University          Marks (%)
+Chartered Financial
+2010       Analyst (CFA), USA	CFA institute, USA
+Master of Business	64.1% (Among</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.641</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>University of Delhi</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2010-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Economics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2010-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2010        Economics (MBE)	University of Delhi	Top 10)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Sri Guru Gobind Singh College</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.A.</DegreeName>
+					<DegreeMajor>
+						<Name>Business</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+					</DatesOfAttendance>
+					<Comments>B.A.(hons) Business      Sri Guru Gobind Singh College Of</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>University of Delhi</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2008-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Economics</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>74.7</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2008-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2008        Economics (BBE)          Commerce, University of Delhi     74.7% (Rank 1)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-4</sov:Id>
+							<sov:NormalizedGPA>0.747</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>Bal Bharati Public School</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeName>CBSE</DegreeName>
+					<DegreeDate>
+						<AnyDate>2005-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>88.8</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2005-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2005	XII (CBSE)	Bal Bharati Public School         88.8%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-5</sov:Id>
+							<sov:NormalizedGPA>0.888</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>CFA</Name>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary></QualificationSummary>
+			<Competency name="BENEFITS">
+				<CompetencyId id="011256" />
+				<TaxonomyId id="269" idOwner="28" description="Sovren" />
+				<CompetencyEvidence name="BENEFITS" typeDescription="Found in WORK HISTORY; POS-1" typeId="011256" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BENEFITS">
+				<CompetencyId id="022748" />
+				<TaxonomyId id="183" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="BENEFITS" typeDescription="Found in WORK HISTORY; POS-1" typeId="022748" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLOSED LOOP">
+				<CompetencyId id="025248" />
+				<TaxonomyId id="143" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="CLOSED LOOP" typeDescription="Found in WORK HISTORY; POS-1" typeId="025248" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CREDIT">
+				<CompetencyId id="014614" />
+				<TaxonomyId id="121" idOwner="81" description="Sovren" />
+				<CompetencyEvidence name="CREDIT" typeDescription="Found in WORK HISTORY; POS-1" typeId="014614" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CREDIT">
+				<CompetencyId id="022226" />
+				<TaxonomyId id="940" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="CREDIT" typeDescription="Found in WORK HISTORY; POS-1" typeId="022226" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CREDIT">
+				<CompetencyId id="022227" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="CREDIT" typeDescription="Found in WORK HISTORY; POS-1" typeId="022227" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CREDIT">
+				<CompetencyId id="022228" />
+				<TaxonomyId id="234" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CREDIT" typeDescription="Found in WORK HISTORY; POS-1" typeId="022228" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CREDIT">
+				<CompetencyId id="022229" />
+				<TaxonomyId id="533" idOwner="89" description="Sovren" />
+				<CompetencyEvidence name="CREDIT" typeDescription="Found in WORK HISTORY; POS-1" typeId="022229" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DDA">
+				<CompetencyId id="015105" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="DDA" typeDescription="Found in WORK HISTORY; POS-1" typeId="015105" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OF SALE">
+				<CompetencyId id="030553" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="OF SALE" typeDescription="Found in WORK HISTORY; POS-1" typeId="030553" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ORDERING">
+				<CompetencyId id="004026" />
+				<TaxonomyId id="534" idOwner="89" description="Sovren" />
+				<CompetencyEvidence name="ORDERING" typeDescription="Found in WORK HISTORY; POS-1" typeId="004026" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ORDERING">
+				<CompetencyId id="024878" />
+				<TaxonomyId id="458" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="ORDERING" typeDescription="Found in WORK HISTORY; POS-1" typeId="024878" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PAYMENTS">
+				<CompetencyId id="004363" />
+				<TaxonomyId id="933" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="PAYMENTS" typeDescription="Found in WORK HISTORY; POS-1" typeId="004363" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="POINT OF SALE">
+				<CompetencyId id="005073" />
+				<TaxonomyId id="508" idOwner="78" description="Sovren" />
+				<CompetencyEvidence name="POINT OF SALE" typeDescription="Found in WORK HISTORY; POS-1" typeId="005073" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="POINT OF SALE">
+				<CompetencyId id="1400219" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="POINT OF SALE" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400219" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALE AND">
+				<CompetencyId id="030650" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALE AND" typeDescription="Found in WORK HISTORY; POS-1" typeId="030650" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SEGMENTATION">
+				<CompetencyId id="1400105" />
+				<TaxonomyId id="590" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SEGMENTATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400105" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SOLUTIONS">
+				<CompetencyId id="030002" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SOLUTIONS" typeDescription="Found in WORK HISTORY; POS-1" typeId="030002" lastUsed="2014-09-01">
+					<NumericValue description="Total Months">43</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPENSATION">
+				<CompetencyId id="014003" />
+				<TaxonomyId id="516" idOwner="80" description="Sovren" />
+				<CompetencyEvidence name="COMPENSATION" typeDescription="Found in WORK HISTORY; POS-2" typeId="014003" lastUsed="2011-02-01">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PAYING">
+				<CompetencyId id="025901" />
+				<TaxonomyId id="110" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="PAYING" typeDescription="Found in WORK HISTORY; POS-2" typeId="025901" lastUsed="2011-02-01">
+					<NumericValue description="Total Months">7</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CFA">
+				<CompetencyId id="012939" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="CFA" typeDescription="Found in CERTIFICATIONS; EDUCATION; DEG-1" typeId="012939" lastUsed="2010-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MBE">
+				<CompetencyId id="021370" />
+				<TaxonomyId id="293" idOwner="27" description="Sovren" />
+				<CompetencyEvidence name="MBE" typeDescription="Found in EDUCATION; DEG-2" typeId="021370" lastUsed="2010-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>B.A.(hons) Business      Sri Guru Gobind Singh College Of</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2015-07-02</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>MAYANK ROHIRA's experience appears to be concentrated in Finance / Other, with exposure to Bookkeeping, Office Management / Office Tasks. MAYANK ROHIRA's experience appears to be LOWER-TO-MID LEVEL, with about 4 years of experience, with several years tenure in management, including a mid-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>50</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>4</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>43</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>4</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>55</sov:HighestManagementScore>
+				<sov:ExecutiveType>general</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 2/1/2011, the candidate held the following mid-level management position for 3 years and 7 months:
+	Title: Manager for Risk Management, American Express India Pvt. Ltd</sov:ManagementStory>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="7" rootId="Sovren" name="Finance" weight="432.00" percentOfOverall="12.97" percentOfParent="12.97">
+						<sov:BestFitTaxonomy id="243" rootId="Sovren" name="Other" weight="172.80" percentOfOverall="5.19" percentOfParent="40.00" />
+						<sov:BestFitTaxonomy id="234" rootId="Sovren" name="Lending" weight="172.80" percentOfOverall="5.19" percentOfParent="40.00" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="89" rootId="Sovren" name="Bookkeeping, Office Management" weight="345.60" percentOfOverall="10.37" percentOfParent="10.37">
+						<sov:BestFitTaxonomy id="534" rootId="Sovren" name="Office Tasks" weight="172.80" percentOfOverall="5.19" percentOfParent="50.00" />
+						<sov:BestFitTaxonomy id="533" rootId="Sovren" name="Bookeeping Tasks" weight="172.80" percentOfOverall="5.19" percentOfParent="50.00" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="12" ends="54" sectionType="WORK HISTORY">PAST EMPLOYMENT</sov:Section>
+				<sov:Section starts="55" ends="64" sectionType="EDUCATION">Education</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>4137</sov:ParsedTextLength>
+			<sov:ParseTime>219</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

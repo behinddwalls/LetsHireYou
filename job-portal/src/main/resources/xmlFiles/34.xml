@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Shwetanshu Shekhar</FormattedName>
+				<GivenName>Shwetanshu</GivenName>
+				<FamilyName>Shekhar</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>400072</PostalCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Mumbai</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Andheri (E)</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91 8454994304</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>ssshekhar737@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Jubilant Enpro Private Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Assistant Manager</Title>
+					<OrgName>
+						<OrganizationName>Jubilant Enpro Private Limited</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Mumbai</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Company: Jubilant Enpro Private Limited, Mumbai
+Duration: July 2013- Till Date
+Current Designation: Assistant Manager (Previous: Management Trainee)
+Department: Business Development (Offshore Services Division)
+
+Roles/ Responsibilities
+•   Collation and analysis of various market intelligence inputs to provide a realistic market &amp; competition
+scenario to the client.
+•   Responsible for maintaining an efficient E&amp;P knowledge base within the organization to deliver relevant
+support to the principal whenever required.
+•   Involved in all the new business initiatives within the offshore services division from preliminary desk research to advanced discussions/negotiations with the clients.
+•   Responsible for preparing &amp; maintaining the corporate presentations, business performance reviews and projections for the division.
+
+
+Projects/ Training Summary</Description>
+					<StartDate>
+						<AnyDate>2013-07-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-02</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>21</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>27</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>116</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Prediction of Crude Oil Prices</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Prediction of Crude Oil Prices</OrganizationName>
+					</OrgName>
+					<Description>Prediction of Crude Oil Prices using Genetic Algorithm and Generalized Pattern Matching Techniques
+(Postgraduate Dissertation and Project) (July 2012-May 2013)
+
+•   Developed a generalized pattern matching based program in Turbo C that detected the most similar pattern to the contemporary crude oil prices from the historical data and provided a multi-step prediction of future oil
+prices.</Description>
+					<StartDate>
+						<AnyDate>2012-07-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-05-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbability>16</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>29</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Planning and Drilling of High Angled Wells</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Drilling Services Section, O.N.G.C</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>GUJARAT</Region>
+							<Municipality>Ahmedabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Planning and Drilling of High Angled Wells (Drilling Services Section, O.N.G.C. Ahmedabad) (June 2011-   July 2011)
+
+•   Completed a case study and project focusing on various steps involved in planning and execution of directional wells along with the study of critical drill string design parameters responsible for direction control.
+
+
+Hobbies/ Other Information
+
+•   Blogging: Frequent blogger especially for sports portals, practiced in professional writing.
+•   Social Works: Active volunteer of N.G.O. Kartavya aimed at providing education for under privileged
+children, previous head of the Centre Management team. (http://www.kartavya.org/)
+•   Meditation: Member of A.O.L. (Art of Living), successfully completed Yes+ basic and advanced courses.</Description>
+					<StartDate>
+						<AnyDate>2011-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2011-07-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbability>14</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>113</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Indian School of Mines</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Jharkhand</Region>
+					<Municipality>Dhanbad</Municipality>
+				</PostalAddress>
+				<Degree degreeType="masters">
+					<DegreeName>Master</DegreeName>
+					<DegreeDate>
+						<AnyDate>2013-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Petroleum</Name>
+					</DegreeMajor>
+					<DegreeMinor>
+						<Name>Institute Name</Name>
+					</DegreeMinor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>7.33</StringValue>
+							</MeasureValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2008-01-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2013-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Degree	Specialization           Institute Name          Percentage/Grade Point         Year
+
+
+Master of	Petroleum           Indian School of Mines,
+Technology	Management          Dhanbad, Jharkhand
+2008-13
+7.33	(Part of a 5
+(on an absolute scale      year Dual of 0-10)	Degree</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Indian School of Mines</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Jharkhand</Region>
+					<Municipality>Dhanbad</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor</DegreeName>
+					<DegreeDate>
+						<AnyDate>2006-07-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Petroleum</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>80.4</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2006-07-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Bachelor of           Petroleum           Indian School of Mines, Program)
+Technology	Engineering         Dhanbad, Jharkhand
+
+
+Higher Secondary      Science	St. John's Senior	80.4%	2006-07</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.804</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>RAJASTHAN</Region>
+					<Municipality>Kota</Municipality>
+				</PostalAddress>
+				<Degree degreeType="certification">
+					<DegreeName>Certificate</DegreeName>
+					<DegreeMajor>
+						<Name>HSC + Mathematics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+					</DatesOfAttendance>
+					<Comments>Certificate (HSC)     (+Mathematics)      Secondary School, Kota,</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Rajasthan</Region>
+					<Municipality>Jaipur</Municipality>
+				</PostalAddress>
+				<Degree degreeType="secondary">
+					<DegreeName>C.B.S.E.</DegreeName>
+					<DegreeDate>
+						<AnyDate>2004-05-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>87.4</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2004-05-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Rajasthan (C.B.S.E.
+Board)
+
+
+Secondary School	D.A.V. Centenary Public	87.4%	2004-05
+Certificate (SSC)	School, Jaipur, Rajasthan
+(C.B.S.E. Board)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-4</sov:Id>
+							<sov:NormalizedGPA>0.874</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Certificate (HSC)     (+Mathematics)      Secondary School, Kota,</Name>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certificate (SSC)                         School, Jaipur, Rajasthan</Name>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary></QualificationSummary>
+			<Competency name="Petroleum">
+				<CompetencyId id="024135" />
+				<TaxonomyId id="444" idOwner="44" description="Sovren" />
+				<CompetencyEvidence name="PETROLEUM" typeDescription="Found in EDUCATION; DEG-1; DEG-2" typeId="024135" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">35</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PETROLEUM">
+				<CompetencyId id="024136" />
+				<TaxonomyId id="132" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="PETROLEUM" typeDescription="Found in EDUCATION; DEG-1; DEG-2" typeId="024136" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">35</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS DEVELOPMENT">
+				<CompetencyId id="023757" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS DEVELOPMENT" typeDescription="Found in WORK HISTORY; POS-1" typeId="023757" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLIENTS">
+				<CompetencyId id="030017" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="CLIENTS" typeDescription="Found in WORK HISTORY; POS-1" typeId="030017" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPETITIVE INTELLIGENCE">
+				<CompetencyId id="9000260" />
+				<TaxonomyId id="583" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="COMPETITIVE INTELLIGENCE" typeDescription="Found in WORK HISTORY; POS-1" typeId="9000260" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKET INTELLIGENCE">
+				<CompetencyId id="9000261" idOwner="9000260" />
+				<TaxonomyId id="583" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="MARKET INTELLIGENCE" typeDescription="Found in WORK HISTORY; POS-1" typeId="9000261" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OFFSHORE">
+				<CompetencyId id="003753" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="OFFSHORE" typeDescription="Found in WORK HISTORY; POS-1" typeId="003753" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OFFSHORE">
+				<CompetencyId id="003754" />
+				<TaxonomyId id="441" idOwner="44" description="Sovren" />
+				<CompetencyEvidence name="OFFSHORE" typeDescription="Found in WORK HISTORY; POS-1" typeId="003754" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRAINING">
+				<CompetencyId id="200064" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="TRAINING" typeDescription="Found in WORK HISTORY; POS-1" typeId="200064" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ALGORITHM">
+				<CompetencyId id="022551" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHM" typeDescription="Found in WORK HISTORY; POS-2" typeId="022551" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ALGORITHM">
+				<CompetencyId id="022552" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHM" typeDescription="Found in WORK HISTORY; POS-2" typeId="022552" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="GENETIC ALGORITHM">
+				<CompetencyId id="018329" />
+				<TaxonomyId id="373" idOwner="15" description="Sovren" />
+				<CompetencyEvidence name="GENETIC ALGORITHM" typeDescription="Found in WORK HISTORY; POS-2" typeId="018329" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">10</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MATHEMATICS">
+				<CompetencyId id="9000120" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="MATHEMATICS" typeDescription="Found in CERTIFICATIONS; EDUCATION; DEG-3" typeId="9000120">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Associations>
+			<Association>
+				<Name>Meditation: Member of A.O.L. (Art of Living), successfully completed Yes+ basic and advanced courses</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2015-07-02</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Shwetanshu Shekhar's experience appears to be concentrated in Sales / General, with exposure to Petrochemical / Drilling. Shwetanshu Shekhar's experience appears to be LOWER-TO-MID LEVEL, with about 3 years of experience, with several years tenure in management, including a low-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>35</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>3</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>24</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>2</sov:YearsOfManagementExperience>
+				<sov:CurrentManagementLevel>low-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a low-level management role: Assistant Manager
+Starting on 7/1/2013, the candidate held the following low-level management position for 2 years:
+	Title: Assistant Manager for Jubilant Enpro Private Limited</sov:ManagementStory>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="20" rootId="Sovren" name="Sales" weight="345.60" percentOfOverall="22.99" percentOfParent="22.99">
+						<sov:BestFitTaxonomy id="105" rootId="Sovren" name="General" weight="345.60" percentOfOverall="22.99" percentOfParent="100.00" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="44" rootId="Sovren" name="Petrochemical" weight="302.40" percentOfOverall="20.11" percentOfParent="20.11">
+						<sov:BestFitTaxonomy id="441" rootId="Sovren" name="Drilling" weight="172.80" percentOfOverall="11.49" percentOfParent="57.14" />
+						<sov:BestFitTaxonomy id="444" rootId="Sovren" name="General" weight="129.60" percentOfOverall="8.62" percentOfParent="42.86" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Hobbies>
+				<sov:Text>Reading, Quizzing, Travelling.</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="20" ends="43" sectionType="EDUCATION">Education Summary</sov:Section>
+				<sov:Section starts="44" ends="87" sectionType="WORK HISTORY">Experience Summary</sov:Section>
+				<sov:Section starts="88" ends="88" sectionType="HOBBIES">Other Interests</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>5084</sov:ParsedTextLength>
+			<sov:ParseTime>437</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

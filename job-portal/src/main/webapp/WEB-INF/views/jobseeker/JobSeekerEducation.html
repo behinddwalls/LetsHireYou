@@ -1,0 +1,25 @@
+<!-- This represents all the data for one education that needs to be shown -->
+<div class="col-lg-10 col-lg-offset-0 work-experience">
+	<div class="col-sm-11 col-xs-10 pull-left">
+		<input class="userEducationId" type="hidden" name="educationId"
+			value=' + educationObj.educationId + '>
+		<h5>' +((checkEmpty(educationObj.organisationName))? "" :
+			educationObj.organisationName) +
+			((checkEmpty(educationObj.degreeValue))? "": (" - " +
+			educationObj.degreeValue)) +'</h5>
+
+		<div class="clearfix"></div>
+		<h4>'+ ((checkEmpty(educationObj.majorSubject))?"":educationObj.majorSubject)+'</h4>
+
+		<h4>' + ((checkEmpty(educationObj.startDate))? "" :
+			educationObj.startDate) + ((checkEmpty(educationObj.endDate))? "": ("
+			- " + educationObj.endDate)) + '</h4>
+		<p>' + ((checkEmpty(educationObj.description))? "":
+			educationObj.description) + '</p>
+	</div>
+	<div class="pull-left col-sm-1 col-xs-2"
+		style="color: grey; font-size: 1.2em;">
+		<i class="fa fa-pencil editUserEducation"></i>
+	</div>
+
+</div>

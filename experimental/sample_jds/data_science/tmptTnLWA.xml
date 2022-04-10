@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Data Scientist / Intern</MainJobTitle>
+    <JobTitle>Data Scientist / Intern</JobTitle>
+    <JobTitle>Data Scientist</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <EmployerName>www.talent.predikt.co</EmployerName>
+    <EmployerName>Try out www.predikt.co and learn more on www.talent.predikt.co</EmployerName>
+    <EmployerName>CA. Try out www.predikt.co and learn more on www.talent.predikt.co</EmployerName>
+  </EmployerNames>
+  <RequiredSkills>
+    <RequiredSkill>ALGORITHM</RequiredSkill>
+    <RequiredSkill>ALGORITHMS</RequiredSkill>
+    <RequiredSkill>ARTIFICIAL INTELLIGENCE</RequiredSkill>
+    <RequiredSkill>AWS</RequiredSkill>
+    <RequiredSkill>DEEP LEARNING</RequiredSkill>
+    <RequiredSkill>MACHINE LEARNING</RequiredSkill>
+    <RequiredSkill>NATURAL</RequiredSkill>
+    <RequiredSkill>NATURAL LANGUAGE PROCESSING</RequiredSkill>
+    <RequiredSkill>NEURAL</RequiredSkill>
+    <RequiredSkill>NEURAL NETWORKS</RequiredSkill>
+    <RequiredSkill>PYTHON</RequiredSkill>
+    <RequiredSkill>SEMANTIC</RequiredSkill>
+    <RequiredSkill>SEMANTIC ANALYSIS</RequiredSkill>
+    <RequiredSkill>STATISTICS</RequiredSkill>
+  </RequiredSkills>
+  <Taxonomies>
+    <Taxonomy type="best fit">
+      <ParentTaxonomyId>10</ParentTaxonomyId>
+      <ParentTaxonomyName>Information Technology</ParentTaxonomyName>
+      <SubTaxonomyId>720</SubTaxonomyId>
+      <SubTaxonomyName>Machine Learning</SubTaxonomyName>
+    </Taxonomy>
+    <Taxonomy type="second best fit">
+      <ParentTaxonomyId>5</ParentTaxonomyId>
+      <ParentTaxonomyName>Engineering</ParentTaxonomyName>
+      <SubTaxonomyId>307</SubTaxonomyId>
+      <SubTaxonomyName>General Engineering</SubTaxonomyName>
+    </Taxonomy>
+  </Taxonomies>
+  <Education>
+    <Degree>
+      <DegreeType>bachelors</DegreeType>
+      <DegreeName>Computer Science,IT,Physics,Statistics,Math
+      </DegreeName>
+    </Degree>
+  </Education>
+  <RequiredDegree>bachelors</RequiredDegree>
+  <TypeOfSource>stJobOrder</TypeOfSource>
+  <SourceText>Data Scientist / Intern
+
+Predikt is a Seed funded startup based in Sunnyvale, CA. Try out www.predikt.co and learn more on www.talent.predikt.co
+
+We are building algorithms and technology to measure the professional data all across the web. Our technology goes beyond keyword matching, semantic analysis and would power leading recruiting systems, job boards, professional networks.
+
+We are looking for highly motivated individuals to work on our core machine learning algorithm. If you have passion and experience in building mind blowing machine learning &amp; predictive algorithms, this is something you will enjoy. Doesn&apos;t matter if you are a Kaggler, an experienced Data Scientist, or someone in school or a MOOC. Working with our team will give you the liberty to materialize your research interests instead of working on routine industry stuff. We have a very promising technology and are looking for high calibre individuals.
+
+Qualifications:
+Bachelors degree in Computer Science, IT, Physics, Statistics, Math or related
+Interest or experience in Machine Learning
+Exposure or background in Natural Language Processing, Semantic analysis
+Experience building algorithms in Python.
+
+
+Nice to have (bonus points!)
+Coursework or experience in Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks
+Experience in building scalable algorithms is a plus
+Understanding of Github, Bitbucket, AWS</SourceText>
+  <RevisionDate>2014-11-10</RevisionDate>
+</SovrenData>

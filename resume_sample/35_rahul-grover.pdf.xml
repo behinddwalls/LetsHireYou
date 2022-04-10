@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>RAHUL GROVER</FormattedName>
+				<GivenName>RAHUL</GivenName>
+				<FamilyName>GROVER</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Delhi</Region>
+					<Municipality>Gurgaon</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Business Analyst - Data Analytics &amp; Performance Reporting</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91-9711585005</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>rahugr@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>businessDirect</Use>
+				<Location>home</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>https://www.linkedin.com/in/rahulgro</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>• A seasoned professional with 2 years of experience as a Business Analyst - Data Analytics,
+Performance Reporting, Performance KPI's &amp; Metrics Management and Retail Sales Strategy
+• Currently designated as Business Analyst at Hewlett Packard (HP) Computing &amp; Printing Group for
+Americas region working closely with Sales &amp; Account teams, Account Directors &amp; Executives
+• Proposed In-stock Goal Revision Recommendations for HP Ink SKUs sold by Target USA, duly accepted
+by Target Management, resulting in incremental Sales Revenue of $2.5 Million in FY '14
+• Excellent Communication &amp; Presentation skills with ability to interact effectively with people at all levels
+• Focused, Self-driven, Strong Analytical &amp; Problem Solving skills, Effective Client Handling, Open to Travel
+and ability to work with Virtual Teams</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Hewlett Packard</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Business Analyst</Title>
+					<OrgName>
+						<OrganizationName>Hewlett Packard</OrganizationName>
+					</OrgName>
+					<Description>2+ years as Business Analyst
+Business Analyst (Data Analytics, Performance Reporting and Sales Strategy)-Hewlett Packard   April '13 - Present
+
+Responsibility/Ownership of Projects, Reports &amp; Accounts:
+• Delivered In-stock Goal Revision Recommendation for Top 20 HP Ink SKUs sold at 1800 Target stores across USA, resulting in incremental Sales Revenue of $2.5 Million in FY '14 for HP
+• Walmart USA Weekly Orders Distribution, Maintaining Store &amp; DC level Inventory, Analyzing Product
+Performance &amp; Sales Analytics
+• Providing Insights &amp; delivering business intelligence reports to Sales &amp; Account teams for planning,
+execution &amp; effective decision making
+• Performance reporting for major Consumer Computing &amp; Printing Accounts- Walmart, Sam's Club &amp; Target
+• Quarterly Executive Insights and Ad-hoc Analytics &amp; Strategy projects with Executives, Account Directors
+• Publishing Retail Share by Brand Monthly Report for Computing &amp; Printing Category to stakeholders
+• Stores vs. Online Sales Performance Reporting for major U.S. Retailers reflecting Weekly, MTD, QTD, FYTD
+performance with a year on year comparison
+• Reporting HP's Share in USA Retail Computing &amp; Printing category every week with cuts for HP's share under various heads in Computing &amp; Printing
+• Automation of Reports with Excel Macros/VBA
+• Relationship Manager for Market Track Agency (Ad &amp; Price tracking) &amp; NPD (Market Data &amp; Reporting)
+• Testing &amp; User Training for Next Gen ORCA (HP's Internal Data Analytics tool)
+• Data &amp; Analytics support (Analyzing SKU data) for Claims Management Team</Description>
+					<StartDate>
+						<AnyDate>2013-04-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-02</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>20</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>24</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>141</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Institute of Management</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>New Delhi</Municipality>
+				</PostalAddress>
+				<Degree degreeType="masters">
+					<DegreeName>MBA</DegreeName>
+					<DegreeDate>
+						<AnyDate>2013-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Finance &amp; Marketing</Name>
+					</DegreeMajor>
+					<DegreeMeasure>SchoolName
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>75</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2013-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2013 Post Graduate Diploma in Management (PGDM/MBA) in Finance &amp; Marketing from Lal Bahadur Shastri
+Institute of Management (LBSIM), New Delhi; 75%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.750</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>University of Delhi</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelors of Commerce</DegreeName>
+					<DegreeDate>
+						<AnyDate>2009-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Commerce</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>61</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2009-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2009    Bachelors of Commerce (B.Com) from University of Delhi; 61%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.610</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="highschool">
+				<School>
+					<SchoolName>Shiv Jyoti Sr. Sec. Public School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>PUNJAB</Region>
+					<Municipality>Jalandhar</Municipality>
+				</PostalAddress>
+				<Degree degreeType="high school or equivalent">
+					<DegreeName>HSC</DegreeName>
+					<DegreeDate>
+						<AnyDate>2006-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Commerce</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>86</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2006-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2006    HSC (12th CBSE), Commerce from Shiv Jyoti Sr. Sec. Public School, Jalandhar City; 86%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.860</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>Seth Hukam Chand SD Public School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>PUNJAB</Region>
+					<Municipality>Jalandhar</Municipality>
+				</PostalAddress>
+				<Degree degreeType="secondary">
+					<DegreeName>SSC</DegreeName>
+					<DegreeDate>
+						<AnyDate>2004-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>79</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2004-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2004    SSC (10th CBSE) from Seth Hukam Chand SD Public School, Jalandhar City; 79%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-4</sov:Id>
+							<sov:NormalizedGPA>0.790</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="masters">
+					<DegreeName>MBA</DegreeName>
+					<DegreeDate>
+						<AnyDate>2012-06-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Research Paper</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2012-04-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2012-06-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>MBA SUMMER INTERNSHIP
+KPMG India		April '12 - June '12
+Project: KPMG Advisory Services on Employee Stock Option Plans (ESOPs)
+• Understanding the ESOPs Implementation Process &amp; the Regulatory Framework
+• Drafting &amp; Issuance of ESOPs for an Organization
+
+ACCOLADES
+• Research Paper titled "Share Price Volatility around Dividend Declaration" presented at the World Finance</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-5</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>Delhi School of Economics</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2013-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>India Photography Competition</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2013-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>• Won 2nd Prize in LBSIM Debating Society's debating Event "Battle of the Mettle" in 2013.
+• 3rd Prize in pan-India Photography Competition "Aperture" organized by HR Club of LBSIM.
+• Among Top 3 finalists in All India Mock Stock Trading Event "Nivesh" by Delhi School of Economics.
+• Student Team Leader at LBSIM for a Village Project "Knowing the Real Bharat".</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-6</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>KEY SKILLS
+
+• Data Analytics &amp; Warehousing, Creating &amp; Automating Dashboards/Scorecards for Business Excellence
+• Business Insights, Performance KPI's &amp; Metrics Management, Planning Support and Sales Strategy
+• Industry &amp; Competitive Analysis, Product Management (Sales Analysis, Inventory Management etc.)
+• Microsoft Office &amp; Excel Macros/VBA, Power Pivots
+• Data Retrieval Tools - Retail Link (Walmart &amp; Sam's Club), NPD Decision Key (POS &amp; Panel data), Info
+Retriever - Partners Online (Target) &amp; HP's SQL based data tool ORCA (Online Retail Category Analytics)
+• Basic Knowledge of Qlikview, R, SPSS, SQL, Tableau etc.
+• Feature Vision Online Tool (Market Track Agency) for Online &amp; Print Advertisement tracking
+
+
+AREAS OF EXPERTISE
+
+Performance Reporting &amp; Analytics ◊ Performance KPI's &amp; Metrics Management ◊ Business Insights &amp; Market
+Intelligence ◊ Sales Analysis &amp; Inventory Management ◊ Building Dashboards/Automation ◊ Working closely with
+Sales teams, Account teams &amp; Account Directors
+
+POSITIONS OF RESPONSIBILITY AT HP
+
+• Tower Lead for "FY'13 GLA Ultimate Champions" (Annual Sports Event) at HP Global Analytics
+• Tower Lead for "Give Environment a Break too" initiative (FY'13 HP Way Now Competition)</QualificationSummary>
+			<Competency name="AND SALES">
+				<CompetencyId id="030280" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AND SALES" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="030280" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INTELLIGENCE">
+				<CompetencyId id="012210" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INTELLIGENCE" typeDescription="Found in WORK HISTORY; POS-1" typeId="012210" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INTELLIGENCE">
+				<CompetencyId id="1400080" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INTELLIGENCE" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400080" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INTELLIGENCE">
+				<CompetencyId id="7000125" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INTELLIGENCE" typeDescription="Found in WORK HISTORY; POS-1" typeId="7000125" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="013345" />
+				<TaxonomyId id="933" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-1" typeId="013345" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="022237" />
+				<TaxonomyId id="408" idOwner="19" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-1" typeId="022237" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="022238" />
+				<TaxonomyId id="269" idOwner="28" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-1" typeId="022238" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="022239" />
+				<TaxonomyId id="961" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-1" typeId="022239" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLAIMS">
+				<CompetencyId id="022240" />
+				<TaxonomyId id="258" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="CLAIMS" typeDescription="Found in WORK HISTORY; POS-1" typeId="022240" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA ANALYTICS">
+				<CompetencyId id="1400067" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="DATA ANALYTICS" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="1400067" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA ANALYTICS">
+				<CompetencyId id="5530940" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA ANALYTICS" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="5530940" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCEL">
+				<CompetencyId id="022841" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="EXCEL" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="022841" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INVENTORY">
+				<CompetencyId id="020086" />
+				<TaxonomyId id="459" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="INVENTORY" typeDescription="Found in SKILLS; WORK HISTORY; POS-1" typeId="020086" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MILLION">
+				<CompetencyId id="030011" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="MILLION" typeDescription="Found in SUMMARY; WORK HISTORY; POS-1" typeId="030011" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NPD">
+				<CompetencyId id="1400055" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="NPD" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SKILLS; WORK HISTORY; POS-1" typeId="1400055" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRINTING">
+				<CompetencyId id="005446" />
+				<TaxonomyId id="113" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="PRINTING" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SUMMARY; WORK HISTORY; POS-1" typeId="005446" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PUBLISHING">
+				<CompetencyId id="006027" />
+				<TaxonomyId id="115" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="PUBLISHING" typeDescription="Found in WORK HISTORY; POS-1" typeId="006027" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PUBLISHING">
+				<CompetencyId id="006029" />
+				<TaxonomyId id="430" idOwner="31" description="Sovren" />
+				<CompetencyEvidence name="PUBLISHING" typeDescription="Found in WORK HISTORY; POS-1" typeId="006029" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="030018" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="RETAIL" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="030018" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="1400216" idOwner="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="RETAIL" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="1400216" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL MARKETING">
+				<CompetencyId id="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="RETAIL MARKETING" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="1400215" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES">
+				<CompetencyId id="007359" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES" typeDescription="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1" typeId="007359" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES REVENUE">
+				<CompetencyId id="030818" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES REVENUE" typeDescription="Found in SUMMARY; WORK HISTORY; POS-1" typeId="030818" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TESTING">
+				<CompetencyId id="009472" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="TESTING" typeDescription="Found in WORK HISTORY; POS-1" typeId="009472" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TO SALES">
+				<CompetencyId id="030934" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="TO SALES" typeDescription="Found in WORK HISTORY; POS-1" typeId="030934" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRAINING">
+				<CompetencyId id="200064" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="TRAINING" typeDescription="Found in WORK HISTORY; POS-1" typeId="200064" lastUsed="2015-07-02">
+					<NumericValue description="Total Months">27</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="005856" />
+				<TaxonomyId id="533" idOwner="89" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in TRAINING" typeId="005856">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="022499" />
+				<TaxonomyId id="944" idOwner="32" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in TRAINING" typeId="022499">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="7000036" />
+				<TaxonomyId id="705" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in TRAINING" typeId="7000036">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ACCOUNTING">
+				<CompetencyId id="7000058" />
+				<TaxonomyId id="706" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ACCOUNTING" typeDescription="Found in TRAINING" typeId="7000058">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AWARD">
+				<CompetencyId id="030006" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AWARD" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; TRAINING" typeId="030006">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INSIGHTS">
+				<CompetencyId id="1400083" />
+				<TaxonomyId id="589" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INSIGHTS" typeDescription="Found in SKILLS" typeId="1400083">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS INSIGHTS">
+				<CompetencyId id="9000113" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS INSIGHTS" typeDescription="Found in SKILLS" typeId="9000113">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPETITIVE ANALYSIS">
+				<CompetencyId id="024807" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="COMPETITIVE ANALYSIS" typeDescription="Found in SKILLS" typeId="024807">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPETITIVE ANALYSIS">
+				<CompetencyId id="024808" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="COMPETITIVE ANALYSIS" typeDescription="Found in SKILLS" typeId="024808">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPETITIVE ANALYSIS">
+				<CompetencyId id="1400015" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="COMPETITIVE ANALYSIS" typeDescription="Found in SKILLS" typeId="1400015">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPETITIVE ANALYSIS">
+				<CompetencyId id="1400106" />
+				<TaxonomyId id="590" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="COMPETITIVE ANALYSIS" typeDescription="Found in SKILLS" typeId="1400106">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CUSTOMER SERVICE">
+				<CompetencyId id="006920" idOwner="022943" />
+				<TaxonomyId id="511" idOwner="78" description="Sovren" />
+				<CompetencyEvidence name="CUSTOMER SERVICE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; TRAINING" typeId="006920">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CUSTOMER SERVICE">
+				<CompetencyId id="013326" idOwner="022126" />
+				<TaxonomyId id="113" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="CUSTOMER SERVICE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; TRAINING" typeId="013326">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CUSTOMER SERVICE">
+				<CompetencyId id="014744" />
+				<TaxonomyId id="130" idOwner="46" description="Sovren" />
+				<CompetencyEvidence name="CUSTOMER SERVICE" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; TRAINING" typeId="014744">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA RETREIVAL">
+				<CompetencyId id="015003" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA RETREIVAL" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SKILLS" typeId="015003">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DATA RETRIEVAL">
+				<CompetencyId id="115003" idOwner="015003" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DATA RETRIEVAL" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SKILLS" typeId="115003">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL ACCOUNTING">
+				<CompetencyId id="030419" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="FINANCIAL ACCOUNTING" typeDescription="Found in TRAINING" typeId="030419">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKET RESEARCH">
+				<CompetencyId id="1400326" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKET RESEARCH" typeDescription="Found in EDUCATION" typeId="1400326">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="METRICS">
+				<CompetencyId id="021737" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="METRICS" typeDescription="Found in SKILLS; SUMMARY" typeId="021737">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="METRICS">
+				<CompetencyId id="9000108" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="METRICS" typeDescription="Found in SKILLS; SUMMARY" typeId="9000108">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MICROSOFT OFFICE">
+				<CompetencyId id="021934" idOwner="022136" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MICROSOFT OFFICE" typeDescription="Found in SKILLS" typeId="021934">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MICROSOFT OFFICE">
+				<CompetencyId id="024467" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MICROSOFT OFFICE" typeDescription="Found in SKILLS" typeId="024467">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MS OFFICE">
+				<CompetencyId id="022136" />
+				<TaxonomyId id="108" idOwner="0" description="Sovren" />
+				<CompetencyEvidence name="MS OFFICE" typeDescription="Found in SKILLS" typeId="022136">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NIELSEN">
+				<CompetencyId id="1400054" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="NIELSEN" typeDescription="Found in EDUCATION" typeId="1400054">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="POINT OF SALE">
+				<CompetencyId id="1400219" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="POINT OF SALE" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SKILLS" typeId="1400219">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="POS">
+				<CompetencyId id="005124" />
+				<TaxonomyId id="508" idOwner="78" description="Sovren" />
+				<CompetencyEvidence name="POS" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SKILLS" typeId="005124">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="POS">
+				<CompetencyId id="1400220" idOwner="1400219" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="POS" typeDescription="Found in PROFESSIONAL AFFILIATIONS; SKILLS" typeId="1400220">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRESENTATION SKILLS">
+				<CompetencyId id="005353" />
+				<TaxonomyId id="532" idOwner="90" description="Sovren" />
+				<CompetencyEvidence name="PRESENTATION SKILLS" typeDescription="Found in SUMMARY" typeId="005353">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PROBLEM SOLVING">
+				<CompetencyId id="005482" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="PROBLEM SOLVING" typeDescription="Found in SUMMARY" typeId="005482">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT MANAGEMENT">
+				<CompetencyId id="005633" />
+				<TaxonomyId id="199" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="PRODUCT MANAGEMENT" typeDescription="Found in SKILLS" typeId="005633">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT MANAGEMENT">
+				<CompetencyId id="005634" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="PRODUCT MANAGEMENT" typeDescription="Found in SKILLS" typeId="005634">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT MANAGEMENT">
+				<CompetencyId id="022258" />
+				<TaxonomyId id="146" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="PRODUCT MANAGEMENT" typeDescription="Found in SKILLS" typeId="022258">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT MANAGEMENT">
+				<CompetencyId id="081161" />
+				<TaxonomyId id="227" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="PRODUCT MANAGEMENT" typeDescription="Found in SKILLS" typeId="081161">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT MANAGEMENT">
+				<CompetencyId id="1400021" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="PRODUCT MANAGEMENT" typeDescription="Found in SKILLS" typeId="1400021">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT SALES">
+				<CompetencyId id="022623" />
+				<TaxonomyId id="220" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="PRODUCT SALES" typeDescription="Found in SKILLS" typeId="022623">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="QLIKVIEW">
+				<CompetencyId id="5540971" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="QLIKVIEW" typeDescription="Found in SKILLS" typeId="5540971">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RECEPTIONIST">
+				<CompetencyId id="022126" />
+				<TaxonomyId id="113" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="RECEPTIONIST" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; TRAINING" typeId="022126">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL SALES">
+				<CompetencyId id="022943" />
+				<TaxonomyId id="511" idOwner="78" description="Sovren" />
+				<CompetencyEvidence name="RETAIL SALES" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SUMMARY; TRAINING" typeId="022943">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL SALES">
+				<CompetencyId id="030648" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="RETAIL SALES" typeDescription="Found in SUMMARY" typeId="030648">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES ANALYSIS">
+				<CompetencyId id="007364" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="SALES ANALYSIS" typeDescription="Found in SKILLS" typeId="007364">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES ANALYSIS">
+				<CompetencyId id="007365" idOwner="022623" />
+				<TaxonomyId id="220" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SALES ANALYSIS" typeDescription="Found in SKILLS" typeId="007365">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027121" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in SKILLS" typeId="027121">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027122" />
+				<TaxonomyId id="233" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in SKILLS" typeId="027122">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="9000110" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in SKILLS" typeId="9000110">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL">
+				<CompetencyId id="008481" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL" typeDescription="Found in SKILLS" typeId="008481">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="WITH SALES">
+				<CompetencyId id="030965" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="WITH SALES" typeDescription="Found in SUMMARY" typeId="030965">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCE">
+				<CompetencyId id="023147" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="FINANCE" typeDescription="Found in EDUCATION; TRAINING; DEG-1; DEG-5" typeId="023147" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">3</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MBA">
+				<CompetencyId id="7000321" />
+				<TaxonomyId id="703" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="MBA" typeDescription="Found in EDUCATION; DEG-1; DEG-5" typeId="7000321" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">3</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DRAFTING">
+				<CompetencyId id="3970006" />
+				<TaxonomyId id="397" idOwner="12" description="Sovren" />
+				<CompetencyEvidence name="DRAFTING" typeDescription="Found in EDUCATION; DEG-5" typeId="3970006" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="HR">
+				<CompetencyId id="019094" />
+				<TaxonomyId id="262" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="HR" typeDescription="Found in EDUCATION; PERSONAL INTERESTS AND ACCOMPLISHMENTS; PROFESSIONAL AFFILIATIONS; DEG-6" typeId="019094" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING">
+				<CompetencyId id="021241" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING" typeDescription="Found in EDUCATION; DEG-1" typeId="021241" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRADING">
+				<CompetencyId id="009789" />
+				<TaxonomyId id="127" idOwner="81" description="Sovren" />
+				<CompetencyEvidence name="TRADING" typeDescription="Found in EDUCATION; DEG-6" typeId="009789" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRADING">
+				<CompetencyId id="022750" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="TRADING" typeDescription="Found in EDUCATION; DEG-6" typeId="022750" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRADING">
+				<CompetencyId id="080179" />
+				<TaxonomyId id="245" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="TRADING" typeDescription="Found in EDUCATION; DEG-6" typeId="080179" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRADING">
+				<CompetencyId id="080204" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="TRADING" typeDescription="Found in EDUCATION; DEG-6" typeId="080204" lastUsed="2013-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Won 2nd Prize in LBSIM Debating Society's debating Event "Battle of the Mettle" in 2013</Description>
+			</Achievement>
+			<Achievement>
+				<Description>3rd Prize in pan-India Photography Competition "Aperture" organized by HR Club of LBSIM</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Awarded with Best Trainee Award at Convergys for being a quick learner &amp; leading the trainee's group</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Awarded for maintaining High Standards of Customer Service at Convergys in 2009</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Performance reporting for major Consumer Computing &amp; Printing Accounts- Walmart, Sam's Club &amp; Target</Name>
+			</Association>
+			<Association>
+				<Name>Data Retrieval Tools - Retail Link (Walmart &amp; Sam's Club), NPD Decision Key (POS &amp; Panel data), Info</Name>
+			</Association>
+			<Association>
+				<Name>Bachelors of Commerce (B.Com) from University of Delhi; 61</Name>
+				<EndDate>
+					<AnyDate>2009-01-01</AnyDate>
+				</EndDate>
+			</Association>
+			<Association>
+				<Name>3rd Prize in pan-India Photography Competition "Aperture" organized by HR Club of LBSIM</Name>
+			</Association>
+		</Associations>
+		<RevisionDate>2015-07-02</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>RAHUL GROVER's experience appears to be concentrated in Sales / General, with exposure to Marketing / Channel Management. RAHUL GROVER's experience appears to be LOWER-TO-MID LEVEL, with about 2 years of experience, with no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>27</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>2</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>The following management-related items were found:
+• Student Team Leader at LBSIM for a Village Project</sov:ManagementStory>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="20" rootId="Sovren" name="Sales" weight="2788.76" percentOfOverall="26.77" percentOfParent="26.77">
+						<sov:BestFitTaxonomy id="105" rootId="Sovren" name="General" weight="2788.76" percentOfOverall="26.77" percentOfParent="100.00" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="14" rootId="Sovren" name="Marketing" weight="2583.51" percentOfOverall="24.80" percentOfParent="24.80">
+						<sov:BestFitTaxonomy id="226" rootId="Sovren" name="Channel Management" weight="1050.97" percentOfOverall="10.09" percentOfParent="40.68" />
+						<sov:BestFitTaxonomy id="588" rootId="Sovren" name="Data &amp; Analytics" weight="732.67" percentOfOverall="7.03" percentOfParent="28.36" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Hobbies>
+				<sov:Text>• Passion for Mobility Devices, the latest offerings, trends &amp; key developments.
+• Travelling &amp; Exploring New Places especially on Road Trips
+• Playing Cricket &amp; Table Tennis
+
+DECLARATION
+
+I hereby declare that the information stated above is true to the best of my knowledge.
+
+
+Place: New Delhi/NCR
+Date: May 5, 2015		(RAHUL GROVER)</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="9" ends="19" sectionType="SUMMARY">SYNOPSIS</sov:Section>
+				<sov:Section starts="20" ends="41" sectionType="WORK HISTORY">WORK EXPERIENCE</sov:Section>
+				<sov:Section starts="42" ends="51" sectionType="SKILLS">KEY SKILLS</sov:Section>
+				<sov:Section starts="52" ends="62" sectionType="SKILLS">AREAS OF EXPERTISE</sov:Section>
+				<sov:Section starts="63" ends="88" sectionType="EDUCATION">ACADEMICS</sov:Section>
+				<sov:Section starts="89" ends="101" sectionType="HOBBIES">INTERESTS</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>6456</sov:ParsedTextLength>
+			<sov:ParseTime>547</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>

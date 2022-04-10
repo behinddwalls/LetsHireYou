@@ -1,0 +1,954 @@
+1 
+
+2 
+
+PL/SQL
+Leadership
+Core Java
+SOA
+C
+Software Project Management
+Requirements Analysis
+C++
+Agile Methodologies
+Java
+3 
+
+4 
+
+5 
+ 
+
+Selenium WebDriver
+PL/SQL
+Core Java
+Perl
+Eclipse
+Selenium Testing
+Servlets
+Test Automation
+Unix Shell Scripting
+Hibernate
+Java Enterprise Edition
+Tomcat
+Java
+JDBC
+7 
+
+MSBI
+PL/SQL
+CRM
+ETL Testing
+Data Analysis
+ETL Tools
+ETL
+Information Server
+Unix
+Business Intelligence
+Microsoft Office
+DataStage
+Test Planning
+Linux
+DB2
+Informatica
+Product Development
+HTML
+Agile Testing
+Microsoft SQL Server
+Agile Methodologies
+Java
+Oracle
+SQL
+8 
+
+d3.js
+Core Java
+JavaScript
+XML Schema
+social media analytics
+JSON
+JSP
+Databases
+AJAX
+Servlets
+Cognos
+Jaql
+Dojo
+Cognos Framework Designing
+Spring
+DB2
+Cognos Cube and Dynamic Query
+Java
+Advance analytics reporting
+9 
+
+Analytical and logical thinking skills
+IBM SPSS
+MS Excel
+UML
+C
+BSAD
+MAT lab
+SAS
+10 
+
+11 
+
+12 
+
+Risk Analysis
+Recoveries
+Analysis
+Decision Trees
+Business Analysis
+scorecard development
+Balanced Scorecard
+Credit Risk
+Analytics
+Basel II
+Project Management
+Change Management
+Forecasting
+Business Analytics
+CHAID
+Business Change Management
+Collections
+Probability Theory
+Predictive Analytics
+Hypothesis Testing
+Predictive Modeling
+Marketing Strategy
+Survival Analysis
+Segmentation
+MIS
+Portfolio Management
+Risk Analytics
+Offshore Project Management
+SAS
+Financial Risk
+13 
+
+Statistics
+Business Analysis
+Analytics
+Data Analysis
+Forecasting
+Business Analytics
+Business Intelligence
+Data Mining
+Customer Analysis
+Predictive Analytics
+Predictive Modeling
+Segmentation
+MIS
+SAS programming
+Statistical Modeling
+SAS
+14 
+
+Business Insights
+Team Management
+Analytics
+Data Analysis
+Market Research
+Marketing Research
+SPSS
+Business Analytics
+Secondary Research
+Microsoft Office
+Customer Analysis
+Predictive Analytics
+PowerPoint
+Predictive Modeling
+Marketing Analytics
+Knowledge Management
+Segmentation
+15 
+
+Statistics
+Decision Trees
+Business Analysis
+Team Management
+Credit Risk
+Analytics
+Data Analysis
+SAS Programming
+Basel II
+Business Analytics
+Time Series Analysis
+Credit Cards
+Business Intelligence
+Data Mining
+Customer Analysis
+Predictive Analytics
+Logistic Regression
+Predictive Modeling
+Marketing Analytics
+Segmentation
+SAS programming
+Credit Scoring
+Statistical Modeling
+Risk Analytics
+SAS
+Six Sigma
+Financial Modeling
+16 
+
+WebTrends Analytics
+SQL Server
+Google Analytics
+SEO
+Google Adwords
+JavaScript
+Analytics
+Online Marketing
+Omniture
+WebTrends
+Web Analytics
+Keyword Research
+SEM
+Tealeaf
+HTML
+Microsoft SQL Server
+17 
+
+Business Analysis
+Team Management
+Analytics
+Data Analysis
+Project Management
+Business Development
+Business Analytics
+Marketing Intelligence
+Web Analytics
+Stakeholder Management
+Strategy
+Business Intelligence
+Process Improvement
+Quality Management
+SAS
+Six Sigma
+18 
+
+CRM
+Analytics
+Credit Cards
+Business Intelligence
+Data Mining
+Segmentation
+SAS
+Financial Modeling
+19 
+
+Business Strategy
+Management Consulting
+Analysis
+Business Analysis
+Consulting
+Team Management
+Analytics
+Data Analysis
+Market Research
+Project Management
+Competitive Analysis
+Business Analytics
+Social Media Analytics
+Strategy
+Business Intelligence
+Program Management
+Marketing
+Management
+Market Analysis
+Social Media Measurement
+Marketing Analytics
+Qualitative Research
+Marketing Strategy
+Social Media
+Factiva
+Competitive Intelligence
+Social Media Marketing
+20 
+
+Management Consulting
+Analysis
+CRM
+Business Analysis
+Consulting
+Team Management
+Analytics
+Data Analysis
+Market Research
+Text Analytics
+Project Management
+SDLC
+Strategy
+Business Intelligence
+Data Mining
+Management
+Database Admin
+Segmentation
+21 
+
+Capital Markets
+Credit Risk
+Financial Reporting
+Cash Management
+Analytics
+Treasury Management
+Credit Cards
+Strategic Financial Planning
+Risk Management
+MIS
+Investment Banking
+Portfolio Management
+Financial Analysis
+Insurance
+Accounting
+Corporate Finance
+Banking
+Financial Risk
+Account Reconciliation
+Financial Modeling
+22 
+
+Analysis
+CRM
+Leadership
+Analytics
+Process Excellence
+Data Analysis
+Project Management
+Competitive Analysis
+Business Analytics
+E-commerce
+Strategy
+Business Intelligence
+Data Mining
+Management
+Market Analysis
+Customer Experience
+Segmentation
+Business Process Improvement
+R
+Business Process
+SAS
+Six Sigma
+23 
+
+IBM SPSS Collaboration and Deployment Services v5.0
+IBM SPSS Analytical Decision Management v7.0
+Microsoft Excel 2010
+IBM SPSS Modeler v15.0
+24 
+
+Risk Analysis
+Market Risk
+Business Analysis
+Core Java
+Equity Derivatives
+Credit Risk
+Analytics
+Perl
+SOA
+Equity Trading
+Unix
+Management
+Linux
+C
+Requirements Analysis
+Virtualization
+Risk Analytics
+Java Enterprise Edition
+Agile Methodologies
+Java
+Cloud Computing
+Software Development
+Oracle
+SQL
+25 
+
+Business Strategy
+Cross-functional Team Leadership
+Business Analysis
+Consulting
+Analytics
+Consultants
+Business Development
+Unix
+Databases
+Strategy
+Business Intelligence
+IT Strategy
+Management
+Early-stage Startups
+Pre-sales
+Software Project Management
+Requirements Analysis
+Start-ups
+Consultancy
+Shell Scripting
+Software Development
+26 
+
+Rational Team Concert
+Core Java
+Maven
+JBehave
+Databases
+JUnit
+UML
+C
+Java
+Websphere Application Server
+27 
+
+Analytics
+Data Analysis
+Market Research
+SPSS
+Microsoft Excel
+Data processing
+Power Point
+Report Writing
+Survey Design
+28 
+
+29 
+
+Telecommunications
+Analysis
+Algorithms
+Computer Science
+Matlab
+Information Retrieval
+Optimization
+Text Mining
+EDA
+Data Structures
+Distributed Systems
+Data Analysis
+Strategic Planning
+Natural Language Processing
+Signal Processing
+Simulations
+Wireless
+Control Theory
+Databases
+Team Leadership
+Computer Vision
+Wireless Networking
+Image Processing
+Python
+Data Mining
+Machine Learning
+Research
+Marketing
+Management
+Linux
+Global Collaboration
+Embedded Systems
+IP
+Project Planning
+LaTeX
+Networking
+Messaging
+C
+Pattern Recognition
+MySQL
+C++
+High Performance Computing
+Java Enterprise Edition
+Software Engineering
+Programming
+Java
+Hadoop
+Computer Architecture
+Software Development
+Higher Education
+30 
+
+Integration
+Business Analysis
+Agile Project Management
+Agile Strategies
+Lean Thinking
+Analytics
+Requirements Gathering
+SDLC
+Business Intelligence
+Program Management
+TDD
+Spring
+Test Driven Development
+UML
+Extreme Programming
+Pre-sales
+Kanban
+Software Project Management
+Requirements Analysis
+Agile Transformation
+Java Enterprise Edition
+Agile Methodologies
+Java
+Software Development
+Scrum
+Solution Architecture
+31 
+
+Hive
+MapReduce
+Apache Kafka
+Manual Testing
+Test Cases
+Core Java
+Selenium
+XML
+Databases
+SDLC
+Test Planning
+Test Automation
+Quality Center
+Oozie
+Java
+Hadoop
+Testing
+Software Development
+Performance Testing
+SQL
+32 
+
+Algorithms
+Hive
+NLTK
+Distributed Systems
+Data Analysis
+Pig-Latin
+Python
+Data Mining
+C
+Big Data
+Java
+Hadoop
+SAS
+SQL
+33 
+
+Business Strategy
+Management Consulting
+Due Diligence
+Valuation
+Analytics
+Data Analysis
+Strategic Planning
+Market Research
+Freelance Writing
+Competitive Analysis
+Business Planning
+Business Valuation
+Strategy
+Benchmarking
+Strategic Analysis
+Market Analysis
+M&A due diligence
+Segmentation
+Market Entry
+Entrepreneurship
+Industry Analysis
+Strategy Development
+Competitive Intelligence
+Financial Modeling
+34 
+
+Statistics
+Management Consulting
+Analysis
+Problem management
+ARIS
+Lotusscript
+Core Java
+Valuation
+Analytics
+Perl
+Market Research
+SPSS
+Unix
+Operations Management
+R programming
+Product Management
+Strategic analysis
+Lotus Domino
+Problem solving - cross-functional, analytic, collaborative
+C++
+Agile Methodologies
+Programming
+Cloud Computing
+Formula language
+Solution Architecture
+35 
+
+Algorithms
+Core Java
+JavaScript
+CSS
+XML
+Spring Framework
+Perl
+Distributed Systems
+JSP
+Eclipse
+C#
+Unix
+Struts
+ClearCase
+Servlets
+Web Development
+Spring
+Ant
+Unix Shell Scripting
+Web Applications
+.NET
+Hibernate
+C++
+CVS
+HTML
+Subversion
+Shell Scripting
+Design Patterns
+Java Enterprise Edition
+Tomcat
+Java
+Hadoop
+Software Development
+JDBC
+SQL
+36 
+
+Core Java
+JavaScript
+XML
+Eclipse
+Agile & Waterfall Methodologies
+Order Management
+Python
+java
+Sterling Business Center
+SDLC
+Cognos
+HTML + CSS
+TDD
+Ant
+Software Quality Assurance
+Application Servers
+Test Automation Framework
+Java
+Sterling Commerce
+Testing
+XSL
+Warehouse Management
+SQL
+37 
+
+Integration
+JavaScript
+XML
+Perl
+JSON
+Chef
+Eclipse
+REST
+Ruby
+Unix Shell Scripting
+Big Data Analytics
+Hibernate
+C
+C++
+Big Data
+HTML
+Agile Methodologies
+Java
+Hadoop
+Cloud Computing
+SQL
+38 
+
+JavaScript
+XML
+Spring Framework
+Multithreading
+Struts
+OSGi
+Servlets
+Web Services
+Spring
+PowerCenter
+TDM
+Informatica
+Rap
+Hibernate
+Java Enterprise Edition
+Agile Methodologies
+Java
+39 
+
+PL/SQL
+Tortoise SVN
+Oracle Database
+JavaScript
+JSON
+Web 2.0
+JSP
+ADF UI
+Eclipse
+RTC
+Spring MVC
+ADFm
+J2EE
+MySQL
+CVS
+ADE
+Java
+Sun Certified Java Programmer
+40 
+
+Business Analysis
+Due Diligence
+Enterprise Valuation
+Valuation
+Analytics
+M&A experience
+Mergers & Acquisitions
+Equity Valuation
+LBO
+Competitive Analysis
+Financial Advisory
+Business Development
+Securities Regulations
+DCF
+Business Valuation
+Strategy
+Management
+Risk Management
+Venture Capital
+Private Equity
+Start-ups
+Investment Banking
+Entrepreneurship
+Corporate Finance
+Financial Modeling
+41 
+
+Cross-functional Team Leadership
+Data Migration
+Enterprise Architecture
+Team Management
+Perl
+ERP
+Perl Script
+Project Management
+Business Analytics
+Unix
+PMO
+Requirements Gathering
+SDLC
+Business Intelligence
+Cognos
+Program Management
+Management
+Software Project Management
+Requirements Analysis
+Project Office Management
+Quality Assurance
+Agile Methodologies
+MS Project
+Microsoft Project
+Testing
+Oracle
+42 
+
+Algorithms
+Visual C++
+MapReduce
+Visual Basic
+Software Design
+XML
+Data Structures
+Perl
+Distributed Systems
+JSP
+Eclipse
+Linux
+Spring
+C
+MySQL
+Shell Scripting
+Design Patterns
+Java Enterprise Edition
+Software Engineering
+Programming
+Java
+Hadoop
+Software Development
+43 
+
+Device Drivers
+GPFS
+Power Systems
+Platform LSF
+KVM
+Perl
+Distributed Systems
+Agile
+Business Analytics
+Unix
+AIX
+Databases
+Technical Enablement
+Grid Computing
+PowerVM
+Business Intelligence
+Test Automation
+Linux
+Embedded Systems
+DWH
+ISV
+Value Propositions
+SAS Grid
+Software Quality Assurance
+C
+Software Project Management
+Performance Benchmarking
+C++
+IT Infrastructure Management
+IBM XIV
+Shell Scripting
+Quality Assurance
+Teradata
+Performance Tuning
+Cloud Computing
+Software Development
+Solaris
+Linux KVM
+Flash Storage
+Technical Architecture
+SQL
+44 
+
+Architecture
+Integration
+CXF
+Software Design
+JavaScript
+Mobile Technology
+XML
+Spring Framework
+SOA
+Maven
+FindBugs
+JSF
+JSP
+Eclipse
+Websphere
+Unix
+Application Lifecycle Management
+JBoss Application Server
+Weblogic
+Struts
+OSGi
+JPA
+Servlets
+SDLC
+Search Engine Technology
+WebSphere Application Server
+Dojo
+Web Services
+EJB
+Spring
+DB2
+Hibernate
+Node.js
+Requirements Analysis
+MySQL
+Big Data
+MagicDraw
+Continuous Integration
+Design Patterns
+Java Enterprise Edition
+Software Engineering
+Tomcat
+Agile Methodologies
+Java
+Oracle
+JDBC
+SOAP
+45 
+
+PL/SQL
+Data Warehousing
+Customer Analytics
+ETL Tools
+ETL
+Project Management
+Business Analytics
+Unix
+Business Intelligence
+Data Mining
+Mainframe
+Process Improvement
+Unix Shell Scripting
+Informatica
+Requirements Analysis
+Shell Scripting
+Java
+Testing
+Oracle
+SQL
+46 
+
+Business Strategy
+Analytics
+Quantitative Analytics
+Business Analytics
+Risk Management
+Equity Research
+Foreign Exchange Management
+Java
+Banking
+Foreign Exchange Risk Management
+Financial Modeling
+47 
+
+Oracle RAC
+JavaScript
+Workload Modeling
+PaaS
+Scalability
+Oracle ASM
+OATS
+Weblogic
+WebSphere Application Server
+Cloud Solution Sizing
+Infrastructure Capacity Planning
+LoadRunner
+IaaS
+Performance Engineering
+Big Data
+Shell Scripting
+Java
+Pre-Sales Technical Consulting
+48 
+
+Core Java
+Unix
+Databases
+Python
+Linux
+Unix Shell Scripting
+C
+C++
+Virtualization
+openstack
+Shell Scripting
+Java
+Oracle
+49 
+

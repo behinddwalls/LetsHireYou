@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>SRINIVAS P RAJU</FormattedName>
+				<GivenName>SRINIVAS</GivenName>
+				<MiddleName>P</MiddleName>
+				<FamilyName>RAJU</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+918861236276</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>Srinivas.raju2608@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Global Analytics centre</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Analyst</Title>
+					<OrgName>
+						<OrganizationName>Global Analytics centre</OrganizationName>
+					</OrgName>
+					<Description>HSBC (Global Analytics centre)
+Analyst		May 2014 -Present
+
+* Using analytical tools to identify scenarios and build models using concepts of Segmentation, clustering, account risk scoring and investigate breach of regulatory guidelines and money laundering activities of the Customers of the Organization.
+* Simultaneously worked on SAS, Teradata, Spotfire, excel to develop models that help in identifying money laundering activities.
+* As an analyst, interacting with HSBC Business Partners, understanding their requirements, data and develop/recommend appropriate algorithms and models for effective Anti-money laundering.
+* Imparted Business and Technical training on new models that were developed by our team under Compliance Structure.</Description>
+					<StartDate>
+						<AnyDate>2014-05-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-07-07</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>28</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>56</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>IT and Software Development Centre</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Section Officer</Title>
+					<OrgName>
+						<OrganizationName>IT and Software Development Centre</OrganizationName>
+					</OrgName>
+					<Description>IT and Software Development Centre at C.G.D.A
+Section Officer		July 2011 - June 2012
+* Worked in National IT projects named Dolphin and Skylark on JAVA, SQL platform
+* Imparted IT training to officers in Defence Accounts Department
+* Developed JAVA modules and customized web interfaces on Army based monthly PBOR pay system.
+* As a Section Officer, Interacting with Army Officers, understanding their payment systems and accordingly implement the changes in the system.
+Key Achievements</Description>
+					<StartDate>
+						<AnyDate>2011-07-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-06-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>25</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>83</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Underwent Intensive Departmental Management Training</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>UTTAR PRADESH</Region>
+							<Municipality>Meerut</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>* Underwent Intensive Departmental Management Training at Meerut		2012
+* Part of the Dolphin project which was awarded 'RAKSHA MANTRI' Award from defence minister Sh. A.K. Antony          2011</Description>
+					<StartDate>
+						<AnyDate>2012-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:PositionTitleProbability>14</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>69</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Avaya India Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Associate Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Avaya India Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description>Avaya India Pvt. Ltd.
+Associate Software Engineer		June 2009 - June 2011
+* Resolved business critical cases of EMEA customers pertaining to enterprise communications systems
+* Direct interaction with the Business Partners of AVAYA and recommend or Suggest appropriate communications systems in liaison with the sales team.
+* Worked on Services such as Unified Communications, contact centers and other enterprise communication systems
+* Responsible for recruitment of new engineers for business operations
+* Played the role of incidence management for the EMEA region
+Key Achievements
+* Selected for an Advanced Training Program on new server technology of Nortel held in China
+* Received the "You Made a Difference" award
+* Certified in Nortel Technology as technology specialist, technology expert &amp; support specialist</Description>
+					<StartDate>
+						<AnyDate>2009-06-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2011-06-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbability>24</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>31</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>71</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Convergence International Network Technologies</EmployerOrgName>
+				<PositionHistory positionType="internship">
+					<Title>SUMMER INTERNSHIP</Title>
+					<OrgName>
+						<OrganizationName>Convergence International Network Technologies</OrganizationName>
+					</OrgName>
+					<Description>SUMMER INTERNSHIP
+* Convergence International Network Technologies		Apr 2013- May 2013
+Dealer Network Development using Marketing strategy for Convergence International Network Technologies
+* Develop a Marketing strategy for CINT to enter in to the retail market.
+* Build Dealer Contacts in NCR Region and promote the CINT products.</Description>
+					<StartDate>
+						<AnyDate>2013-04-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-05-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbability>18</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>23</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>85</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>CBIT</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>CBIT</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>ACADEMIC PROJECTS
+CBIT, Hyderabad
+* Electronic Nose		2008
+* Used sensors, microcontroller concept to understand the impact of electronic nose in society
+* Presented a technical paper on the same at MGIT and ASTR academy
+* Developed a robot and participated in Robomaniac-Pokemon competition at MGIT    2008
+
+IIM,
+Rohtak
+
+* Dalmia Healthcare
+* Conducted a marketing survey for the market entry of a Dalmia product in the OTC segment
+* Analysed quantitatively the feasibility of the success of the product.
+
+* A study on Siebel Implementation in Tata Motor's Dealer Management Systems
+* Studied various parameters involved during ERP selection, implementation methodology &amp; challenges of Siebel as DMS at Tata Motors.
+Directly interacted with the Technology Architech at Tata Motors and analyzed various process changes occurred during implementation.
+Analyzed the impact of Siebel implementation on process improvements and sales.
+
+Zenesys
+Consulting
+
+* Competitive Landscape analysis for Start ups in Various Domains
+* DigiMarketing: More screens more flexible technology. Way ahead
+
+POSITIONS OF RESPONSIBILITY</Description>
+					<StartDate>
+						<AnyDate>2008-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2008-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbability>13</sov:CompanyNameProbability>
+							<sov:OffsetOfFarthestDataFound>56</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>IRIC Committee at IIM Rohtak</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Coordinator</Title>
+					<OrgName>
+						<OrganizationName>IRIC Committee at IIM Rohtak</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>HARYANA</Region>
+							<Municipality>Rohtak</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Coordinator, IRIC Committee at IIM Rohtak		2012
+* Responsible for interacting with industry personnel for guest lectures and live projects</Description>
+					<StartDate>
+						<AnyDate>2012-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:CompanyNameProbability>18</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>46</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Member</Title>
+					<OrgName>
+						<OrganizationName>HR Summit at IIM Rohtak</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>HARYANA</Region>
+							<Municipality>Rohtak</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Member, HR Summit at IIM Rohtak		2012
+* Responsible for onstage monitoring and assisting the invited guests</Description>
+					<StartDate>
+						<AnyDate>2012-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-10</sov:Id>
+							<sov:CompanyNameProbability>17</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>20</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>36</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="contract">
+					<Title>Volunteer</Title>
+					<OrgName>
+						<OrganizationName>Marathon for Girl Child</OrganizationName>
+					</OrgName>
+					<Description>Volunteer, Marathon for Girl Child		2012
+* Responsible for assisting the participants for registration and monitoring the campaign run.</Description>
+					<StartDate>
+						<AnyDate>2012-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-11</sov:Id>
+							<sov:CompanyNameProbability>10</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>21</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>39</sov:OffsetOfFarthestDataFound>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="contract">
+					<Title>Volunteer, CXO Summit</Title>
+					<OrgName>
+						<OrganizationName>IIM Rohtak</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>HARYANA</Region>
+							<Municipality>Rohtak</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Volunteer, CXO Summit at IIM Rohtak		2012
+* Responsible for assisting the invited guests at the campus</Description>
+					<StartDate>
+						<AnyDate>2012-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-12</sov:Id>
+							<sov:CompanyNameProbability>15</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>40</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Member</Title>
+					<OrgName>
+						<OrganizationName>Management Conclave</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>HARYANA</Region>
+							<Municipality>Rohtak</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Member, Management Conclave at IIM Rohtak		2012
+* Responsible for execution of the smooth conduct of the event being an IRIC member.
+
+KEY ACHIEVEMENTS AND SKILLS
+* Certified as Google Adwords Professional in 2013, May
+* Certified as Google Analytics Professional in 2013, June
+* Selected for the regional round of Hult Global Challenge 2013, Shanghai
+* Proficient in the area of SAS Statistical Business analysis
+* Proficient with working of SPSS
+* Secured a place in Student leadership Board (Topping the course) twice in the first two trimesters of Zenesys Consulting.</Description>
+					<StartDate>
+						<AnyDate>2012-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-13</sov:Id>
+							<sov:CompanyNameProbability>15</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>21</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>46</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>COMMUNICANDO</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Coordinator</Title>
+					<OrgName>
+						<OrganizationName>COMMUNICANDO</OrganizationName>
+					</OrgName>
+					<Description>Coordinator, "COMMUNICANDO" at CBIT		2007-09
+* The club is responsible for developing and enhancing various personality development skills of CBIT students</Description>
+					<StartDate>
+						<AnyDate>2007-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2009-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-8</sov:Id>
+							<sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>43</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Member</Title>
+					<OrgName>
+						<OrganizationName>Organizing Committee</OrganizationName>
+					</OrgName>
+					<Description>Member, Organizing Committee in "SHRUTHI" at CBIT		2008
+* Organized intra college General Knowledge Quiz event</Description>
+					<StartDate>
+						<AnyDate>2008-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2008-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-9</sov:Id>
+							<sov:CompanyNameProbability>16</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>20</sov:PositionTitleProbability>
+							<sov:OffsetOfFarthestDataFound>54</sov:OffsetOfFarthestDataFound>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Indian Institute of Management</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>HARYANA</Region>
+					<Municipality>Rohtak</Municipality>
+				</PostalAddress>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PGDM</DegreeName>
+					<DegreeDate>
+						<AnyDate>2014-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>6.41</StringValue>
+							</MeasureValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2014-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Year   Qualification	Institute	%/C.G.P.A
+2014   PGDM	Indian Institute of Management Rohtak   6.41</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Chaitanya Bharathi Institute of Technology</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad </Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.E</DegreeName>
+					<DegreeDate>
+						<AnyDate>2009-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>ECE</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>82.90</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2009-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2009   B.E (ECE)	Chaitanya Bharathi Institute of Technology, Hyderabad   82.90 %</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.829</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="highschool">
+				<School>
+					<SchoolName>Narayana Junior College</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad </Municipality>
+				</PostalAddress>
+				<Degree degreeType="high school or equivalent">
+					<DegreeName>Class XII</DegreeName>
+					<DegreeDate>
+						<AnyDate>2005-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>A.P. State Board</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>95.70</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2005-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2005   Class XII (A.P. State Board)   Narayana Junior College, Hyderabad      95.70 %</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.957</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="highschool">
+				<School>
+					<SchoolName>Samaritans High School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad </Municipality>
+				</PostalAddress>
+				<Degree degreeType="some high school or equivalent">
+					<DegreeName>Class X</DegreeName>
+					<DegreeDate>
+						<AnyDate>2003-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>ICSE</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>74.50</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2003-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2003   Class X (ICSE)	Samaritans High School, Hyderabad       74.50 %
+ACADEMIC DISTINCTIONS</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-4</sov:Id>
+							<sov:NormalizedGPA>0.745</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>NIIT</SchoolName>
+				</School>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2008-01-01</AnyDate>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2008-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>* Secured top 3 percentile in 4th NIIT National IT Aptitude Test in 2008</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-5</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>* Certified Google Adwords and Google Analytics Professional.</Name>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified as Google Adwords Professional</Name>
+				<Description>certification</Description>
+				<EffectiveDate>
+					<FirstIssuedDate>
+						<AnyDate>2013-05-01</AnyDate>
+					</FirstIssuedDate>
+				</EffectiveDate>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified as Google Analytics Professional</Name>
+				<Description>certification</Description>
+				<EffectiveDate>
+					<FirstIssuedDate>
+						<AnyDate>2013-06-01</AnyDate>
+					</FirstIssuedDate>
+				</EffectiveDate>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary></QualificationSummary>
+			<Competency name="TRAINING">
+				<CompetencyId id="200064" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="TRAINING" typeDescription="Found in WORK HISTORY; POS-1; POS-2; POS-3; POS-4" typeId="200064" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">61</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AWARD">
+				<CompetencyId id="030006" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AWARD" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-3; POS-4" typeId="030006" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">36</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES">
+				<CompetencyId id="007359" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES" typeDescription="Found in WORK HISTORY; POS-4; POS-6" typeId="007359" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">36</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="007445" />
+				<TaxonomyId id="341" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-13" typeId="007445" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="100728601" idOwner="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-13" typeId="100728601" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="1400078" />
+				<TaxonomyId id="588" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-13" typeId="1400078" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5540979" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-13" typeId="5540979" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="5551185" />
+				<TaxonomyId id="555" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-13" typeId="5551185" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SAS">
+				<CompetencyId id="9000114" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SAS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-13" typeId="9000114" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="Serial Attached SCSI">
+				<CompetencyId id="1007286" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="Serial Attached SCSI" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-13" typeId="1007286" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">26</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ASSOCIATE">
+				<CompetencyId id="004917" />
+				<TaxonomyId id="500" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="ASSOCIATE" typeDescription="Found in WORK HISTORY; POS-4" typeId="004917" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AVAYA">
+				<CompetencyId id="008496" />
+				<TaxonomyId id="347" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="AVAYA" typeDescription="Found in PROFESSIONAL AFFILIATIONS; WORK HISTORY; POS-4" typeId="008496" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AVAYA">
+				<CompetencyId id="024146" />
+				<TaxonomyId id="128" idOwner="46" description="Sovren" />
+				<CompetencyEvidence name="AVAYA" typeDescription="Found in PROFESSIONAL AFFILIATIONS; WORK HISTORY; POS-4" typeId="024146" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS OPERATIONS">
+				<CompetencyId id="012214" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS OPERATIONS" typeDescription="Found in WORK HISTORY; POS-4" typeId="012214" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMMUNICATION SYSTEMS">
+				<CompetencyId id="013979" />
+				<TaxonomyId id="318" idOwner="16" description="Sovren" />
+				<CompetencyEvidence name="COMMUNICATION SYSTEMS" typeDescription="Found in WORK HISTORY; POS-4" typeId="013979" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMMUNICATION SYSTEMS">
+				<CompetencyId id="023248" />
+				<TaxonomyId id="146" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="COMMUNICATION SYSTEMS" typeDescription="Found in WORK HISTORY; POS-4" typeId="023248" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMMUNICATIONS SYSTEMS">
+				<CompetencyId id="013988" />
+				<TaxonomyId id="318" idOwner="16" description="Sovren" />
+				<CompetencyEvidence name="COMMUNICATIONS SYSTEMS" typeDescription="Found in WORK HISTORY; POS-4" typeId="013988" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMMUNICATIONS SYSTEMS">
+				<CompetencyId id="013989" idOwner="080517" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="COMMUNICATIONS SYSTEMS" typeDescription="Found in WORK HISTORY; POS-4" typeId="013989" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ENGINEER">
+				<CompetencyId id="080540" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ENGINEER" typeDescription="Found in WORK HISTORY; POS-4" typeId="080540" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ENGINEER">
+				<CompetencyId id="080650" />
+				<TaxonomyId id="263" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ENGINEER" typeDescription="Found in WORK HISTORY; POS-4" typeId="080650" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LIAISON">
+				<CompetencyId id="020733" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="LIAISON" typeDescription="Found in WORK HISTORY; POS-4" typeId="020733" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NORTEL">
+				<CompetencyId id="026665" />
+				<TaxonomyId id="319" idOwner="16" description="Sovren" />
+				<CompetencyEvidence name="NORTEL" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-4" typeId="026665" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPERATIONS">
+				<CompetencyId id="003875" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="OPERATIONS" typeDescription="Found in WORK HISTORY; POS-4" typeId="003875" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RECRUITMENT">
+				<CompetencyId id="006646" />
+				<TaxonomyId id="190" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="RECRUITMENT" typeDescription="Found in WORK HISTORY; POS-4" typeId="006646" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RECRUITMENT">
+				<CompetencyId id="006647" />
+				<TaxonomyId id="492" idOwner="37" description="Sovren" />
+				<CompetencyEvidence name="RECRUITMENT" typeDescription="Found in WORK HISTORY; POS-4" typeId="006647" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES TEAM">
+				<CompetencyId id="030830" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SALES TEAM" typeDescription="Found in WORK HISTORY; POS-4" typeId="030830" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SOFTWARE ENGINEER">
+				<CompetencyId id="008220" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SOFTWARE ENGINEER" typeDescription="Found in WORK HISTORY; POS-4" typeId="008220" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SYSTEMS ENGINEERING">
+				<CompetencyId id="080517" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SYSTEMS ENGINEERING" typeDescription="Found in WORK HISTORY; POS-4" typeId="080517" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="THE SALES">
+				<CompetencyId id="030922" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="THE SALES" typeDescription="Found in WORK HISTORY; POS-4" typeId="030922" lastUsed="2011-06-01">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ALGORITHMS">
+				<CompetencyId id="017446" />
+				<TaxonomyId id="243" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHMS" typeDescription="Found in WORK HISTORY; POS-1" typeId="017446" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ALGORITHMS">
+				<CompetencyId id="024338" />
+				<TaxonomyId id="298" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ALGORITHMS" typeDescription="Found in WORK HISTORY; POS-1" typeId="024338" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLUSTERING">
+				<CompetencyId id="013564" />
+				<TaxonomyId id="198" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CLUSTERING" typeDescription="Found in WORK HISTORY; POS-1" typeId="013564" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLUSTERING">
+				<CompetencyId id="3490022" />
+				<TaxonomyId id="349" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CLUSTERING" typeDescription="Found in WORK HISTORY; POS-1" typeId="3490022" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLUSTERING">
+				<CompetencyId id="5530921" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CLUSTERING" typeDescription="Found in WORK HISTORY; POS-1" typeId="5530921" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLUSTERING">
+				<CompetencyId id="5551333" />
+				<TaxonomyId id="555" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CLUSTERING" typeDescription="Found in WORK HISTORY; POS-1" typeId="5551333" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EXCELLENT MULTITASKER">
+				<CompetencyId id="031016" />
+				<TaxonomyId id="532" idOwner="90" description="Sovren" />
+				<CompetencyEvidence name="EXCELLENT MULTITASKER" typeDescription="Found in WORK HISTORY; POS-1" typeId="031016" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SEGMENTATION">
+				<CompetencyId id="1400105" />
+				<TaxonomyId id="590" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SEGMENTATION" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400105" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SIMULTANEOUSLY">
+				<CompetencyId id="0310163" idOwner="031016" />
+				<TaxonomyId id="532" idOwner="90" description="Sovren" />
+				<CompetencyEvidence name="SIMULTANEOUSLY" typeDescription="Found in WORK HISTORY; POS-1" typeId="0310163" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPOTFIRE">
+				<CompetencyId id="5540982" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SPOTFIRE" typeDescription="Found in WORK HISTORY; POS-1" typeId="5540982" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TERADATA">
+				<CompetencyId id="026472" />
+				<TaxonomyId id="197" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="TERADATA" typeDescription="Found in WORK HISTORY; POS-1" typeId="026472" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TERADATA">
+				<CompetencyId id="5530864" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="TERADATA" typeDescription="Found in WORK HISTORY; POS-1" typeId="5530864" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TERADATA">
+				<CompetencyId id="5540987" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="TERADATA" typeDescription="Found in WORK HISTORY; POS-1" typeId="5540987" lastUsed="2015-07-07">
+					<NumericValue description="Total Months">14</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING">
+				<CompetencyId id="021241" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING" typeDescription="Found in TRAINING; WORK HISTORY; POS-5; POS-6" typeId="021241" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">13</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS ANALYSIS">
+				<CompetencyId id="012194" />
+				<TaxonomyId id="246" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS ANALYSIS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-13" typeId="012194" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS ANALYSIS">
+				<CompetencyId id="024469" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="BUSINESS ANALYSIS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-13" typeId="024469" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="HR">
+				<CompetencyId id="019094" />
+				<TaxonomyId id="262" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="HR" typeDescription="Found in WORK HISTORY; POS-10" typeId="019094" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027121" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-13" typeId="027121" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="027122" />
+				<TaxonomyId id="233" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-13" typeId="027122" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SPSS">
+				<CompetencyId id="9000110" />
+				<TaxonomyId id="577" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="SPSS" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-13" typeId="9000110" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="AND SALES">
+				<CompetencyId id="030280" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="AND SALES" typeDescription="Found in WORK HISTORY; POS-6" typeId="030280" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DMS">
+				<CompetencyId id="015532" />
+				<TaxonomyId id="317" idOwner="16" description="Sovren" />
+				<CompetencyEvidence name="DMS" typeDescription="Found in WORK HISTORY; POS-6" typeId="015532" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DMS">
+				<CompetencyId id="015533" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="DMS" typeDescription="Found in WORK HISTORY; POS-6" typeId="015533" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="EMPLOYEE RESOURCE GROUP">
+				<CompetencyId id="9000074" />
+				<TaxonomyId id="574" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="EMPLOYEE RESOURCE GROUP" typeDescription="Found in WORK HISTORY; POS-6" typeId="9000074" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ENTERPRISE RESOURCE PLANNING">
+				<CompetencyId id="5530983" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ENTERPRISE RESOURCE PLANNING" typeDescription="Found in WORK HISTORY; POS-6" typeId="5530983" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ERP">
+				<CompetencyId id="016891" />
+				<TaxonomyId id="195" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ERP" typeDescription="Found in WORK HISTORY; POS-6" typeId="016891" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ERP">
+				<CompetencyId id="016892" />
+				<TaxonomyId id="460" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="ERP" typeDescription="Found in WORK HISTORY; POS-6" typeId="016892" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ERP">
+				<CompetencyId id="5530984" idOwner="5530983" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="ERP" typeDescription="Found in WORK HISTORY; POS-6" typeId="5530984" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ERP">
+				<CompetencyId id="9000075" idOwner="9000074" />
+				<TaxonomyId id="574" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="ERP" typeDescription="Found in WORK HISTORY; POS-6" typeId="9000075" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FEASIBILITY">
+				<CompetencyId id="026574" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="FEASIBILITY" typeDescription="Found in WORK HISTORY; POS-6" typeId="026574" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FEASIBILITY">
+				<CompetencyId id="026575" />
+				<TaxonomyId id="328" idOwner="6" description="Sovren" />
+				<CompetencyEvidence name="FEASIBILITY" typeDescription="Found in WORK HISTORY; POS-6" typeId="026575" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="HEALTHCARE">
+				<CompetencyId id="018806" />
+				<TaxonomyId id="158" idOwner="95" description="Sovren" />
+				<CompetencyEvidence name="HEALTHCARE" typeDescription="Found in WORK HISTORY; POS-6" typeId="018806" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PROCESS IMPROVEMENTS">
+				<CompetencyId id="022652" />
+				<TaxonomyId id="143" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="PROCESS IMPROVEMENTS" typeDescription="Found in WORK HISTORY; POS-6" typeId="022652" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ROBOT">
+				<CompetencyId id="080867" />
+				<TaxonomyId id="137" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="ROBOT" typeDescription="Found in WORK HISTORY; POS-6" typeId="080867" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SENSORS">
+				<CompetencyId id="007774" />
+				<TaxonomyId id="207" idOwner="13" description="Sovren" />
+				<CompetencyEvidence name="SENSORS" typeDescription="Found in WORK HISTORY; POS-6" typeId="007774" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SENSORS">
+				<CompetencyId id="080467" />
+				<TaxonomyId id="307" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SENSORS" typeDescription="Found in WORK HISTORY; POS-6" typeId="080467" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SENSORS">
+				<CompetencyId id="080737" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SENSORS" typeDescription="Found in WORK HISTORY; POS-6" typeId="080737" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SENSORS">
+				<CompetencyId id="080807" />
+				<TaxonomyId id="143" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="SENSORS" typeDescription="Found in WORK HISTORY; POS-6" typeId="080807" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SIEBEL">
+				<CompetencyId id="025442" />
+				<TaxonomyId id="195" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SIEBEL" typeDescription="Found in WORK HISTORY; POS-6" typeId="025442" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SIEBEL">
+				<CompetencyId id="025444" />
+				<TaxonomyId id="279" idOwner="46" description="Sovren" />
+				<CompetencyEvidence name="SIEBEL" typeDescription="Found in WORK HISTORY; POS-6" typeId="025444" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SIEBEL">
+				<CompetencyId id="081119" />
+				<TaxonomyId id="106" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SIEBEL" typeDescription="Found in WORK HISTORY; POS-6" typeId="081119" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SIEBEL">
+				<CompetencyId id="081148" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="SIEBEL" typeDescription="Found in WORK HISTORY; POS-6" typeId="081148" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SIEBEL">
+				<CompetencyId id="5540980" />
+				<TaxonomyId id="554" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SIEBEL" typeDescription="Found in WORK HISTORY; POS-6" typeId="5540980" lastUsed="2008-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="IT TRAINING">
+				<CompetencyId id="020237" />
+				<TaxonomyId id="115" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="IT TRAINING" typeDescription="Found in WORK HISTORY; POS-2" typeId="020237" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="JAVA">
+				<CompetencyId id="023328" />
+				<TaxonomyId id="339" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="JAVA" typeDescription="Found in WORK HISTORY; POS-2" typeId="023328" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SQL">
+				<CompetencyId id="008481" />
+				<TaxonomyId id="193" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="SQL" typeDescription="Found in WORK HISTORY; POS-2" typeId="008481" lastUsed="2012-06-01">
+					<NumericValue description="Total Months">11</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="C++">
+				<CompetencyId id="012287" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="C++" typeDescription="Found in TRAINING" typeId="012287">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DIGITAL CAMPAIGN">
+				<CompetencyId id="1400380" />
+				<TaxonomyId id="595" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="DIGITAL CAMPAIGN" typeDescription="Found in TRAINING" typeId="1400380">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DIGITAL MARKETING">
+				<CompetencyId id="1400381" idOwner="1400380" />
+				<TaxonomyId id="595" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="DIGITAL MARKETING" typeDescription="Found in TRAINING" typeId="1400381">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DIGITAL MARKETING">
+				<CompetencyId id="1400390" />
+				<TaxonomyId id="599" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="DIGITAL MARKETING" typeDescription="Found in TRAINING" typeId="1400390">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING CAMPAIGN">
+				<CompetencyId id="1400308" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING CAMPAIGN" typeDescription="Found in TRAINING" typeId="1400308">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING CAMPAIGN">
+				<CompetencyId id="1400348" />
+				<TaxonomyId id="592" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING CAMPAIGN" typeDescription="Found in TRAINING" typeId="1400348">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="UG">
+				<CompetencyId id="010087" />
+				<TaxonomyId id="357" idOwner="4" description="Sovren" />
+				<CompetencyEvidence name="UG" typeDescription="Found in TRAINING" typeId="010087">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CLASS">
+				<CompetencyId id="5530927" idOwner="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="CLASS" typeDescription="Found in EDUCATION; DEG-3; DEG-4" typeId="5530927" lastUsed="2005-01-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM">
+				<CompetencyId id="5530926" />
+				<TaxonomyId id="553" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="COMPREHENSIVE LARGE ARRAY DATA STEWARDSHIP SYSTEM" typeDescription="Found in EDUCATION; DEG-3; DEG-4" typeId="5530926" lastUsed="2005-01-01">
+					<NumericValue description="Total Months">2</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING STRATEGY">
+				<CompetencyId id="021254" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING STRATEGY" typeDescription="Found in WORK HISTORY; POS-5" typeId="021254" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING STRATEGY">
+				<CompetencyId id="1400003" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING STRATEGY" typeDescription="Found in WORK HISTORY; POS-5" typeId="1400003" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING STRATEGY">
+				<CompetencyId id="1400141" />
+				<TaxonomyId id="592" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="MARKETING STRATEGY" typeDescription="Found in WORK HISTORY; POS-5" typeId="1400141" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NCR">
+				<CompetencyId id="003312" />
+				<TaxonomyId id="197" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="NCR" typeDescription="Found in WORK HISTORY; POS-5" typeId="003312" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="030018" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="RETAIL" typeDescription="Found in WORK HISTORY; POS-5" typeId="030018" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="1400216" idOwner="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="RETAIL" typeDescription="Found in WORK HISTORY; POS-5" typeId="1400216" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL MARKETING">
+				<CompetencyId id="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="RETAIL MARKETING" typeDescription="Found in WORK HISTORY; POS-5" typeId="1400215" lastUsed="2013-05-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>ACADEMIC DISTINCTIONS</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Part of the Dolphin project which was awarded 'RAKSHA MANTRI' Award from defence minister Sh. A.K. Antony          2011</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Received the "You Made a Difference" award</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Certified as Google Adwords Professional in 2013, May</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Certified as Google Analytics Professional in 2013, June</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Selected for the regional round of Hult Global Challenge 2013, Shanghai</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Proficient in the area of SAS Statistical Business analysis</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Proficient with working of SPSS</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Secured a place in Student leadership Board (Topping the course) twice in the first two trimesters of Zenesys Consulting</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Rockers club at Avaya</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+			<Association>
+				<Name>Ran a successful Google Adwords campaign for Burrp, a subsidiary of Network 18 in</Name>
+				<EndDate>
+					<AnyDate>2013-01-01</AnyDate>
+				</EndDate>
+			</Association>
+		</Associations>
+		<RevisionDate>2015-07-07</RevisionDate>
+	</StructuredXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>SRINIVAS P RAJU's experience appears to be concentrated in Information Technology / Programming, with exposure to Marketing / Data &amp; Analytics. SRINIVAS P RAJU has 8 years of work experience, with little or no management experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>93</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>8</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>12</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>1</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>100</sov:HighestManagementScore>
+				<sov:ExecutiveType>general</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 1/1/2012, the candidate held the following executive-level management position for 12 months:
+	Title: Volunteer, CXO Summit for IRIC Committee at IIM Rohtak, IIM Rohtak</sov:ManagementStory>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="2590.08" percentOfOverall="21.80" percentOfParent="21.80">
+						<sov:BestFitTaxonomy id="204" rootId="Sovren" name="Programming" weight="473.28" percentOfOverall="3.98" percentOfParent="18.27" />
+						<sov:BestFitTaxonomy id="554" rootId="Sovren" name="Business Intelligence" weight="460.22" percentOfOverall="3.87" percentOfParent="17.77" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="14" rootId="Sovren" name="Marketing" weight="1693.06" percentOfOverall="14.25" percentOfParent="14.25">
+						<sov:BestFitTaxonomy id="588" rootId="Sovren" name="Data &amp; Analytics" weight="559.87" percentOfOverall="4.71" percentOfParent="33.07" />
+						<sov:BestFitTaxonomy id="249" rootId="Sovren" name="General" weight="419.90" percentOfOverall="3.53" percentOfParent="24.80" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Hobbies>
+				<sov:Text>Thoroughly enjoy playing cricket &amp; lawn tennis
+* Secured 3rd place in the event of Tennis at Infusion 2013.</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="4" ends="17" sectionType="EDUCATION">ACADEMIC QUALIFICATIONS</sov:Section>
+				<sov:Section starts="18" ends="103" sectionType="WORK HISTORY">PROFESSIONAL EXPERIENCE</sov:Section>
+				<sov:Section starts="104" ends="108" sectionType="PROFESSIONAL AFFILIATIONS">EXTRA CURRICULAR ACTIVITIES</sov:Section>
+				<sov:Section starts="109" ends="114" sectionType="HOBBIES">Other interests</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>8263</sov:ParsedTextLength>
+			<sov:ParseTime>750</sov:ParseTime>
+			<sov:LicenseSerialNumber>dd384fb4-21b1-4e51-b216-d60f4d2c7487</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>_100001_0_00000001_1101010110001100_1_0000000000000111111102000000000010000100000000000000000000100</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.3.7300.15</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+	<!--  Parser Version: 7.3.7300.15  -->
+</Resume>
